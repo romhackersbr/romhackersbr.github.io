@@ -8,7 +8,7 @@ layout: page
   </div>
   <div class="card-body">
     <div class="container">
-      <div class="row align-items-center">
+      <div class="row justify-content-center py-4">
         <!-- Imagem em destaque da Tradução -->
         <div class="col-3">
           <img src="{{ page.featured }}" alt="Imagem em destaque de {{ page.patch_name }}" class="img-fluid" />
@@ -31,9 +31,9 @@ layout: page
                 <th scope="row">Tipo</th>
                 <td>
                   <ul class="list-group">
-                  {% for item in page.type %}
+                    {% for item in page.type %}
                     <li class="badge badge-success m-1">{{ item }}</li>
-                  {% endfor %}
+                    {% endfor %}
                   </ul>
                 </td>
               </tr>
@@ -57,9 +57,9 @@ layout: page
                 <th scope="row">Tradutor(es)</th>
                 <td>
                   <ul class="list-group">
-                  {% for item in page.author %}
+                    {% for item in page.author %}
                     <li class="badge badge-success m-1">{{ item }}</li>
-                  {% endfor %}
+                    {% endfor %}
                   </ul>
                 </td>
               </tr>
