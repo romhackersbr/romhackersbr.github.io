@@ -43,11 +43,13 @@ layout: compress
   <!-- Menu Lateral -->
   <div class="menu-lateral bg-white" id="sidebar">
     <div class="py-4 px-3 mb-4 bg-light text-center">
-      <div class="media d-flex align-items-center">
-        <img src="{{ '/assets/svg/logo.svg' | prepend: site.baseurl }}" alt="" width="200" class="mr-3 img-thumbnail">
+      <div class="card">
+        <img src="{{ '/assets/svg/logo.svg' | prepend: site.baseurl }}" alt="" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">{{ site.title }}</h5>
+          <p class="card-text">{{ site.description }}</p>
+        </div>
       </div>
-      <h4 class="m-0">{{ site.title }}</h4>
-      <p class="font-weight-light text-muted mb-0">{{ site.description }}</p>
     </div>
 
     {% include menu-principal.html %}
