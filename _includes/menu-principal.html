@@ -1,0 +1,13 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12">
+      <ul id="menu-principal" class="nav flex-column">
+      {% assign menus = site.pages | where_exp: "item" , "item.menu == true" | sort: "menu_order" | uniq  %}
+      {% for item in menus %}
+        <li id="menu-principal-{{ item.title | slugify }}" class="nav-item">
+          <a class="nav-link text-white" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+        </li>
+      {% endfor %}
+    </div>
+  </div>
+</div>

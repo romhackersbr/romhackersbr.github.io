@@ -1,0 +1,24 @@
+---
+layout: page
+---
+{% if content.size > 5 %}
+<div class="card mb-10">
+  {% if page.featured %}
+  <img class="card-img-top"  src="{{ page.featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ page.title }}" />
+  {% endif %}
+  <div class="card-body">
+    <p class="card-text">{{ content }}</p>
+  </div>
+</div>
+{% endif %}
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+  {% assign traducoes = site.traducoes | where:"system", page.title %}
+  {% for traducao in traducoes %}
+    <li id="{{ traducao.url | slugify }}" class="list-group-item">
+      <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
+        {{ traducao.patch_name }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

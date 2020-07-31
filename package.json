@@ -1,0 +1,24 @@
+{
+  "name": "pobre-v2",
+  "version": "1.0.0",
+  "description": "Site do Pobre",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansbonini/pobre-v2.git"
+  },
+  "keywords": [
+    "pobre",
+    "romhacking",
+    "site"
+  ],
+  "author": "Hans Bonini (Anime_World)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hansbonini/pobre-v2/issues"
+  },
+  "homepage": "https://github.com/hansbonini/pobre-v2#readme"
+}

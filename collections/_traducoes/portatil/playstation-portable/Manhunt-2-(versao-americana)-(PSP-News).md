@@ -1,0 +1,22 @@
+---
+id: "877"
+patch_name: "Manhunt 2 (versão americana) (PSP News)"
+title: "Manhunt 2"
+featured: "http://www.romhackers.org/imagens/traducoes/[PSP] Manhunt 2 - PSP News - 1.jpg"
+type: ["Ação","Aventura"]
+players: 1
+developer: "Rockstar"
+publisher: "Rockstar"
+release_date: "29/10/2007"
+author: ["Dedevil e Caws"]
+group_name: "PSP News"
+group_site: ""
+patch_version: "???"
+patch_release: "29/10/2007"
+patch_format: "Arquivos traduzidos"
+patch_status: "???"
+platform: "Portátil"
+system: "PlayStation Portable"
+---
+
+Uma boa tradução. Os textos do jogo estão traduzidos e parcialmente acentuados. Nota-se alguns erros de digitação e elementos não traduzidos em raros momentos, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser usada na versão americana (ULUS-10280) do jogo Manhunt 2.

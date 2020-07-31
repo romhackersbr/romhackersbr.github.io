@@ -1,0 +1,86 @@
+---
+layout: page
+---
+<div class="card mb-10">
+  <div class="card-header text-center">
+    <!-- Titulo da Tradução -->
+    <h4>{{ page.patch_name }}</h4>
+  </div>
+  <div class="card-body">
+    <div class="container">
+      <div class="row">
+        <!-- Imagem em destaque da Tradução -->
+        <div class="col-4">
+          <img src="{{ page.featured }}" alt="Imagem em destaque de {{ page.patch_name }}" class="img-fluid" />
+        </div>
+        <!-- Detalhes da Tradução -->
+        <div class="col-8">
+          <table class="table">
+            <tbody>
+              <tr>
+                <th scope="row">Plataforma</th>
+                <td>{{ page.platform }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Sistema</th>
+                <td>{{ page.system }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Tipo</th>
+                <td>
+                  <ul class="list-group">
+                  {% for item in page.type %}
+                    <li class="list-group-item">{{ item }}</li>
+                  {% endfor %}
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Jogadores</th>
+                <td>{{ page.players }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Desenvolvedora</th>
+                <td>{{ page.developer }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Distribuidora</th>
+                <td>{{ page.publisher }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Data de Lançamento</th>
+                <td>{{ page.release_date }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Tradutor(es)</th>
+                <td>
+                  <ul class="list-group">
+                  {% for item in page.author %}
+                    <li class="list-group-item">{{ item }}</li>
+                  {% endfor %}
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Grupo Tradutor</th>
+                <td>{{ page.group_name }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!-- Separador da Descrição da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Descrição da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

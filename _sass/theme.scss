@@ -1,0 +1,49 @@
+/*
+// Botão Voltar (Scroll to Top)
+*/
+
+.scroll-top > a {
+    background-color: rgba(44, 42, 52, 0.3);
+    -webkit-box-shadow: 0 10px 20px 2px rgba(44, 42, 52, 0.15);
+    box-shadow: 0 10px 20px 2px rgba(44, 42, 52, 0.15);
+    color: #fff;
+    -webkit-transition: all 0.35s ease;
+    -o-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+    .scroll-top > a {
+        -webkit-transition: none;
+        -o-transition: none;
+        transition: none;
+    }
+}
+
+.scroll-top > a > i {
+    -webkit-transition: all 0.55s ease;
+    -o-transition: all 0.55s ease;
+    transition: all 0.55s ease;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+    .scroll-top > a > i {
+        -webkit-transition: none;
+        -o-transition: none;
+        transition: none;
+    }
+}
+
+.scroll-top > a:hover {
+    background-color: rgba(44, 42, 52, 0.6);
+    -webkit-box-shadow: 0 10px 25px 2px rgba(44, 42, 52, 0.25);
+    box-shadow: 0 10px 25px 2px rgba(44, 42, 52, 0.25);
+    text-decoration: none;
+    color: #fff;
+}
+
+.scroll-top > a:hover > i {
+    -webkit-transform: translateY(-4px);
+    -ms-transform: translateY(-4px);
+    transform: translateY(-4px);
+}
