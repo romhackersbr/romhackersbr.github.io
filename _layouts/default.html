@@ -43,7 +43,7 @@ layout: compress
   <!-- Menu Lateral -->
   <div class="menu-lateral bg-white" id="sidebar">
     <div class="py-4 px-3 mb-4 bg-light text-center">
-      <div class="card">
+      <div class="card p-4">
         <img src="{{ '/assets/svg/logo.svg' | prepend: site.baseurl }}" alt="" class="card-img-top">
         <div class="card-body">
           <h5 class="card-title">{{ site.title }}</h5>
@@ -60,9 +60,32 @@ layout: compress
   <!-- Contéudo da Página -->
   <div class="conteudo-principal p-5" id="content">
 
-    <button id="sidebarCollapse" type="button" class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4"><i
-        class="fa fa-bars mr-2"></i><small class="text-uppercase font-weight-bold">Toggle</small></button>
+    <!-- <button id="sidebarCollapse" type="button" class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4"><i
+        class="fa fa-bars mr-2"></i><small class="text-uppercase font-weight-bold">Toggle</small></button> -->
 
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+      <!-- Botão Mobile - Exibir Menu -->
+      <div class="exibir-menu">
+        <button type="button" role="button" class="btn btn-secondary" data-toggle="collapse" href="#menu-principal">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+
+      <!-- Logomarca -->
+      <a class="navbar-brand ml-4 mr-auto" href="#">
+        <img src="" width="200" height="35" class="d-inline-block align-top" alt="">
+      </a>
+
+      <!-- Collapse -->
+      <div class="collapse navbar-collapse" id="navegacao">
+        <form class="form-inline my-2 my-lg-0 ml-auto">
+          <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+        </form>
+      </div>
+    </nav>
 
     {{ content }}
 
