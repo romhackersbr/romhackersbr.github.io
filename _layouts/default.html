@@ -42,20 +42,20 @@ layout: compress
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <!-- Scroll Top -->
+    <!-- Rolagem Rápida para o Topo -->
     <div class="scroll-top">
       <a href="#">
         <i class="fas fa-angle-up"></i>
       </a>
     </div>
 
-    <!-- Vertical navbar -->
-    <div class="vertical-nav bg-white" id="sidebar">
+    <!-- Menu Lateral -->
+    <div class="menu-lateral bg-white" id="sidebar">
       <div class="py-4 px-3 mb-4 bg-light">
-        <div class="media d-flex align-items-center"><img src="{{ '/assets/svg/logo.svg' | prepend: site.baseurl }}" alt="" width="200" class="mr-3 rounded-circle img-thumbnail shadow-sm">
+        <div class="media d-flex align-items-center"><img src="{{ '/assets/svg/logo.svg' | prepend: site.baseurl }}" alt="" width="200" class="mr-3 img-thumbnail shadow-sm">
           <div class="media-body">
-            <h4 class="m-0">Jason Doe</h4>
-            <p class="font-weight-light text-muted mb-0">Web developer</p>
+            <h4 class="m-0">{{ site.title }}</h4>
+            <p class="font-weight-light text-muted mb-0">{{ site.description }}</p>
           </div>
         </div>
       </div>
@@ -118,19 +118,17 @@ layout: compress
         </li>
       </ul>
     </div>
-    <!-- End vertical navbar -->
     
     
-    <!-- Page content holder -->
-    <div class="page-content p-5" id="content">
-      <!-- Toggle button -->
+    <!-- Contéudo da Página -->
+    <div class="conteudo-principal p-5" id="content">
+
       <button id="sidebarCollapse" type="button" class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4"><i class="fa fa-bars mr-2"></i><small class="text-uppercase font-weight-bold">Toggle</small></button>
     
-      <!-- Demo content -->
+
       {{ content }}
     
     </div>
-    <!-- End demo content -->
 
     <!-- JS -->
     <script
