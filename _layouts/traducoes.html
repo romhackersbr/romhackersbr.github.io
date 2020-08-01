@@ -10,9 +10,11 @@ layout: page
     <div class="container">
       <div class="row justify-content-center pb-4">
         <!-- Imagem em destaque da Tradução -->
+        {% for image in page.patch_images %}
         <div class="col-3">
-          <img src="{{ page.patch_images[0] }}" alt="Imagem em destaque de {{ page.title }}" class="img-fluid" />
+          <img src="{{ page.patch_images[i] }}" alt="Imagem em destaque de {{ page.title }}" class="img-fluid" />
         </div>
+        {% endfor %}
       </div>
       <div class="row">
         <!-- Detalhes da Tradução -->
