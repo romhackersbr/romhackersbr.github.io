@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 ---
+
 {% assign posts = site.noticias | sort: 'date' %}
 {% for post in posts reversed %}
+
   <div class="container">
     <div class="row">
       <div class="col-4">
@@ -55,9 +57,11 @@ layout: default
 
       </div>
     </div>
+
   </div>
 
-  {% if forloop.last == false %}
+{% if forloop.last == false %}
+
   <!-- Separador -->
   <div class="container">
     <div class="row">
