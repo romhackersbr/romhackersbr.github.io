@@ -59,28 +59,19 @@ layout: compress
   <!-- Contéudo Principal -->
   <div class="conteudo-principal mt-5" id="content">
 
-    <!-- Barra Superior -->
+    <!-- Menu Superior -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 
-      <!-- Menu Superior -->
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-12 px-0 bg-success">
-
-            <!-- Links Rápidos -->
-            <ul id="menu-superior" class="nav mr-auto">
-              {% assign menu_superior = site.data.menus.superior | sort: 'order' %}
-              {% for item in menu_superior %}
-              <li id="menu-superior-{{ item.title | slugify }}" class="nav-item">
-                <a class="nav-link text-white" href="{{ item.url }}"
-                  title="Ir para {{ item.title }}">{{ item.title }}</a>
-              </li>
-              {% endfor %}
-            </ul>
-
-          </div>
-        </div>
-      </div>
+      <!-- Links Rápidos -->
+      <ul id="menu-superior" class="nav mr-auto">
+        {% assign menu_superior = site.data.menus.superior | sort: 'order' %}
+        {% for item in menu_superior %}
+        <li id="menu-superior-{{ item.title | slugify }}" class="nav-item">
+          <a class="nav-link text-white" href="{{ item.url }}"
+            title="Ir para {{ item.title }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
 
       <!-- Botão Mobile - Exibir Menu -->
       <div class="exibir-menu">
