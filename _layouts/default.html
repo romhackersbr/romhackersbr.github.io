@@ -62,17 +62,6 @@ layout: compress
     <!-- Menu Superior -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 
-      <!-- Links Rápidos -->
-      <ul id="menu-superior" class="nav mr-auto">
-        {% assign menu_superior = site.data.menus.superior | sort: 'order' %}
-        {% for item in menu_superior %}
-        <li id="menu-superior-{{ item.title | slugify }}" class="nav-item">
-          <a class="nav-link text-white" href="{{ item.url }}"
-            title="Ir para {{ item.title }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-
       <!-- Botão Mobile - Exibir Menu -->
       <div class="exibir-menu">
         <button type="button" role="button" class="btn btn-secondary" data-toggle="collapse" href="#menu-principal">
@@ -88,6 +77,16 @@ layout: compress
 
       <!-- Collapse -->
       <div class="collapse navbar-collapse" id="navegacao">
+        <!-- Links Rápidos -->
+        <ul id="menu-superior" class="nav mr-auto">
+          {% assign menu_superior = site.data.menus.superior | sort: 'order' %}
+          {% for item in menu_superior %}
+          <li id="menu-superior-{{ item.title | slugify }}" class="nav-item">
+            <a class="nav-link text-white" href="{{ item.url }}"
+              title="Ir para {{ item.title }}">{{ item.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
         <form class="form-inline my-2 my-lg-0 ml-auto">
           <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
