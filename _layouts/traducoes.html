@@ -12,7 +12,7 @@ layout: page
         <!-- Imagem em destaque da Tradução -->
         {% for image in page.patch_images %}
         <div class="col-3">
-          <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-fluid" />
+          <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
         </div>
         {% endfor %}
       </div>
@@ -70,7 +70,7 @@ layout: page
               </tr>
               <tr>
                 <th scope="row">Site</th>
-                <td>{{ page.patch_site }}</td>
+                <td><a href="{{ page.patch_site }}">{{ page.patch_site }}</a></td>
               </tr>
               <tr>
                 <th scope="row">Versão:</th>
