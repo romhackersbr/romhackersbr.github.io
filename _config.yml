@@ -17,11 +17,18 @@ collections:
   traducoes:
     permalink: "/:collection/:path/"
     output: true
+  romhacks:
+    permalink: "/:collection/:path/"
+    output: true
 
 # Escopo
 defaults:
   - scope:
       type: "traducoes"
+    values:
+      layout: "traducoes"
+  - scope:
+      type: "romhacks"
     values:
       layout: "traducoes"
 
