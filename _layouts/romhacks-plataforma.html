@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+{% assign platforms = site.pages | where_exp: "item" , "item.path contains page.permalink" | uniq %}
+{% for platform in platforms %}
+  {% assign level = platform.dir | split: "/" | size %}
+  {% if level == 4 %}
+  <li id="{{ platform.url | slugify }}" class="list-group-item">
+    <a href="{{ platform.url | prepend: site.baseurl }}">{{ platform.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>

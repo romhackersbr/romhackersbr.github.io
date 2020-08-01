@@ -1,0 +1,109 @@
+---
+layout: page
+---
+<div class="card mb-10">
+  <div class="card-header text-center">
+    <!-- Titulo da Tradução -->
+    <h4>{{ page.game_title }}</h4>
+  </div>
+  <div class="card-body">
+    <div class="container">
+      <div class="row justify-content-center pb-4">
+        <!-- Imagem em destaque da Tradução -->
+        {% for image in page.patch_images %}
+        <div class="col-3">
+          <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
+        </div>
+        {% endfor %}
+      </div>
+      <div class="row">
+        <!-- Detalhes da Tradução -->
+        <div class="col-xs-12 col-md-6 pt-5">
+          <h5 class="badge badge-secondary text-light">Jogo:</h5>
+          <table class="table table-sm table-striped">
+            <tbody>
+              <tr>
+                <th scope="row">Plataforma</th>
+                <td>{{ page.platform }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Sistema</th>
+                <td>{{ page.system }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Tipo</th>
+                <td>{{ page.game_category}}</td>
+              </tr>
+              <tr>
+                <th scope="row">Jogadores</th>
+                <td>{{ page.game_players }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Desenvolvedora</th>
+                <td>{{ page.game_developer }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Distribuidora</th>
+                <td>{{ page.game_publisher }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Data de Lançamento</th>
+                <td>{{ page.game_release_date }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <!-- Detalhes da Tradução -->
+        <div class="col-xs-12 col-md-6 pt-5">
+          <h5 class="badge badge-secondary text-light">Tradução:</h5>
+          <table class="table table-sm table-striped">
+            <tbody>
+              <tr>
+                <th scope="row">Tradutor(es)</th>
+                <td>
+                  {{ page.patch_author }}
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Grupo Tradutor</th>
+                <td>{{ page.patch_group }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Site</th>
+                <td><a href="{{ page.patch_site }}">{{ page.patch_site }}</a></td>
+              </tr>
+              <tr>
+                <th scope="row">Versão:</th>
+                <td>{{ page.patch_version }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Data de Lançamento</th>
+                <td>{{ page.patch_release }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Formato</th>
+                <td>{{ page.patch_type }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Progresso</th>
+                <td>{{ page.patch_progress }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <!-- Separador da Descrição da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Descrição da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
