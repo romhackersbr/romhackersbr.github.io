@@ -4,7 +4,7 @@ layout: page
 <div class="card mb-10">
   <div class="card-header text-center">
     <!-- Titulo da Tradução -->
-    <h4>{{ page.title }}</h4>
+    <h4>{{ page.game_title }}</h4>
   </div>
   <div class="card-body">
     <div class="container">
@@ -19,6 +19,7 @@ layout: page
       <div class="row">
         <!-- Detalhes da Tradução -->
         <div class="col-12">
+          <h5>Jogo:</h5>
           <table class="table table-sm table-striped">
             <tbody>
               <tr>
@@ -58,6 +59,46 @@ layout: page
               <tr>
                 <th scope="row">Grupo Tradutor</th>
                 <td>{{ page.patch_group }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="row">
+        <!-- Detalhes da Tradução -->
+        <div class="col-12">
+          <h5>Tradução:</h5>
+          <table class="table table-sm table-striped">
+            <tbody>
+              <tr>
+                <th scope="row">Tradutor(es)</th>
+                <td>
+                  {{ page.patch_author }}
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Grupo Tradutor</th>
+                <td>{{ page.patch_group }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Site</th>
+                <td>{{ page.patch_site }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Versão:</th>
+                <td>{{ page.patch_version }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Data de Lançamento</th>
+                <td>{{ page.patch_release }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Formato</th>
+                <td>{{ page.patch_type }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Progresso</th>
+                <td>{{ page.patch_progress }}</td>
               </tr>
             </tbody>
           </table>
