@@ -107,3 +107,7 @@ body {
   border-radius: 50%;
   font-size: 1.125rem;
 }
+
+th[scope=row] {
+  width: 150px;
+}
