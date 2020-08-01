@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Notícias"
 ---
 
 {% assign posts = site.noticias | sort: 'date' %}
