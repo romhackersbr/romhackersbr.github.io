@@ -1,22 +1,19 @@
 ---
-id: "1050"
-patch_name: "Crash Team Racing (Rangel Oblivion)"
-title: "Crash Team Racing"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Crash Team Racing - Rangel Oblivion - 1.jpg"
-type: ["Esportes","Corrida"]
-players: 4
-developer: "Naughty Dog"
-publisher: "Sony"
-release_date: "12/01/2001"
-author: ["Rangel Oblivion"]
-group_name: "Nenhum"
-group_site: "Nenhum"
-patch_version: "???"
-patch_release: "12/01/2001"
-patch_format: "PPF 3.0"
-patch_status: "???"
-platform: "Console"
-system: "Playstation"
+title:  Crash Team Racing (Rangel Oblivion)
+system: Playstation
+platform: Console
+game_title: Crash Team Racing
+game_category: Esportes / Corrida
+game_players: 4
+game_developer: Naughty Dog
+game_publisher: Sony
+game_release_date: 12/01/2001
+patch_group: Nenhum
+patch_site: Nenhum
+patch_version: ???
+patch_release: 27/04/2013
+patch_type: PPF 3.0
+patch_progress: ???
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Crash%20Team%20Racing%20-%20Rangel%20Oblivion%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Crash%20Team%20Racing%20-%20Rangel%20Oblivion%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Crash%20Team%20Racing%20-%20Rangel%20Oblivion%20-%203.jpg]
 ---
-
 Uma tradução razoável. Os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Nota-se abreviações em alguns momentos, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD em formato BIN+CUE ou CCD+IMG+SUB da versão europeia (SCES-02105) do jogo Crash Team Racing.

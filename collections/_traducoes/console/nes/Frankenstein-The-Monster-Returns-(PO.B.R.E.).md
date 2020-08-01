@@ -1,22 +1,19 @@
 ---
-id: "22"
-patch_name: "Frankenstein - The Monster Returns (PO.B.R.E.)"
-title: "Frankenstein - The Monster Returns"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Frankenstein - POBRE - 1.png"
-type: ["Ação"]
-players: 1
-developer: "Bandai"
-publisher: "Bandai"
-release_date: "??/07/1991"
-author: ["devilfox"]
-group_name: "PO.B.R.E."
-group_site: "http://www.romhackers.org/"
-patch_version: ""
-patch_release: "??/07/1991"
-patch_format: ""
-patch_status: "100%"
-platform: "Console"
-system: "NES"
+title:  Frankenstein - The Monster Returns (PO.B.R.E.)
+system: NES
+platform: Console
+game_title: Frankenstein - The Monster Returns
+game_category: Ação
+game_players: 1
+game_developer: Bandai
+game_publisher: Bandai
+game_release_date: ??/07/1991
+patch_group: PO.B.R.E.
+patch_site: http://www.romhackers.org/
+patch_version: 1.3
+patch_release: undefined
+patch_type: undefined
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Frankenstein%20-%20POBRE%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Frankenstein%20-%20POBRE%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Frankenstein%20-%20POBRE%20-%203.png]
 ---
-
-Esta tradução está muito boa. Todos os textos estão traduzidos e devidamente acentuados, sem falar que os gráficos também foram editados.O pacote de tradução vem com um patch em formato IPS e outro em formato IPS-EXE (autoaplicável). Qualquer um dos dois traduzirá a ROM para o português. Portanto, fica a critério do usuário escolher qual deles usar. Porém, vale lembrar que a tradução deve ser aplicada na ROM original Frankenstein - The Monster Returns (U) [!].nes com CRC32 84F0CD63.Caso ainda reste alguma dúvida, nós aconselhamos a todos que leiam a documentação que acompanha a tradução. Ela explica detalhadamente como aplicar o patch na ROM.
+Todos os textos do jogo estão traduzidos e acentuados, e todas as mensagens em forma de gráfico foram editadas.NOVIDADES DA VERSÃO 1.3:- A tradução dos textos foi totalmente revisada e agora conta com uma qualidade bem melhor que à da versão anterior;- A aparência da fonte foi novamente melhorada;- Os algarismos romanos que indicam o número da fase foram editados. Agora eles estão proporcionais ao tamanho da fonte dos textos;- Foi corrigido o tilemap de uma cutscene (bug original do jogo);- Assinei a tradução com o meu novo nickname: Mr.Fox.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Frankenstein - The Monster Returns (U) [!].nes com CRC32 84F0CD63.

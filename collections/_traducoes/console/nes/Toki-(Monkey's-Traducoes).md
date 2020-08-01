@@ -1,22 +1,19 @@
 ---
-id: "542"
-patch_name: "Toki (Monkey's Traduções)"
-title: "Toki"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Toki - Monkey's Traduções - 1.png"
-type: ["Ação","Plataforma"]
-players: 2
-developer: "Taito"
-publisher: "Taito"
-release_date: "??/12/1991"
-author: ["ØX-Carnage"]
-group_name: "Monkey's Traduções"
-group_site: "http://www.monkeystraducoes.com/"
-patch_version: "2.0"
-patch_release: "??/12/1991"
-patch_format: "IPS"
-patch_status: "100%"
-platform: "Console"
-system: "NES"
+title:  Toki (Monkey's Traduções)
+system: NES
+platform: Console
+game_title: Toki
+game_category: Ação / Plataforma
+game_players: 2
+game_developer: Taito
+game_publisher: Taito
+game_release_date: ??/12/1991
+patch_group: Monkey's Traduções
+patch_site: http://www.monkeystraducoes.com/
+patch_version: 2.0
+patch_release: 20/05/2010
+patch_type: IPS
+patch_progress: 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Toki%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Toki%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Toki%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png]
 ---
-
 Uma ótima tradução. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Toki (U) [!].nes, com CRC32 5BD50BE6.

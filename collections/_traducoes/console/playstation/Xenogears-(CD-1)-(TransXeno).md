@@ -1,22 +1,19 @@
 ---
-id: "1115"
-patch_name: "Xenogears (CD 1) (TransXeno)"
-title: "Xenogears"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Xenogears - TransXeno - 1.jpg"
-type: ["RPG"]
-players: 1
-developer: "Squaresoft"
-publisher: "Squaresoft"
-release_date: "20/10/1998"
-author: ["Kuroi","Lacan","Rulv","Unknown Master","jdomingos"]
-group_name: "TransXeno"
-group_site: "http://transxeno.blogspot.com.br/"
-patch_version: "???"
-patch_release: "20/10/1998"
-patch_format: "ISO traduzida"
-patch_status: "Diálogos - 100% / Battle Scripts - 100% / Battling - 100% / Itens e descrições - 100% / Gráficos - 100% / Revisão - 100%"
-platform: "Console"
-system: "Playstation"
+title:  Xenogears (CD 1) (TransXeno)
+system: Playstation
+platform: Console
+game_title: Xenogears
+game_category: RPG
+game_players: 1
+game_developer: Squaresoft
+game_publisher: Squaresoft
+game_release_date: 20/10/1998
+patch_group: TransXeno
+patch_site: http://transxeno.blogspot.com.br/
+patch_version: ???
+patch_release: 29/07/2014
+patch_type: ISO traduzida
+patch_progress: Diálogos - 100% / Battle Scripts - 100% / Battling - 100% / Itens e descrições - 100% / Gráficos - 100% / Revisão - 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Xenogears%20-%20TransXeno%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Xenogears%20-%20TransXeno%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Xenogears%20-%20TransXeno%20-%203.jpg]
 ---
-
 Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.

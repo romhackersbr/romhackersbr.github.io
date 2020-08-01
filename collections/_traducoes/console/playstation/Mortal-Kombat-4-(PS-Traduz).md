@@ -1,22 +1,19 @@
 ---
-title: "Mortal Kombat 4"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Mortal Kombat 4 - PS Traduz - 1.jpg"
-type: ["Luta"]
-players: 2
-developer: "Eurocom"
-publisher: "GT Interactive"
-release_date: "??/10/1998"
-author: ["Jean Carlos"]
-group_name: "PS Traduz"
-group_site: "http://pstraduz.blogspot.com.br/"
-patch_version: "???"
-patch_release: "??/10/1998"
-patch_format: "Arquivo traduzido"
-patch_status: "???"
-id: "1292"
-patch_name: "Mortal Kombat 4 (PS Traduz)"
-platform: "Console"
-system: "Playstation"
+title:  Mortal Kombat 4 (PS Traduz)
+system: Playstation
+platform: Console
+game_title: Mortal Kombat 4
+game_category: Luta
+game_players: 2
+game_developer: Eurocom
+game_publisher: GT Interactive
+game_release_date: ??/10/1998
+patch_group: PS Traduz
+patch_site: http://pstraduz.blogspot.com.br/
+patch_version: ???
+patch_release: 02/05/2013 (provavelmente)
+patch_type: Arquivo traduzido
+patch_progress: ???
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Mortal%20Kombat%204%20-%20PS%20Traduz%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Mortal%20Kombat%204%20-%20PS%20Traduz%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Mortal%20Kombat%204%20-%20PS%20Traduz%20-%203.jpg]
 ---
-
 Os textos do jogo estão traduzidos (exceto as mensagens em forma de gráfico), mas não estão acentuados.ATENÇÃO:Esta tradução deve ser usada em uma imagem de CD da versão europeia do jogo Mortal Kombat 4 do sistema Playstation.Para instalar a tradução, o autor recomenda usar o programa CDMage (incluso no pacote de tradução) para abrir a imagem do CD e substituir o arquivo SLES_013.49 original do jogo pelo traduzido, que se encontra na pasta Patch.

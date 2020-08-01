@@ -1,22 +1,19 @@
 ---
-title: "Jackie Chan - Stuntmaster"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Jackie Chan - Stuntmaster - Brazilian Warriors - 1.jpg"
-type: ["Ação","Pancadaria"]
-players: 1
-developer: "Radical Entertainment"
-publisher: "Midway"
-release_date: "31/01/2000"
-author: ["Gledson999"]
-group_name: "Brazilian Warriors"
-group_site: ""
-patch_version: "???"
-patch_release: "31/01/2000"
-patch_format: "xdelta3"
-patch_status: "Textos: 100% / Menus: 100% / Acentos: 100% / Gráficos: 100% / Vídeos: 100%"
-id: "1306"
-patch_name: "Jackie Chan - Stuntmaster (Brazilian Warriors)"
-platform: "Console"
-system: "Playstation"
+title:  Jackie Chan - Stuntmaster (Brazilian Warriors)
+system: Playstation
+platform: Console
+game_title: Jackie Chan - Stuntmaster
+game_category: Ação / Pancadaria
+game_players: 1
+game_developer: Radical Entertainment
+game_publisher: Midway
+game_release_date: 31/01/2000
+patch_group: Brazilian Warriors
+patch_site: undefined
+patch_version: 1.0
+patch_release: undefined
+patch_type: xdelta3
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Jackie%20Chan%20-%20Stuntmaster%20-%20Brazilian%20Warriors%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Jackie%20Chan%20-%20Stuntmaster%20-%20Brazilian%20Warriors%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Jackie%20Chan%20-%20Stuntmaster%20-%20Brazilian%20Warriors%20-%203.jpg]
 ---
-
-Todos os textos do jogo estão traduzidos e acentuados, assim com as mensagens em forma de gráfico, e os vídeos foram legendados.ATENÇÃO:Esta tradução deve ser aplicada em imagem de CD do jogo Jackie Chan - Stuntmaster (SLUS-00684) em formato BIN+CUE, com CRC32 B68270EB / MD5 D4C9BDDE0E8741972D7B262B8FFD3093.
+Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, assim com as mensagens em forma de gráfico, e os vídeos foram legendados.NOVIDADES:- Foi corrigido o bug que gerava travamento do jogo nos consoles Playstation e Playstation 3.ATENÇÃO:Esta tradução deve ser aplicada em imagem de CD do jogo Jackie Chan - Stuntmaster (SLUS-00684) em formato BIN+CUE, com CRC32 B68270EB / MD5 D4C9BDDE0E8741972D7B262B8FFD3093.

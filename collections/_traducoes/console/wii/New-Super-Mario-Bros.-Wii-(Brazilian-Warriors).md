@@ -1,22 +1,19 @@
 ---
-id: "1166"
-patch_name: "New Super Mario Bros. Wii (Brazilian Warriors)"
-title: "New Super Mario Bros. Wii"
-featured: "http://www.romhackers.org/imagens/traducoes/[Wii] New Super Mario Bros Wii - Brazilian Warriors - 1.jpg"
-type: ["Ação","Plataforma"]
-players: 4
-developer: "Nintendo"
-publisher: "Nintendo"
-release_date: "15/11/2009"
-author: ["Angel Forgotten e Sergio-F"]
-group_name: "Brazilian Warriors"
-group_site: "http://www.brazilian-warriors.com.br/"
-patch_version: "1.0"
-patch_release: "15/11/2009"
-patch_format: "ISO traduzida"
-patch_status: "Textos: 100% / Menus: 100% / Acentos: 100% / Gráficos: 100%"
-platform: "Console"
-system: "Wii"
+title:  New Super Mario Bros. Wii (Brazilian Warriors)
+system: Wii
+platform: Console
+game_title: New Super Mario Bros. Wii
+game_category: Ação / Plataforma
+game_players: 4
+game_developer: Nintendo
+game_publisher: Nintendo
+game_release_date: 15/11/2009
+patch_group: Brazilian Warriors
+patch_site: http://www.brazilian-warriors.com.br/
+patch_version: 1.0
+patch_release: 29/08/2012
+patch_type: ISO traduzida
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BWii%5D%20New%20Super%20Mario%20Bros%20Wii%20-%20Brazilian%20Warriors%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BWii%5D%20New%20Super%20Mario%20Bros%20Wii%20-%20Brazilian%20Warriors%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BWii%5D%20New%20Super%20Mario%20Bros%20Wii%20-%20Brazilian%20Warriors%20-%203.jpg]
 ---
-
 Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.

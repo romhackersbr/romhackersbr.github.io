@@ -1,22 +1,19 @@
 ---
-id: "1147"
-patch_name: "Flicky (Patryck)"
-title: "Flicky"
-featured: "http://www.romhackers.org/imagens/traducoes/[SG-1000] Flicky - Patryck - 1.png"
-type: ["Ação","Plataforma"]
-players: 1
-developer: "Sega"
-publisher: "Sega"
-release_date: "??/??/1984"
-author: ["Patryck Padilha de Oliveira"]
-group_name: "Nenhum"
-group_site: "http://ab-gamesinc-br.blogspot.com.br/"
-patch_version: "1.0"
-patch_release: "??/??/1984"
-patch_format: "IPS"
-patch_status: "Textos: 100% / Acentos: 100% / Gráficos: 100% / Geral: 100%"
-platform: "Console"
-system: "SG-1000"
+title:  Flicky (Patryck)
+system: SG-1000
+platform: Console
+game_title: Flicky
+game_category: Ação / Plataforma
+game_players: 1
+game_developer: Sega
+game_publisher: Sega
+game_release_date: ??/??/1984
+patch_group: Nenhum
+patch_site: http://ab-gamesinc-br.blogspot.com.br/
+patch_version: 1.0
+patch_release: 21/10/2016
+patch_type: IPS
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%203.png]
 ---
-
 Segundo o autor da tradução, todos os textos foram traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Flicky (SG-1000).sg, com CRC32 BD24D27B.

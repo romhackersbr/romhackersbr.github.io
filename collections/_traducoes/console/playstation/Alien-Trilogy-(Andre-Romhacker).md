@@ -1,22 +1,19 @@
 ---
-id: "1297"
-patch_name: "Alien Trilogy (André Romhacker)"
-title: "Alien Trilogy"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Alien Trilogy - André Romhacker - 1.jpg"
-type: ["Ação","Tiro em primeira pessoa"]
-players: 1
-developer: "Probe Entertainment Limited"
-publisher: "Acclaim"
-release_date: "??/02/1996"
-author: ["André Romhacker"]
-group_name: "Nenhum"
-group_site: "https://www.youtube.com/AndreRomhacker"
-patch_version: "???"
-patch_release: "??/02/1996"
-patch_format: "ISO traduzida"
-patch_status: "Textos: 99% / Menus: 100% / Acentos: 0% / Gráficos: 0%"
-platform: "Console"
-system: "Playstation"
+title:  Alien Trilogy (André Romhacker)
+system: Playstation
+platform: Console
+game_title: Alien Trilogy
+game_category: Ação / Tiro em primeira pessoa
+game_players: 1
+game_developer: Probe Entertainment Limited
+game_publisher: Acclaim
+game_release_date: ??/02/1996
+patch_group: Nenhum
+patch_site: https://www.youtube.com/AndreRomhacker
+patch_version: ???
+patch_release: 30/01/2017 (provavelmente)
+patch_type: ISO traduzida
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Alien%20Trilogy%20-%20Andr%C3%A9%20Romhacker%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Alien%20Trilogy%20-%20Andr%C3%A9%20Romhacker%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Alien%20Trilogy%20-%20Andr%C3%A9%20Romhacker%20-%203.jpg]
 ---
-
 Segundo o autor da tradução, a grande maioria dos textos do jogo foram traduzidos (exceto as mensagens em forma de gráfico), porém não estão acentuados.

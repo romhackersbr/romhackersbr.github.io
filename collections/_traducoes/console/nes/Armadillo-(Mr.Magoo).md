@@ -1,22 +1,19 @@
 ---
-id: "346"
-patch_name: "Armadillo (Mr.Magoo)"
-title: "Armadillo"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Armadillo - Mr.Magoo - 1.png"
-type: ["Ação","Plataforma"]
-players: 2
-developer: "IGS"
-publisher: "IGS"
-release_date: "1991"
-author: ["Mr.Magoo"]
-group_name: "Nenhum"
-group_site: "Nenhum"
-patch_version: "1.0"
-patch_release: "1991"
-patch_format: "IPS"
-patch_status: "100%"
-platform: "Console"
-system: "NES"
+title:  Armadillo (Mr.Magoo)
+system: NES
+platform: Console
+game_title: Armadillo
+game_category: Ação / Plataforma
+game_players: 2
+game_developer: IGS
+game_publisher: IGS
+game_release_date: 1991
+patch_group: Nenhum
+patch_site: Nenhum
+patch_version: 1.0
+patch_release: 01/09/2009
+patch_type: IPS
+patch_progress: 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Armadillo%20-%20Mr.Magoo%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Armadillo%20-%20Mr.Magoo%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Armadillo%20-%20Mr.Magoo%20-%203.png]
 ---
-
 Uma ótima tradução. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Armadillo (J).nes, com CRC32 AE73E0C2.

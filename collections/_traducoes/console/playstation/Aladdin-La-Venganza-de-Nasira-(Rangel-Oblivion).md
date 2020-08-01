@@ -1,22 +1,19 @@
 ---
-id: "1087"
-patch_name: "Aladdin - La Venganza de Nasira (Rangel Oblivion)"
-title: "Disney's Aladdin in Nasira's Revenge (aka Aladdin - La Venganza de Nasira)"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Aladdin - La Venganza de Nasira - Rangel Oblivion - 1.jpg"
-type: ["Ação","Plataforma"]
-players: 1
-developer: "Argonaut Games"
-publisher: "Sony"
-release_date: "01/12/2000"
-author: ["Rangel \"Oblivion\" Teixeira"]
-group_name: "Nenhum"
-group_site: "Nenhum"
-patch_version: "???"
-patch_release: "01/12/2000"
-patch_format: "PPF 3.0"
-patch_status: "???"
-platform: "Console"
-system: "Playstation"
+title:  Aladdin - La Venganza de Nasira (Rangel Oblivion)
+system: Playstation
+platform: Console
+game_title: Disney's Aladdin in Nasira's Revenge (aka Aladdin - La Venganza de Nasira)
+game_category: Ação / Plataforma
+game_players: 1
+game_developer: Argonaut Games
+game_publisher: Sony
+game_release_date: 01/12/2000
+patch_group: Nenhum
+patch_site: Nenhum
+patch_version: ???
+patch_release: 25/09/2013
+patch_type: PPF 3.0
+patch_progress: ???
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Aladdin%20-%20La%20Venganza%20de%20Nasira%20-%20Rangel%20Oblivion%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Aladdin%20-%20La%20Venganza%20de%20Nasira%20-%20Rangel%20Oblivion%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Aladdin%20-%20La%20Venganza%20de%20Nasira%20-%20Rangel%20Oblivion%20-%203.jpg]
 ---
-
 Os textos do jogo estão traduzidos e parcialmente acentuados, e nenhum gráfico foi editado (todos estão no idioma espanhol).ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD em formato BIN+CUE ou CCD+IMG+SUB (de tamanho 615.059.760 bytes e CRC32 8107F0A1) da versão europeia (SCES-03008) do jogo Disney's Aladdin in Nasira's Revenge (lançado como Aladdin - La Venganza de Nasira em países de língua espanhola).

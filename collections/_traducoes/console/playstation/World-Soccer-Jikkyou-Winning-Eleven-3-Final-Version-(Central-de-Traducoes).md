@@ -1,22 +1,19 @@
 ---
-id: "284"
-patch_name: "World Soccer - Jikkyou Winning Eleven 3 - Final Version (Central de Traduções)"
-title: "World Soccer - Jikkyou Winning Eleven 3 - Final Version"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] World Soccer - Jikkyou Winning Eleven 3 - Final Version - Central de Traduções - 1.jpg"
-type: ["Esportes","Futebol"]
-players: 2
-developer: "Konami"
-publisher: "Konami"
-release_date: "1998"
-author: ["Jaaqueiroz"]
-group_name: "Central de Traduções (extinto)"
-group_site: "http://www.ctraducoes.com.br/ (fora do ar)"
-patch_version: "???"
-patch_release: "1998"
-patch_format: "PPF 3.0"
-patch_status: "80%"
-platform: "Console"
-system: "Playstation"
+title:  World Soccer - Jikkyou Winning Eleven 3 - Final Version (Central de Traduções)
+system: Playstation
+platform: Console
+game_title: World Soccer - Jikkyou Winning Eleven 3 - Final Version
+game_category: Esportes / Futebol
+game_players: 2
+game_developer: Konami
+game_publisher: Konami
+game_release_date: 1998
+patch_group: Central de Traduções (extinto)
+patch_site: http://www.ctraducoes.com.br/ (fora do ar)
+patch_version: ???
+patch_release: 26/06/2006 (provavelmente)
+patch_type: PPF 3.0
+patch_progress: 80%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20World%20Soccer%20-%20Jikkyou%20Winning%20Eleven%203%20-%20Final%20Version%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20World%20Soccer%20-%20Jikkyou%20Winning%20Eleven%203%20-%20Final%20Version%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20World%20Soccer%20-%20Jikkyou%20Winning%20Eleven%203%20-%20Final%20Version%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%203.jpg]
 ---
-
 A fonte não precisou de acentuação, nome dos jogadores e descrições dos menus traduzidos e um vídeo com o logo do grupo.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão japonesa (SLPM-86162) do jogo World Soccer - Jikkyou Winning Eleven 3 - Final Version.

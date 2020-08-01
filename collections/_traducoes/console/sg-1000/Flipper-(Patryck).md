@@ -1,22 +1,19 @@
 ---
-id: "1149"
-patch_name: "Flipper (Patryck)"
-title: "Flipper (aka Sega Flipper / Video Flipper)"
-featured: "http://www.romhackers.org/imagens/traducoes/[SG-1000] Video Flipper - Patryck - 1.png"
-type: ["Ação","Fliperama"]
-players: 2
-developer: "Sega"
-publisher: "Sega"
-release_date: "??/??/1983"
-author: ["Patryck Padilha de Oliveira"]
-group_name: "Nenhum"
-group_site: "http://ab-gamesinc-br.blogspot.com.br/"
-patch_version: "1.0"
-patch_release: "??/??/1983"
-patch_format: "IPS"
-patch_status: "Textos: 95% / Menus: 100% / Acentos: 100% / Gráficos: 95% / Geral: 95%"
-platform: "Console"
-system: "SG-1000"
+title:  Flipper (Patryck)
+system: SG-1000
+platform: Console
+game_title: Flipper (aka Sega Flipper / Video Flipper)
+game_category: Ação / Fliperama
+game_players: 2
+game_developer: Sega
+game_publisher: Sega
+game_release_date: ??/??/1983
+patch_group: Nenhum
+patch_site: http://ab-gamesinc-br.blogspot.com.br/
+patch_version: 1.0
+patch_release: 03/01/2016
+patch_type: IPS
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Video%20Flipper%20-%20Patryck%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Video%20Flipper%20-%20Patryck%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Video%20Flipper%20-%20Patryck%20-%203.png]
 ---
-
 Segundo o autor da tradução, a maioria dos textos está traduzida e acentuada, e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Video Flipper (SG-1000).sg, com CRC32 8EFC77BC.

@@ -1,22 +1,19 @@
 ---
-title: "Gradius II"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Gradius 2 - POBRE - 1.png"
-type: ["Tiro","Combate espacial"]
-players: 2
-developer: "Konami"
-publisher: "Konami"
-release_date: "26/12/1988"
-author: ["devilfox"]
-group_name: "PO.B.R.E."
-group_site: "http://www.romhackers.org/"
-patch_version: "1.0"
-patch_release: "26/12/1988"
-patch_format: ""
-patch_status: "100%"
-id: "24"
-patch_name: "Gradius II (PO.B.R.E.)"
-platform: "Console"
-system: "NES"
+title:  Gradius II (PO.B.R.E.)
+system: NES
+platform: Console
+game_title: Gradius II
+game_category: Tiro / Combate espacial
+game_players: 2
+game_developer: Konami
+game_publisher: Konami
+game_release_date: 26/12/1988
+patch_group: PO.B.R.E.
+patch_site: http://www.romhackers.org/
+patch_version: 1.1
+patch_release: undefined
+patch_type: undefined
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Gradius%202%20-%20POBRE%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Gradius%202%20-%20POBRE%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Gradius%202%20-%20POBRE%20-%203.png]
 ---
-
-Esta tradução está muito boa. Os poucos textos existentes estão traduzidos e devidamente acentuados, sem falar que os gráficos também foram editados.O pacote de tradução vem com um patch em formato IPS e outro em formato IPS-EXE (autoaplicável). Qualquer um dos dois traduzirá a ROM para o português. Portanto, fica a critério do usuário escolher qual deles usar. Porém, vale lembrar que a tradução deve ser aplicada na ROM original Gradius II (J).nes com CRC32 D213AA0D.Caso ainda reste alguma dúvida, nós aconselhamos a todos que leiam a documentação que acompanha a tradução. Ela explica detalhadamente como aplicar o patch na ROM.
+Todos os textos do jogo estão traduzidos e acentuados, e todas as mensagens em forma de gráfico foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Gradius II (J).nes, com CRC32 D213AA0D.

@@ -1,22 +1,19 @@
 ---
-id: "242"
-patch_name: "Crash Bandicoot 2 - Cortex Strikes Back (Central de Traduções)"
-title: "Crash Bandicoot 2: Cortex Strikes Back"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Crash Bandicoot 2 - Cortex Strikes Back - Central de Traduções - 1.jpg"
-type: ["Ação","Plataforma"]
-players: 1
-developer: "Naughty Dog"
-publisher: "Sony"
-release_date: "1997"
-author: ["Jaaqueiroz"]
-group_name: "Central de Traduções (extinto)"
-group_site: "http://www.ctraducoes.com.br/ (fora do ar)"
-patch_version: "1.0"
-patch_release: "1997"
-patch_format: "PPF 3.0"
-patch_status: "75%"
-platform: "Console"
-system: "Playstation"
+title:  Crash Bandicoot 2 - Cortex Strikes Back (Central de Traduções)
+system: Playstation
+platform: Console
+game_title: Crash Bandicoot 2
+game_category: Ação / Plataforma
+game_players: 1
+game_developer: Naughty Dog
+game_publisher: Sony
+game_release_date: 1997
+patch_group: Central de Traduções (extinto)
+patch_site: http://www.ctraducoes.com.br/ (fora do ar)
+patch_version: 1.0
+patch_release: 01/06/2006
+patch_type: PPF 3.0
+patch_progress: 75%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%203.jpg]
 ---
-
 Uma boa tradução de Jaaqueiroz. Praticamente todos os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SCUS-94154) do jogo Crash Bandicoot 2 - Cortex Strikes Back.

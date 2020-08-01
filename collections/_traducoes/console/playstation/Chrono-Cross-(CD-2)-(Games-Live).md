@@ -1,22 +1,19 @@
 ---
-id: "1101"
-patch_name: "Chrono Cross (CD 2) (Games Live)"
-title: "Chrono Cross"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Chrono Cross - Games Live - 1.jpg"
-type: ["RPG"]
-players: 1
-developer: "Squaresoft"
-publisher: "Square Eletronic Arts"
-release_date: "15/08/2000"
-author: ["Zyre","srvicenth","Marco","Scofield","igorleon","Luke Lima","leoaldrighi","Folk Elazul","Yuzix","Marina"]
-group_name: "Games Live"
-group_site: "http://www.gameslive.ml/"
-patch_version: "1.0"
-patch_release: "15/08/2000"
-patch_format: "xdelta3"
-patch_status: "Textos - 100% /"
-platform: "Console"
-system: "Playstation"
+title:  Chrono Cross (CD 2) (Games Live)
+system: Playstation
+platform: Console
+game_title: Chrono Cross
+game_category: RPG
+game_players: 1
+game_developer: Squaresoft
+game_publisher: Square Eletronic Arts
+game_release_date: 15/08/2000
+patch_group: Games Live
+patch_site: http://www.gameslive.ml/
+patch_version: 1.0
+patch_release: 15/08/2015
+patch_type: xdelta3
+patch_progress: Textos - 100% / Códigos - 100% / Acentos - 95% (não possui os acentos Ã e Õ) / Gráficos - 100% / Vídeos - 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Chrono%20Cross%20-%20Games%20Live%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Chrono%20Cross%20-%20Games%20Live%20-%204.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Chrono%20Cross%20-%20Games%20Live%20-%205.jpg]
 ---
-
 Todos os textos do jogo estão traduzidos e parcialmente acentuados, os gráficos foram editados e os vídeos foram legendados.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem do CD 2 em formato BIN+CUE ou IMG+CCD+SUB da versão americana (SLUS-01080) do jogo Chrono Cross.OBS: O pacote de tradução vem com um manual ilustrado que explica passo a passo como proceder para aplicar o patch de tradução na imagem ISO do jogo. Portanto, recomendados a todos que leiam esse manual para evitar quaisquer contratempos.

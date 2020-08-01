@@ -1,22 +1,19 @@
 ---
-title: "Mickey's Wild Adventure"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Mickey's Wild Adventure - PS Traduz - 1.jpg"
-type: ["Ação","Plataforma"]
-players: 1
-developer: "Psygnosis"
-publisher: "Sony"
-release_date: "??/03/1996"
-author: ["Jean Carlos"]
-group_name: "PS Traduz"
-group_site: "http://pstraduz.blogspot.com.br/"
-patch_version: "???"
-patch_release: "??/03/1996"
-patch_format: "Arquivo traduzido"
-patch_status: "Textos - 100% / Acentos - 0%"
-id: "1122"
-patch_name: "Mickey's Wild Adventure (PS Traduz)"
-platform: "Console"
-system: "Playstation"
+title:  Mickey's Wild Adventure (PS Traduz)
+system: Playstation
+platform: Console
+game_title: Mickey's Wild Adventure
+game_category: Ação / Plataforma
+game_players: 1
+game_developer: Psygnosis
+game_publisher: Sony
+game_release_date: ??/03/1996
+patch_group: PS Traduz
+patch_site: http://pstraduz.blogspot.com.br/
+patch_version: ???
+patch_release: 03/05/2014
+patch_type: Arquivo traduzido
+patch_progress: Textos - 100% / Acentos - 0%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Mickey's%20Wild%20Adventure%20-%20PS%20Traduz%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Mickey's%20Wild%20Adventure%20-%20PS%20Traduz%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Mickey's%20Wild%20Adventure%20-%20PS%20Traduz%20-%203.jpg]
 ---
-
 Todos os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Para fazer uso da tradução, será preciso substituir o arquivo SCES_001.63 original do jogo pelo equivalente traduzido.

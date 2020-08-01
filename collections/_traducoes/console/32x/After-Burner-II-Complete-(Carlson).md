@@ -1,22 +1,19 @@
 ---
-id: "229"
-patch_name: "After Burner II Complete (Carlson)"
-title: "After Burner II Complete"
-featured: "http://www.romhackers.org/imagens/traducoes/[32X] After Burner II Complete - Carlson - 1.png"
-type: ["Tiro","Combate aéreo"]
-players: 1
-developer: "Sega"
-publisher: "Sega"
-release_date: "1994"
-author: ["Carlson"]
-group_name: "Nenhum"
-group_site: "http://neo-zjogos.blogspot.com"
-patch_version: ""
-patch_release: "1994"
-patch_format: "IPS, IPS-EXE e UPS"
-patch_status: "???"
-platform: "Console"
-system: "32X"
+title:  After Burner II Complete (Carlson)
+system: 32X
+platform: Console
+game_title: After Burner II Complete
+game_category: Tiro / Combate aéreo
+game_players: 1
+game_developer: Sega
+game_publisher: Sega
+game_release_date: 1994
+patch_group: Nenhum
+patch_site: http://neo-zjogos.blogspot.com
+patch_version: 1.1
+patch_release: undefined
+patch_type: IPS, IPS-EXE e UPS
+patch_progress: ???
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5B32X%5D%20After%20Burner%20II%20Complete%20-%20Carlson%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5B32X%5D%20After%20Burner%20II%20Complete%20-%20Carlson%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5B32X%5D%20After%20Burner%20II%20Complete%20-%20Carlson%20-%203.png]
 ---
-
 Uma boa tradução do tradutor freelancer Carlson. Os poucos textos do jogo estão traduzidos e acentuados, e vários gráficos foram editados. Nota-se algumas abreviações devido a não edição dos ponteiros, mas nada que incomode o jogador ou que não possa ser resolvido em futuras versões da tradução.OBS: Esta é, provavelmente, a primeira tradução brasileira para um jogo do sistema Sega 32X.NOVIDADES DA VERSÃO 1.1:- Textos acentuados;- Mais gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original After Burner Complete (32X) (E) [!].bin ou Afterburner 32X (A) [!].bin, com CRC32 029106F5.OBS: Os patches de tradução já corrigem a checksum da ROM, o que torna desnecessário usar a opção AUTO FIX CHECKSUM presente em alguns emuladores.

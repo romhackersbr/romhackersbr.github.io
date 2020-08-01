@@ -1,22 +1,19 @@
 ---
-title: "Nightshade"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Nightshade - ajkmetiuk - 1.png"
-type: ["Aventura"]
-players: 1
-developer: "Beam Software"
-publisher: "Ultra Games"
-release_date: "??/01/1992"
-author: ["ajkmetiuk"]
-group_name: "Nenhum"
-group_site: "Nenhum"
-patch_version: ""
-patch_release: "??/01/1992"
-patch_format: "IPS"
-patch_status: "Textos: 100% / Menus: 100% / Acentos: 30% / Gráficos: 70%"
-id: "1207"
-patch_name: "Nightshade (ajkmetiuk)"
-platform: "Console"
-system: "NES"
+title:  Nightshade (ajkmetiuk)
+system: NES
+platform: Console
+game_title: Nightshade
+game_category: Aventura
+game_players: 1
+game_developer: Beam Software
+game_publisher: Ultra Games
+game_release_date: ??/01/1992
+patch_group: Nenhum
+patch_site: Nenhum
+patch_version: 1.2
+patch_release: undefined
+patch_type: IPS
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Nightshade%20-%20ajkmetiuk%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Nightshade%20-%20ajkmetiuk%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Nightshade%20-%20ajkmetiuk%20-%203.png]
 ---
-
-Segundo o autor da tradução, todos os textos do jogo estão traduzidos e parcialmente acentuados, e a maioria das mensagens em forma de gráfico foram traduzidas.NOVIDADES DA VERSÃO 1.2:* Foram realizados alguns ajustes e foi editado o gráfico inicial, que faltava alguns efeitos. (obrigado denim pela dica do )ATENÇÃO:Esta tradução deve ser aplicada na ROM original Nightshade (U) [!].nes, com CRC32 C6D266AF.
+Segundo o autor da tradução, todos os textos do jogo estão traduzidos e parcialmente acentuados, e a maioria das mensagens em forma de gráfico foram traduzidas.NOVIDADES DA VERSÃO 1.2:* Foram realizados alguns ajustes e foi editado o gráfico inicial, que faltava alguns efeitos. (obrigado denim pela dica do ™)ATENÇÃO:Esta tradução deve ser aplicada na ROM original Nightshade (U) [!].nes, com CRC32 C6D266AF.

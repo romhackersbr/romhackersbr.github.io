@@ -1,22 +1,19 @@
 ---
-id: "525"
-patch_name: "Batman - Return of the Joker (PO.B.R.E.)"
-title: "Batman - Return of the Joker"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Batman - Return of the Joker - POBRE - 1.png"
-type: ["Ação","Plataforma","Tiro"]
-players: 1
-developer: "Sunsoft"
-publisher: "Sunsoft"
-release_date: "??/12/1991"
-author: ["devilfox"]
-group_name: "PO.B.R.E."
-group_site: "http://www.romhackers.org/"
-patch_version: "1.0"
-patch_release: "??/12/1991"
-patch_format: ""
-patch_status: "100%"
-platform: "Console"
-system: "NES"
+title:  Batman - Return of the Joker (PO.B.R.E.)
+system: NES
+platform: Console
+game_title: Batman - Return of the Joker
+game_category: Ação / Plataforma / Tiro
+game_players: 1
+game_developer: Sunsoft
+game_publisher: Sunsoft
+game_release_date: ??/12/1991
+patch_group: PO.B.R.E.
+patch_site: http://www.romhackers.org/
+patch_version: 1.1
+patch_release: undefined
+patch_type: undefined
+patch_progress: Textos
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%203.png]
 ---
-
-Esta tradução está muito boa. Os poucos textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Batman - Return of the Joker (U) [!].nes, com CRC32 E14A7971.O emulador VirtuaNES não é 100% compatível com esta tradução (o jogo trava no final da fase 1-2). Assim sendo, quem for fã desse emulador e quiser jogar a tradução, basta acessar este link e obter uma versão compilada por devilfox com suporte a ela.
+Todos os textos do jogo estão traduzidos e acentuados, e as mensagens em forma de gráfico foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Batman - Return of the Joker (U) [!].nes, com CRC32 E14A7971.

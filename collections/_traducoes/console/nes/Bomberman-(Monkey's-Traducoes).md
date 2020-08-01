@@ -1,22 +1,19 @@
 ---
-id: "530"
-patch_name: "Bomberman (Monkey's Traduções)"
-title: "Bomberman"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Bomberman - Monkey's Traduções - 1.png"
-type: ["Ação","Quebra-cabeças"]
-players: 1
-developer: "Hudson Soft"
-publisher: "Hudson Soft"
-release_date: "05/05/1987"
-author: ["Pitoko"]
-group_name: "Monkey's Traduções"
-group_site: "http://www.monkeystraducoes.com/"
-patch_version: "1.0"
-patch_release: "05/05/1987"
-patch_format: "IPS"
-patch_status: "100%"
-platform: "Console"
-system: "NES"
+title:  Bomberman (Monkey's Traduções)
+system: NES
+platform: Console
+game_title: Bomberman
+game_category: Ação / Quebra-cabeças
+game_players: 1
+game_developer: Hudson Soft
+game_publisher: Hudson Soft
+game_release_date: 05/05/1987
+patch_group: Monkey's Traduções
+patch_site: http://www.monkeystraducoes.com/
+patch_version: 1.0
+patch_release: 25/04/2010
+patch_type: IPS
+patch_progress: 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Bomberman%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Bomberman%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Bomberman%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png]
 ---
-
 Uma boa tradução. Os poucos textos do jogo foram traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Bomberman (U) [!].nes, com CRC32 B9804046.

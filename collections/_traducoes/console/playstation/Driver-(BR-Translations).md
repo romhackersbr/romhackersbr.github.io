@@ -1,22 +1,19 @@
 ---
-id: "266"
-patch_name: "Driver (BR Translations)"
-title: "Driver"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Driver - BR Translations - 1.jpg"
-type: ["Ação","Corrida"]
-players: 1
-developer: "Reflections Interactive"
-publisher: "GT Interactive"
-release_date: "1999"
-author: ["LoRtRaDe"]
-group_name: "BR Translations (extinto)"
-group_site: "http://brtranslations.no.sapo.pt/index2.html (inativo)"
-patch_version: "???"
-patch_release: "1999"
-patch_format: "PPF 2.0"
-patch_status: "???"
-platform: "Console"
-system: "Playstation"
+title:  Driver (BR Translations)
+system: Playstation
+platform: Console
+game_title: Driver
+game_category: Ação / Corrida
+game_players: 1
+game_developer: Reflections Interactive
+game_publisher: GT Interactive
+game_release_date: 1999
+patch_group: BR Translations (extinto)
+patch_site: http://brtranslations.no.sapo.pt/index2.html (inativo)
+patch_version: ???
+patch_release: 26/01/2002
+patch_type: PPF 2.0 
+patch_progress: ???
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Driver%20-%20BR%20Translations%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Driver%20-%20BR%20Translations%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Driver%20-%20BR%20Translations%20-%203.jpg]
 ---
-
 A fonte do jogo já veio acentuada, grande parte dos menus e descrições estão traduzidos, gráficos como o do papel no primeiro treino não estão traduzidos. Grande uso de abreviações, até pelo pouco espaço na tela, e alguns erros de português.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão européia (SLES-01816) do jogo Driver.

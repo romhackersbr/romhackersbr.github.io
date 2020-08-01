@@ -1,22 +1,19 @@
 ---
-title: "Hudson Hawk"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Hudson Hawk - Balboa - 1.png"
-type: ["Ação"]
-players: 1
-developer: "Ocean"
-publisher: "Sony Imagesoft"
-release_date: "1991"
-author: ["Balboa"]
-group_name: "Nenhum"
-group_site: "Nenhum"
-patch_version: "1.0"
-patch_release: "1991"
-patch_format: "IPS"
-patch_status: "100%"
-id: "146"
-patch_name: "Hudson Hawk (Balboa)"
-platform: "Console"
-system: "NES"
+title:  Hudson Hawk (Balboa)
+system: NES
+platform: Console
+game_title: Hudson Hawk
+game_category: Ação
+game_players: 1
+game_developer: Ocean
+game_publisher: Sony Imagesoft
+game_release_date: 1991
+patch_group: Nenhum
+patch_site: Nenhum
+patch_version: 1.0
+patch_release: 27/01/2009
+patch_type: IPS
+patch_progress: 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Hudson%20Hawk%20-%20Balboa%20-%201.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Hudson%20Hawk%20-%20Balboa%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Hudson%20Hawk%20-%20Balboa%20-%203.png]
 ---
-
 Esta é uma boa tradução feita pelo tradutor freelancer Balboa. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Hudson Hawk (U) [!].nes, com CRC32 37FC3443.

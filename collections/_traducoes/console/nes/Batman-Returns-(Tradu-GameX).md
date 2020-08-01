@@ -1,22 +1,19 @@
 ---
-id: "97"
-patch_name: "Batman Returns (Tradu-GameX)"
-title: "Batman Returns"
-featured: "http://www.romhackers.org/imagens/traducoes/[NES] Batman Returns - Tradu-GameX - 01.png"
-type: ["Ação","Pancadaria"]
-players: 1
-developer: "Konami"
-publisher: "Konami"
-release_date: "1993"
-author: ["Master P."]
-group_name: "Tradu-GameX"
-group_site: "http://br.geocities.com/tgxromhack/"
-patch_version: "1.1"
-patch_release: "1993"
-patch_format: "IPS"
-patch_status: "99%"
-platform: "Console"
-system: "NES"
+title:  Batman Returns (Tradu-GameX)
+system: NES
+platform: Console
+game_title: Batman Returns
+game_category: Ação / Pancadaria
+game_players: 1
+game_developer: Konami
+game_publisher: Konami
+game_release_date: 1993
+patch_group: Tradu-GameX
+patch_site: http://br.geocities.com/tgxromhack/
+patch_version: 1.1
+patch_release: 02/08/2008 (atualizada em 03/08/2008)
+patch_type: IPS
+patch_progress: 99%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Batman%20Returns%20-%20Tradu-GameX%20-%2001.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Batman%20Returns%20-%20Tradu-GameX%20-%2002.png,http://www.romhackers.org/imagens/traducoes/%5BNES%5D%20Batman%20Returns%20-%20Tradu-GameX%20-%2003.png]
 ---
-
 Uma boa tradução feita pelo tradutor Master P. Os textos estão traduzidos e acentuados, e os gráficos foram editados, com exceção do SCORE e HI SCORE.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Batman Returns (U) [!].nes, com CRC32 E625E398.

@@ -1,22 +1,19 @@
 ---
-id: "1112"
-patch_name: "Touhou Project - Wandering Souls (Monkey's Traduções)"
-title: "Touhou Project - Wandering Souls"
-featured: "http://www.romhackers.org/imagens/traducoes/[PC] Touhou Project - Wandering Souls - Monkey's Traduções - 1.jpg"
-type: ["Ação","RPG"]
-players: 1
-developer: "Estheone"
-publisher: "EstheoneSite: http://rpgmaker.net/games/4732/"
-release_date: "06/06/2015 (versão 1.02)"
-author: ["Unknown Master"]
-group_name: "Monkey's Traduções"
-group_site: "http://rpgmaker.net/games/4732/Lançamento: 06/06/2015 (versão 1.02)TRADUÇÃO:Autor: Unknown MasterGrupo: Monkey's TraduçõesSite: http://www.monkeystraducoes.com/ (fora do ar)"
-patch_version: "1.0"
-patch_release: "06/06/2015 (versão 1.02)"
-patch_format: "Instalador EXE"
-patch_status: "Script principal - 100% / Menus - 100% / Magias e técnicas - 100% / Armas e armaduras - 100% / Outros textos - 100% / Acentuação - 100% / Gráficos - 100%"
-platform: "Computador"
-system: "PC"
+title:  Touhou Project - Wandering Souls (Monkey's Traduções)
+system: PC
+platform: Computador
+game_title: Touhou Project - Wandering Souls
+game_category: Ação / RPG
+game_players: 1
+game_developer: Estheone
+game_publisher: Estheone
+game_release_date: http://rpgmaker.net/games/4732/
+patch_group: Monkey's Traduções
+patch_site: http://www.monkeystraducoes.com/ (fora do ar)
+patch_version: 1.0
+patch_release: 30/06/2015
+patch_type: Instalador EXE
+patch_progress: Script principal - 100% / Menus - 100% / Magias e técnicas - 100% / Armas e armaduras - 100% / Outros textos - 100% / Acentuação - 100% / Gráficos - 100%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPC%5D%20Touhou%20Project%20-%20Wandering%20Souls%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPC%5D%20Touhou%20Project%20-%20Wandering%20Souls%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BPC%5D%20Touhou%20Project%20-%20Wandering%20Souls%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.jpg]
 ---
-
 Todos os textos do jogo foram traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na versão 1.02 do jogo Touhou Project - Wandering Souls.

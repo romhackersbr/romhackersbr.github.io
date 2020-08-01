@@ -1,22 +1,19 @@
 ---
-id: "288"
-patch_name: "Gran Turismo (ROMS BR)"
-title: "Gran Turismo"
-featured: "http://www.romhackers.org/imagens/traducoes/[PS1] Gran Turismo - ROMS BR - 1.jpg"
-type: ["Esportes","Corrida"]
-players: 2
-developer: "Polyphony Digital"
-publisher: "Sony Computer Entertainment America"
-release_date: "1998"
-author: ["Heero-Yui"]
-group_name: "ROMS BR (extinto)"
-group_site: "http://www.rombr.xpg.com.br/ (inativo)"
-patch_version: "1.0"
-patch_release: "1998"
-patch_format: "PPF 2.0 e Xdelta 3.0"
-patch_status: "???"
-platform: "Console"
-system: "Playstation"
+title:  Gran Turismo (ROMS BR)
+system: Playstation
+platform: Console
+game_title: Gran Turismo
+game_category: Esportes / Corrida
+game_players: 2
+game_developer: Polyphony Digital
+game_publisher: Sony Computer Entertainment America
+game_release_date: 1998
+patch_group: ROMS BR (extinto)
+patch_site: http://www.rombr.xpg.com.br/ (inativo)
+patch_version: 1.0
+patch_release: 25/11/2004 (provavelmente)
+patch_type: PPF 2.0 e Xdelta 3.0
+patch_progress: ???
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Gran%20Turismo%20-%20ROMS%20BR%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Gran%20Turismo%20-%20ROMS%20BR%20-%202.png,http://www.romhackers.org/imagens/traducoes/%5BPS1%5D%20Gran%20Turismo%20-%20ROMS%20BR%20-%203.png]
 ---
-
 A fonte está acentuada, a maioria do que está traduzido no jogo são menus e textos durante e após a corrida, assim como alguns gráficos associados. Segundo o autor, as descrições das licenças não foram traduzidas pois geravam problemas no jogo.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da primeira versão americana lançada (SCUS-94194) do jogo. Para obter o patch da tradução no formato do Xdelta para a versão Greatest Hits, que tem o mesmo serial, basta acessar este link.

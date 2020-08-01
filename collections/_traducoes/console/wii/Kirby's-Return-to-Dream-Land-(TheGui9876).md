@@ -1,22 +1,19 @@
 ---
-id: "1107"
-patch_name: "Kirby's Return to Dream Land (TheGui9876)"
-title: "Kirby's Return to Dream Land"
-featured: "http://www.romhackers.org/imagens/traducoes/[WII] Kirby's Return to Dreamland - TheGui9876 - 1.jpg"
-type: ["Ação","Plataforma"]
-players: 1
-developer: "HAL Labs"
-publisher: "Nintendo"
-release_date: "24/10/2011"
-author: ["TheGui9876Revisor: yusukkeColaborador: Ray"]
-group_name: "Nenhum"
-group_site: "Nenhum"
-patch_version: "1.8Histórico: - Versão 0.1: 26/01/2013 - Versão 0.6: 15/02/2013 - Versão 1.8: 12/12/2013Mídia de distribuição: xdelta3Progresso: Texto - 100% / Gráficos - 80% / Revisão - 0%CONSIDERAÇÕES:Todos os textos do jogo estão traduzidos e acentuados e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem ISO da versão americana (NTSC-U) do jogo Kirby's Return to Dream"
-patch_release: "24/10/2011"
-patch_format: "xdelta3"
-patch_status: "Texto - 100% / Gráficos - 80% / Revisão - 0%"
-platform: "Console"
-system: "Wii"
+title:  Kirby's Return to Dream Land (TheGui9876)
+system: Wii
+platform: Console
+game_title: Kirby's Return to Dream Land
+game_category: Ação / Plataforma
+game_players: 1
+game_developer: HAL Labs
+game_publisher: Nintendo
+game_release_date: 24/10/2011
+patch_group: Nenhum
+patch_site: Nenhum
+patch_version: 1.8
+patch_release: undefined
+patch_type: xdelta3
+patch_progress: Texto - 100% / Gráficos - 80% / Revisão - 0%
+patch_images: [http://www.romhackers.org/imagens/traducoes/%5BWII%5D%20Kirby's%20Return%20to%20Dreamland%20-%20TheGui9876%20-%201.jpg,http://www.romhackers.org/imagens/traducoes/%5BWII%5D%20Kirby's%20Return%20to%20Dreamland%20-%20TheGui9876%20-%202.jpg,http://www.romhackers.org/imagens/traducoes/%5BWII%5D%20Kirby's%20Return%20to%20Dreamland%20-%20TheGui9876%20-%203.jpg]
 ---
-
 Todos os textos do jogo estão traduzidos e acentuados e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem ISO da versão americana (NTSC-U) do jogo Kirby's Return to Dream Land. Para aplicar o patch de tradução na ISO original, será necessário usar um programa aplicador de patches no formato xdelta3.
