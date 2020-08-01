@@ -30,7 +30,7 @@ defaults:
   - scope:
       type: "romhacks"
     values:
-      layout: "romhacks"
+      layout: "traducoes"
 
 # Configurações de Build
 markdown: kramdown
