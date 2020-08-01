@@ -1,6 +1,6 @@
 ---
 title: " Street Fighter II' - Champion Edition (NeoGeo BR Team)"
-system: "CPS1"
+system: "CPS-1"
 platform: "Arcade"
 game_title: "Street Fighter II' - Champion Edition"
 game_category: "Luta"
