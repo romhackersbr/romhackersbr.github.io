@@ -78,7 +78,7 @@ layout: compress
       <!-- Collapse -->
       <div class="collapse navbar-collapse" id="navegacao">
         <!-- Links Rápidos -->
-        <ul id="menu-superior" class="nav mr-auto">
+        <ul id="menu-superior" class="nav ml-auto mr-auto">
           {% assign menu_superior = site.data.menus.superior | sort: 'order' %}
           {% for item in menu_superior %}
           <li id="menu-superior-{{ item.title | slugify }}" class="nav-item">
