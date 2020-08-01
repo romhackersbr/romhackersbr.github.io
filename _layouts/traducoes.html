@@ -4,14 +4,14 @@ layout: page
 <div class="card mb-10">
   <div class="card-header text-center">
     <!-- Titulo da Tradução -->
-    <h4>{{ page.patch_name }}</h4>
+    <h4>{{ page.title }}</h4>
   </div>
   <div class="card-body">
     <div class="container">
       <div class="row justify-content-center pb-4">
         <!-- Imagem em destaque da Tradução -->
         <div class="col-3">
-          <img src="{{ page.featured }}" alt="Imagem em destaque de {{ page.patch_name }}" class="img-fluid" />
+          <img src="{{ page.patch_images[0] }}" alt="Imagem em destaque de {{ page.title }}" class="img-fluid" />
         </div>
       </div>
       <div class="row">
@@ -29,43 +29,33 @@ layout: page
               </tr>
               <tr>
                 <th scope="row">Tipo</th>
-                <td>
-                  <ul class="list-group">
-                    {% for item in page.type %}
-                    <li class="badge badge-success m-1">{{ item }}</li>
-                    {% endfor %}
-                  </ul>
-                </td>
+                <td>{{ page.game_category}}</td>
               </tr>
               <tr>
                 <th scope="row">Jogadores</th>
-                <td>{{ page.players }}</td>
+                <td>{{ page.game_players }}</td>
               </tr>
               <tr>
                 <th scope="row">Desenvolvedora</th>
-                <td>{{ page.developer }}</td>
+                <td>{{ page.game_developer }}</td>
               </tr>
               <tr>
                 <th scope="row">Distribuidora</th>
-                <td>{{ page.publisher }}</td>
+                <td>{{ page.game_publisher }}</td>
               </tr>
               <tr>
                 <th scope="row">Data de Lançamento</th>
-                <td>{{ page.release_date }}</td>
+                <td>{{ page.game_release_date }}</td>
               </tr>
               <tr>
                 <th scope="row">Tradutor(es)</th>
                 <td>
-                  <ul class="list-group">
-                    {% for item in page.author %}
-                    <li class="badge badge-success m-1">{{ item }}</li>
-                    {% endfor %}
-                  </ul>
+                  {{ page.patch_author }}
                 </td>
               </tr>
               <tr>
                 <th scope="row">Grupo Tradutor</th>
-                <td>{{ page.group_name }}</td>
+                <td>{{ page.patch_group }}</td>
               </tr>
             </tbody>
           </table>
