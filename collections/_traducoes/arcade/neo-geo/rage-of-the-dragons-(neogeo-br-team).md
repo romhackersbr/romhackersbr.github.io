@@ -1,6 +1,6 @@
 ---
 title: " Rage of the Dragons (NeoGeo BR Team)"
-system: "NeoGeo"
+system: "Neo Geo"
 platform: "Arcade"
 game_title: "Rage of the Dragons"
 game_category: "Luta"

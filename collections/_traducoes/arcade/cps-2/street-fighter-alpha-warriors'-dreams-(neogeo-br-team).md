@@ -1,6 +1,6 @@
 ---
 title: " Street Fighter Alpha - Warriors' Dreams (NeoGeo BR Team)"
-system: "CPS2"
+system: "CPS-2"
 platform: "Arcade"
 game_title: "Street Fighter Alpha - Warriors' Dreams"
 game_category: "Luta"

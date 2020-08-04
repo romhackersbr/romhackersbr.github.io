@@ -1,6 +1,6 @@
 ---
 title: " Street Fighter Zero 2 Alpha (NeoGeo BR Team)"
-system: "CPS2"
+system: "CPS-2"
 platform: "Arcade"
 game_title: "Street Fighter Zero 2 Alpha"
 game_category: "Luta"

@@ -1,6 +1,6 @@
 ---
 title: " The King of Fighters '94 (NeoGeo BR Team)"
-system: "NeoGeo"
+system: "Neo Geo"
 platform: "Arcade"
 game_title: "The King of Fighters '94"
 game_category: "Luta"

@@ -1,6 +1,6 @@
 ---
 title: " Art of Fighting (NeoGeo BR Team)"
-system: "NeoGeo"
+system: "Neo Geo"
 platform: "Arcade"
 game_title: "Art of Fighting"
 game_category: "Luta"

@@ -1,6 +1,6 @@
 ---
 title: " The King of Fighters 2002 (NeoGeo BR Team)"
-system: "NeoGeo"
+system: "Neo Geo"
 platform: "Arcade"
 game_title: "The King of Fighters 2002"
 game_category: "Luta"

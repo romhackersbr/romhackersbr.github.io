@@ -1,6 +1,6 @@
 ---
 title: " The King of Fighters 10th Anniversary 2005 Unique (NeoGeo BR Team)"
-system: "NeoGeo"
+system: "Neo Geo"
 platform: "Arcade"
 game_title: "The King of Fighters 10th Anniversary 2005 Unique"
 game_category: "Luta"

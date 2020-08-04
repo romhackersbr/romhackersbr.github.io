@@ -1,6 +1,6 @@
 ---
 title: " Street Fighter Alpha 3 (Alan Web Page)"
-system: "CPS2"
+system: "CPS-2"
 platform: "Arcade"
 game_title: "Street Fighter Alpha 3"
 game_category: "Luta"

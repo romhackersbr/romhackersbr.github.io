@@ -1,6 +1,6 @@
 ---
 title: " The King of Fighters 10th Anniversary (NeoGeo BR Team)"
-system: "NeoGeo"
+system: "Neo Geo"
 platform: "Arcade"
 game_title: "The King of Fighters 10th Anniversary"
 game_category: "Luta"
