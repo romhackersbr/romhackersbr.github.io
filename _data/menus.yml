@@ -3,10 +3,10 @@ superior:
 - url: /
   title: Início
   order: 1
-- url: https://romhacking.net.br
+- url: https://www.romhacking.net.br
   title: Fórum
   order: 2
-- url: /
+- url: https://www.bau.romhacking.net.br/
   title: Fórum (antigo)
   order: 3
 - url: /
