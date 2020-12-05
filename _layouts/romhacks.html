@@ -11,9 +11,15 @@ layout: page
       <div class="row justify-content-center pb-4">
         <!-- Imagem em destaque da Tradução -->
         {% for image in page.patch_images %}
-        <div class="col-3">
+        {% if forloop.first %}
+        <div class="col">
           <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
         </div>
+        {% else %}
+          <div class="col-3">
+            <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
+          </div>
+        {% endif %}
         {% endfor %}
       </div>
       <div class="row">
