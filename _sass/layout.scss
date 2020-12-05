@@ -18,8 +18,8 @@
 }
 
 .menu-lateral {
-  min-width: 17rem;
-  width: 17rem;
+  min-width: 10rem;
+  width: 10rem;
   height: 100vh;
   position: fixed;
   top: 0;
@@ -29,13 +29,13 @@
 }
 
 .conteudo-principal {
-  width: calc(100% - 17rem);
-  margin-left: 17rem;
+  width: calc(100% - 10rem);
+  margin-left: 10rem;
   transition: all 0.4s;
 }
 
 #sidebar.active {
-  margin-left: -17rem;
+  margin-left: -10rem;
 }
 
 #content.active {
@@ -45,7 +45,7 @@
 
 @media (max-width: 768px) {
   #sidebar {
-    margin-left: -17rem;
+    margin-left: -10rem;
   }
   #sidebar.active {
     margin-left: 0;
@@ -55,7 +55,7 @@
     margin: 0;
   }
   #content.active {
-    margin-left: 17rem;
+    margin-left: 10rem;
     width: 100%;
   }
 }
