@@ -115,3 +115,13 @@ body {
 th[scope=row] {
   width: 150px;
 }
+
+.card-img-group-top {
+  width: 100%;
+  border-top-left-radius: calc(.25rem - 1px);
+  border-top-right-radius: calc(.25rem - 1px);
+}
+.card-img-group-top .row {
+  padding: 0;
+  margin: 0;
+}
