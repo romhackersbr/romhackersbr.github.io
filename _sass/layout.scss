@@ -18,8 +18,8 @@
 }
 
 .menu-lateral {
-  min-width: 10rem;
-  width: 10rem;
+  min-width: 12rem;
+  width: 12rem;
   height: 100vh;
   position: fixed;
   top: 0;
@@ -29,13 +29,13 @@
 }
 
 .conteudo-principal {
-  width: calc(100% - 10rem);
+  width: calc(100% - 12rem);
   margin-left: 10rem;
   transition: all 0.4s;
 }
 
 #sidebar.active {
-  margin-left: -10rem;
+  margin-left: -12rem;
 }
 
 #content.active {
@@ -45,7 +45,7 @@
 
 @media (max-width: 768px) {
   #sidebar {
-    margin-left: -10rem;
+    margin-left: -12rem;
   }
   #sidebar.active {
     margin-left: 0;
@@ -55,7 +55,7 @@
     margin: 0;
   }
   #content.active {
-    margin-left: 10rem;
+    margin-left: 12rem;
     width: 100%;
   }
 }
