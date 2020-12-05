@@ -1,4 +1,4 @@
-<p class="text-gray font-weight-bold text-uppercase px-3 small pb-4 mb-0">Menu Principal</p>
+<p class="text-gray font-weight-bold text-uppercase px-2 small mb-2">Menu Principal</p>
 
 <ul class="nav flex-column bg-white mb-0">
   {% assign menus = site.pages | where_exp: "item" , "item.menu == true" | sort: "menu_order" | uniq  %}
