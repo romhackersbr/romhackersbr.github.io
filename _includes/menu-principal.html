@@ -4,7 +4,7 @@
   {% assign menus = site.pages | where_exp: "item" , "item.menu == true" | sort: "menu_order" | uniq  %}
   {% for item in menus %}
   <li id="menu-principal-{{ item.title | slugify }}" class="nav-item">
-    <a href="{{ item.url | prepend: site.baseurl }}" class="nav-link text-dark font-italic bg-light">
+    <a href="{{ item.url | prepend: site.baseurl }}" class="nav-link text-dark bg-light">
       <i class="fa fa-pobre mr-3 text-primary"></i>
       {{ item.title }}
     </a>
