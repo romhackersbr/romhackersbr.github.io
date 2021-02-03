@@ -9,12 +9,33 @@ superior:
 - url: https://www.bau.romhacking.net.br/
   title: Fórum (antigo)
   order: 3
-- url: /
+- url: /equipe
   title: Equipe
   order: 4
-- url: /
+- url: /projetos
   title: Projetos
   order: 5
-- url: /
+- url: /contato
   title: Contato
   order: 5
+
+principal:
+- url: /noticias
+  title: Notícias
+  order: 1
+- url: /traducoes
+  title: Traduções
+  order: 2
+- url: /romhacks
+  title: Romhacks
+  order: 3
+- url: /tutoriais
+  title: Tutoriais
+  order: 4
+- url: /utilitarios
+  title: Utilitários
+  order: 5
+- url: /emuladores
+  title: Emuladores
+  order: 6
+

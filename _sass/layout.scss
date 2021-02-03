@@ -12,7 +12,7 @@
 .fa-pobre {
   text-align: center;
   width: 1em;
-  background-image: url(http://romhackers.org/themes/7Clean/images/puce.gif);
+  background-image: url(../gif/puce.gif);
   background-color: transparent;
   height: 1em;
 }
@@ -67,6 +67,7 @@
 body {
   min-height: 100vh;
   overflow-x: hidden;
+  background: url('../gif/block.gif')
 }
 
 .scroll-top {
@@ -120,9 +121,13 @@ th[scope=row] {
   width: 100%;
   border-top-left-radius: calc(.25rem - 1px);
   border-top-right-radius: calc(.25rem - 1px);
-  margin: 10px -20px 0;
+  margin: 10px 0 0;
 }
 .card-img-group-top .row {
+  padding: 0;
+  margin: 0;
+}
+.card-img-group-top .row .col-6 {
   padding: 0;
   margin: 0;
 }

@@ -12,9 +12,12 @@ url: ""
 collections_dir: collections
 collections:
   noticias:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:slug/"
     output: true
   traducoes:
+    permalink: "/:collection/:path/"
+    output: true
+  romhacks:
     permalink: "/:collection/:path/"
     output: true
 
@@ -24,6 +27,14 @@ defaults:
       type: "traducoes"
     values:
       layout: "traducoes"
+  - scope:
+      type: "romhacks"
+    values:
+      layout: "romhacks"
+  - scope:
+      type: "noticias"
+    values:
+      layout: "noticias"
 
 # Configurações de Build
 markdown: kramdown

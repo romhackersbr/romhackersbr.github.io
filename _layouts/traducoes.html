@@ -9,22 +9,37 @@ layout: page
   <div class="card-body">
     <div class="container">
       <div class="row justify-content-center pb-4">
-        <!-- Imagem em destaque da Tradução -->
-        {% for image in page.patch_images %}
-        {% if forloop.first %}
-        <div class="col">
-          <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
-        </div>
-        {% else %}
-          <div class="col-3">
-            <img src="{{ image }}" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
+
+        <div id="featured-screenshots" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+          <!-- Imagem em destaque da Tradução -->
+          {% for image in page.patch_images %}
+          {% if forloop.first %}
+            <div class="carousel-item active">
+              <img src="{{ image }}" class="d-block w-100 img-thumbnail" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
+            </div>
+          {% else %}
+            <div class="carousel-item">
+              <img src="{{ image }}" class="d-block w-100 img-thumbnail" alt="Imagem em destaque de {{ page.title }}" class="img-thumbnail" />
+            </div>
+          {% endif %}
+          {% endfor %}
           </div>
-        {% endif %}
-        {% endfor %}
+          <a class="carousel-control-prev" href="#featured-screenshots" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+          </a>
+          <a class="carousel-control-next" href="#featured-screenshots" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próxima</span>
+          </a>
+        </div>
+
       </div>
       <div class="row">
         <!-- Detalhes da Tradução -->
-        <div class="col-xs-12 col-md-6 pt-5">
+        <div class="col-xs-12 col-md-4 pt-5">
+
           <h5 class="badge badge-secondary text-light">Jogo:</h5>
           <table class="table table-sm table-striped">
             <tbody>
@@ -58,9 +73,11 @@ layout: page
               </tr>
             </tbody>
           </table>
+
         </div>
         <!-- Detalhes da Tradução -->
-        <div class="col-xs-12 col-md-6 pt-5">
+        <div class="col-xs-12 col-md-8 pt-5">
+
           <h5 class="badge badge-secondary text-light">Tradução:</h5>
           <table class="table table-sm table-striped">
             <tbody>
@@ -97,6 +114,7 @@ layout: page
             </tbody>
           </table>
         </div>
+
       </div>
       <!-- Separador da Descrição da Tradução -->
       <div class="row">
@@ -110,6 +128,23 @@ layout: page
           {{ content }}
         </div>
       </div>
+
+      <!-- Separador do Link de Download da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Download da Tradução -->
+      <div class="row justify-content-center">
+        <div class="col-xs-12 col-md-3 ml-auto">
+          <a href="https://cdn.romhackers.org/traducoes/{{ page.platform }}/{{ page.system }}/{{ page.title }}.zip" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true">Baixar Patch</a>
+        </div>
+        <div class="col-xs-12 col-md-3 mr-auto">
+          <button type="button" class="btn btn-dark" disabled>Aplicar Patch</button>
+        </div>
+      </div>
+
     </div>
   </div>
 </div>

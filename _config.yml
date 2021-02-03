@@ -12,7 +12,7 @@ url: "https://romhackersbr.github.io"
 collections_dir: collections
 collections:
   noticias:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:slug/"
     output: true
   traducoes:
     permalink: "/:collection/:path/"
@@ -31,6 +31,18 @@ defaults:
       type: "romhacks"
     values:
       layout: "romhacks"
+  - scope:
+      type: "noticias"
+    values:
+      layout: "noticias"
+  - scope:
+      type: "emuladores"
+    values:
+      layout: "emuladores"
+  - scope:
+      type: "tutoriais"
+    values:
+      layout: "tutoriais"
 
 # Configurações de Build
 markdown: kramdown

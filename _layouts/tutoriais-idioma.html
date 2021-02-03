@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+{% assign languages = site.pages | where_exp: "item" , "item.path contains page.permalink" | uniq %}
+{% for language in languages %}
+  {% assign level = language.dir | split: "/" | size %}
+  {% if level == 4 %}
+  <li id="{{ language.url | slugify }}" class="list-group-item">
+    <a href="{{ language.url | prepend: site.baseurl }}">{{ language.title }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>

@@ -1,0 +1,24 @@
+---
+layout: page
+---
+{% if content.size > 5 %}
+<div class="card mb-10">
+  {% if page.featured %}
+  <img class="card-img-top"  src="{{ page.featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ page.title }}" />
+  {% endif %}
+  <div class="card-body">
+    <p class="card-text">{{ content }}</p>
+  </div>
+</div>
+{% endif %}
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+  {% assign emulators = site.emuladores | where:"system", page.title %}
+  {% for emulator in emulators %}
+    <li id="{{ emulator.url | slugify }}" class="list-group-item">
+      <a href="{{ emulator.url | prepend: site.baseurl }}" alt="{{ emulator.title }}">
+        {{ hack.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

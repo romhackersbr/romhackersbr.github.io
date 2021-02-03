@@ -1,8 +1,8 @@
 <p class="text-gray font-weight-bold text-uppercase px-2 small mb-2">Menu Principal</p>
 
 <ul class="nav flex-column bg-white mb-0">
-  {% assign menus = site.pages | where_exp: "item" , "item.menu == true" | sort: "menu_order" | uniq  %}
-  {% for item in menus %}
+  {% assign menu_principal = site.data.menus.principal | sort: 'order' %}
+  {% for item in menu_principal %}
   <li id="menu-principal-{{ item.title | slugify }}" class="nav-item">
     <a href="{{ item.url | prepend: site.baseurl }}" class="nav-link text-dark bg-light">
       <i class="fa fa-pobre mr-3 text-primary"></i>
