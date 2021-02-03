@@ -4,7 +4,6 @@ title: "Atualizações no site 26-04-2020: 41 novas traduções e alguns bônus"
 slug: "atualizacoes-no-site-26-04-2020-41-novas-traducoes-e-alguns-bonus"
 author: "Mr.Fox"
 comments: true
-featured_image: "http://www.romhackers.org/imagens/hacks/%5BA26%5D%20Bermuda%20%5BHack%201%5D%20%5BH-SpkLeader%20G-SpkSoft%5D%20%5BA-1998%5D%20%5BBermuda%20Hack%5D.png"
 ---
 
 Boa noite, meus caros (e minhas caras) visitantes do **PO.B.R.E.** Hoje eu estou aqui para cumprir uma promessa que fiz ha varios meses: apos um longo periodo sem atualizar o site, eu aproveitei este periodo de quarentena forcada e cadastrei 41 traducoes que haviam sido lancadas no [Forum Unificado de Romhacking e Traducao](https://web.archive.org/web/20210125021452/http://romhacking.net.br/), mas que ainda nao estavam disponiveis aqui no **PO.B.R.E.**
@@ -12,13 +11,12 @@ Boa noite, meus caros (e minhas caras) visitantes do **PO.B.R.E.** Hoje eu est
 As traducoes sao as seguintes:
 
 **Mega Drive (3 traduções)**:
-
 -   [Chip 'n Dale - Rescue Ranger (Tugahack)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1456)
 -   [Rolling Thunder 2 (Tedenfe e Anime_World)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1455)
 -   [Turma da Monica na Terra dos Monstros (Anime_World)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1457)
 
-**NES (7 traduções)**:
 
+**NES (7 traduções)**:
 -   [1942 (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1451)
 -   [1943 - The Battle of Midway (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1450)
 -   [8 Eye's (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1452)
@@ -27,8 +25,8 @@ As traducoes sao as seguintes:
 -   [The Adventures of Bayou Billy (Andyriddler e NatÃ¡lia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1453)
 -   [The Blues Brothers (Andyriddler e Natalia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1446)
 
-**PC (7 traduções)**:
 
+**PC (7 traduções)**:
 -   [Another Metroid 2 Remake v1.1 (hiratafabio)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1421)
 -   [Another Metroid 2 Remake v1.1 (JohnVyttalRay)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1422)
 -   [Another Metroid 2 Remake v1.1 (uesudorasu)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1423)
@@ -37,12 +35,12 @@ As traducoes sao as seguintes:
 -   [Another Metroid 2 Remake v1.1 (JuninhoDancer)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1426)
 -   [Another Metroid 2 Remake v1.1 (Kazemaru)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1427)
 
-**Playstation (1 tradução)**:
 
+**Playstation (1 tradução)**:
 -   [Harvest Moon - Back to Nature (Denver)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=25&lid=969) (**versão atualizada!**)
 
-**Playstation 2 (11 traduções)**:
 
+**Playstation 2 (11 traduções)**:
 -   [Airborne Troops (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1430)
 -   [Cold Fear (versao americana) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1442)
 -   [Cold Fear (versao europeia) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1441)
@@ -55,18 +53,18 @@ As traducoes sao as seguintes:
 -   [Rogue Trooper (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1438)
 -   [Sniper Elite - Berlin 1945 (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1437)
 
-**Playstation 3 (1 traducao)**:
 
+**Playstation 3 (1 traducao)**:
 -   [Brothers in Arms - Hell's Highway (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=84&lid=1433)
 
-**PSP (3 traduções)**:
 
+**PSP (3 traduções)**:
 -   [LEGO Batman - The Videogame (HNNEWGAMES e PS Traduz)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1434)
 -   [Medal of Honor Heroes (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1432)
 -   [Miami Vice - The Game (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1428)
 
-**SG-1000 (8 traduções)**:
 
+**SG-1000 (8 traduções)**:
 -   [Doki Doki Penguin Land (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1449)
 -   [Dragon Wang (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1460)
 -   [GP World (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1447)
@@ -75,6 +73,7 @@ As traducoes sao as seguintes:
 -   [Pachinko (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436)
 -   [Pitfall II - The Lost Caverns (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)
 -   [Sega Galaga (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
+
 
 Eu tambem aproveitei a deixa para cadastrar o utilitario [Boolean Match - Binary Pattern Search](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads2/singlefile.php?cid=2&lid=249), feito por **Neto RPG**.
 
@@ -92,5 +91,6 @@ Segue o link para download do hack de correcao:
 
 -   [Castlevania Netflix - Sypha Ending Bugfix - Versao 1.0](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads0/singlefile.php?cid=38&lid=78)\
 OBS: O patch que corrige a versao japonesa serve para a ROM hackeada (Castlevania Netflix) **com ou sem** a minha traducao para o portugues.
+
 
 Entao é isso, pessoal. Ao longo do ano, eu tentarei dar continuidade a esse trabalho de atualizar o conteudo do site, e postarei noticias sobre as novas adicoes de tempos em tempos. Tenham um otimo divertimento, e fiquem atentos as proximas noticias. ![](https://web.archive.org/web/20210125021452im_/http://romhackers.org/uploads/smil470474167631b.gif)
