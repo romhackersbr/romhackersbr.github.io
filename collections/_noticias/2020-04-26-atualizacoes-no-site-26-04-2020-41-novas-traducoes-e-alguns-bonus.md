@@ -13,15 +13,29 @@ As traducoes sao as seguintes:
 
 **Mega Drive (3 traducoes)**:
 
--   [Chip 'n Dale - Rescue Ranger (Tugahack)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1456)-   [Rolling Thunder 2 (Tedenfe e Anime_World)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1455)-   [Turma da Monica na Terra dos Monstros (Anime_World)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1457)
+-   [Chip 'n Dale - Rescue Ranger (Tugahack)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1456)
+-   [Rolling Thunder 2 (Tedenfe e Anime_World)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1455)
+-   [Turma da Monica na Terra dos Monstros (Anime_World)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1457)
 
 **NES (7 traducoes)**:
 
--   [1942 (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1451)-   [1943 - The Battle of Midway (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1450)-   [8 Eye's (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1452)-   [Crash 'n' the Boys - Street Challenge (Andyriddler e Natalia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1459)-   [The 3-D Battles of World Runner (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1445)-   [The Adventures of Bayou Billy (Andyriddler e NatÃ¡lia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1453)-   [The Blues Brothers (Andyriddler e Natalia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1446)
+-   [1942 (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1451)
+-   [1943 - The Battle of Midway (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1450)
+-   [8 Eye's (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1452)
+-   [Crash 'n' the Boys - Street Challenge (Andyriddler e Natalia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1459)
+-   [The 3-D Battles of World Runner (Andyriddler)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1445)
+-   [The Adventures of Bayou Billy (Andyriddler e NatÃ¡lia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1453)
+-   [The Blues Brothers (Andyriddler e Natalia)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1446)
 
 **PC (7 traducoes)**:
 
--   [Another Metroid 2 Remake v1.1 (hiratafabio)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1421)-   [Another Metroid 2 Remake v1.1 (JohnVyttalRay)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1422)-   [Another Metroid 2 Remake v1.1 (uesudorasu)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1423)-   [Another Metroid 2 Remake v1.1 (JonBaxter)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1424)-   [Another Metroid 2 Remake v1.1 (renmr)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1425)-   [Another Metroid 2 Remake v1.1 (JuninhoDancer)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1426)-   [Another Metroid 2 Remake v1.1 (Kazemaru)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1427)
+-   [Another Metroid 2 Remake v1.1 (hiratafabio)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1421)
+-   [Another Metroid 2 Remake v1.1 (JohnVyttalRay)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1422)
+-   [Another Metroid 2 Remake v1.1 (uesudorasu)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1423)
+-   [Another Metroid 2 Remake v1.1 (JonBaxter)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1424)
+-   [Another Metroid 2 Remake v1.1 (renmr)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1425)
+-   [Another Metroid 2 Remake v1.1 (JuninhoDancer)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1426)
+-   [Another Metroid 2 Remake v1.1 (Kazemaru)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1427)
 
 **Playstation (1 traducao)**:
 
@@ -29,7 +43,17 @@ As traducoes sao as seguintes:
 
 **Playstation 2 (11 traducoes)**:
 
--   [Airborne Troops (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1430)-   [Cold Fear (versao americana) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1442)-   [Cold Fear (versao europeia) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1441)-   [Darkwatch (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1435)-   [Delta Force - Black Hawk Down (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1431)-   [Gunfighter II - Revenge of Jesse James (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1429)-   [Need for Speed Undercover (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1461)-   [ObsCure II - The Aftermath (versao americana) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1440)-   [ObsCure II - The Aftermath (versao europeia) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1439)-   [Rogue Trooper (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1438)-   [Sniper Elite - Berlin 1945 (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1437)
+-   [Airborne Troops (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1430)
+-   [Cold Fear (versao americana) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1442)
+-   [Cold Fear (versao europeia) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1441)
+-   [Darkwatch (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1435)
+-   [Delta Force - Black Hawk Down (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1431)
+-   [Gunfighter II - Revenge of Jesse James (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1429)
+-   [Need for Speed Undercover (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1461)
+-   [ObsCure II - The Aftermath (versao americana) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1440)
+-   [ObsCure II - The Aftermath (versao europeia) (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1439)
+-   [Rogue Trooper (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1438)
+-   [Sniper Elite - Berlin 1945 (HNNEWGAMES)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1437)
 
 **Playstation 3 (1 traducao)**:
 
@@ -37,11 +61,20 @@ As traducoes sao as seguintes:
 
 **PSP (3 traducoes)**:
 
--   [LEGO Batman - The Videogame (HNNEWGAMES e PS Traduz)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1434)-   [Medal of Honor Heroes (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1432)-   [Miami Vice - The Game (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1428)
+-   [LEGO Batman - The Videogame (HNNEWGAMES e PS Traduz)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1434)
+-   [Medal of Honor Heroes (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1432)
+-   [Miami Vice - The Game (hnnewgames)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1428)
 
 **SG-1000 (8 traducoes)**:
 
--   [Doki Doki Penguin Land (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1449)-   [Dragon Wang (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1460)-   [GP World (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1447)-   [Gulkave (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1443)-   [Orguss (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1444)-   [Pachinko (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436)-   [Pitfall II - The Lost Caverns (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)-   [Sega Galaga (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
+-   [Doki Doki Penguin Land (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1449)
+-   [Dragon Wang (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1460)
+-   [GP World (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1447)
+-   [Gulkave (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1443)
+-   [Orguss (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1444)
+-   [Pachinko (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436)
+-   [Pitfall II - The Lost Caverns (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)
+-   [Sega Galaga (Patryck)](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
 
 Eu tambem aproveitei a deixa para cadastrar o utilitario [Boolean Match - Binary Pattern Search](https://web.archive.org/web/20210125021452/http://romhackers.org/modules/PDdownloads2/singlefile.php?cid=2&lid=249), feito por **Neto RPG**.
 
