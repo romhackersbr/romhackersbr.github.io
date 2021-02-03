@@ -2,75 +2,37 @@
 layout: page
 title: "Notícias"
 ---
+    <!-- Listagem de Notícias -->
+    <ul id="{{ page.url | slugify }}" class="list-group">
+    {% assign noticias = site.noticias | sort: "date" %}
+    {% for noticia in noticias reversed %}
+      <!-- Noticia: {{ noticia.title }}-->
+      <li id="{{ noticia.url | slugify }}" class="list-group-item mb-2">
+        <div class="card mb-1">
+          <div class="card-header text-center">
+            <!-- Titulo da Notícia -->
+            <h4><a href="{{ noticia.url | prepend: site.baseurl }}" alt="{{ noticia.title }}">{{ noticia.title }}</a></h4>
+            <small>Enviado em {{ noticia.date | date: "%d/%m/%Y" }} às {{ noticia.date | date: "%H:%M" }} por {{ noticia.author }}</small>
+          </div>
+          <div class="card-body">
+            <div class="container">
 
-{% assign posts = site.noticias | sort: 'date' %}
-{% for post in posts reversed %}
+              <!-- Conteúdo da Notícia -->
+              <div class="row">
+                <div class="col-12">
+                  <p>{{ noticia.content | strip_html }}</p>
+                </div>
+              </div>
 
-  <div class="container">
-    <div class="row">
-      <div class="col-4">
-        <!-- Imagem em Destaque -->
-        {% if post.thumbnail %}
-          <img class="img-thumbnail"  src="{{ post.thumbnail | prepend: site.baseurl }}" alt="Imagem em destaque de {{ post.title }}" />
-        {% else %}
-          <img class="img-thumbnail"  src="https://via.placeholder.com/400" alt="Imagem em destaque" />        
-        {% endif %}
-      </div>
-      <div class="col-8">
-
-        <div class="container">
-
-          <div class="row">
-            <div class="col-12">
-              <ul class="nav">
-              {% for cat in post.categories %}
-                  <li class="nav-item">
-                    {% if forloop.first == false %}
-                    <a class="nav-link">{{ cat }}</a>
-                    {% else %}
-                    <a class="nav-link pl-1">{{ cat }}</a>
-                    {% endif %}
-                  </li>
-              {% endfor %}
-              </ul>
             </div>
           </div>
-
-          <div class="row">
-            <div class="col-12">
-              <h2><a class="text-success" href="{{ post.url }}" alt="{{ post.title }}">{{ post.title }}</a></h2>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-12">
-              <p>{{ post.excerpt | strip_html }}</p>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-12">
-              <span>{{ post.date | date: "%d/%m/%Y às %H:%M:%S"}}</span>
-            </div>
-          </div>
-
         </div>
-
-      </div>
-    </div>
-
-  </div>
-
-{% if forloop.last == false %}
-
-  <!-- Separador -->
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <hr />
-      </div>
-    </div>
-  </div>
-  {% endif %}
-
-{% endfor %}
+        <div class="container">
+          <div class="row">
+            <div class="col-6 text-center"><a href="{{ noticia.url | prepend: site.baseurl }}" alt="{{ noticia.title }}">Link para a Notícia</a></div>
+            <div class="col-6 text-center">Comentários</div>
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+    </ul>
