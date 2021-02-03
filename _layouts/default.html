@@ -127,9 +127,13 @@ layout: compress
     ga('create', '{{ site.google_analytics_key }}', 'auto');
     ga('send', 'pageview');
   </script>
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  <script async src='//www.google-analytics.com/analytics.js'></script>
   {% endif %}
 
+  <!-- DisqUS -->
+  {% if jekyll.environment == 'production' %}
+  <script id="dsq-count-scr" src="//romhackersorg.disqus.com/count.js" async></script>
+  {% endif %}
 
 
 </body>
