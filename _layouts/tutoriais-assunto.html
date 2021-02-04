@@ -15,10 +15,12 @@ layout: page
 <ul id="{{ page.url | slugify }}" class="list-group">
   {% assign tutoriais = site.tutoriais | where:"category", page.title %}
   {% for tutorial in tutoriais %}
+    {% if tutorial.url contains page.permalink %}
     <li id="{{ tutorial.url | slugify }}" class="list-group-item">
       <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
         {{ tutorial.title }}
       </a>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
