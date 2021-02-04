@@ -15,6 +15,18 @@
         {% endfor %}
         {% endfor %}
       </div>
+      <div class="row">
+        <ul>
+          {% assign traducoes = site.traducoes | sort: "date" %}
+          {% for traducao in traducoes reversed limit:4 %}
+          <li>
+            <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
+              {{ traducao.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
     <div class="card-body">
       <h5 class="card-title text-center">Traduções Recentes</h5>
@@ -35,6 +47,18 @@
         </div>
         {% endfor %}
         {% endfor %}
+      </div>
+      <div class="row">
+        <ul>
+          {% assign romhacks = site.romhacks | sort: "date" %}
+          {% for romhack in romhacks reversed limit:4 %}
+          <li>
+            <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
+              {{ romhack.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
     <div class="card-body">
