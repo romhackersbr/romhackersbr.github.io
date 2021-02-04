@@ -15,7 +15,8 @@
         {% endfor %}
         {% endfor %}
       </div>
-      <div class="row">
+    </div>
+    <div class="card-header">
         <ul>
           {% assign traducoes = site.traducoes | sort: "date" %}
           {% for traducao in traducoes reversed limit:4 %}
@@ -48,7 +49,8 @@
         {% endfor %}
         {% endfor %}
       </div>
-      <div class="row">
+    </div>
+    <div class="card-header">
         <ul>
           {% assign romhacks = site.romhacks | sort: "date" %}
           {% for romhack in romhacks reversed limit:4 %}
