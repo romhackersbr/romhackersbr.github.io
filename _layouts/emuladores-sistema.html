@@ -17,7 +17,7 @@ layout: page
   {% for emulator in emulators %}
     <li id="{{ emulator.url | slugify }}" class="list-group-item">
       <a href="{{ emulator.url | prepend: site.baseurl }}" alt="{{ emulator.title }}">
-        {{ hack.title }}
+        {{ emulator.title }}
       </a>
     </li>
   {% endfor %}
