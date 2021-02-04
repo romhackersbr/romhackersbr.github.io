@@ -23,6 +23,9 @@ collections:
   emuladores:
     permalink: "/:collection/:path/"
     output: true
+  utilitarios:
+    permalink: "/:collection/:path/"
+    output: true
   tutoriais:
     permalink: "/:collection/:path/"
     output: true
@@ -45,6 +48,10 @@ defaults:
       type: "emuladores"
     values:
       layout: "emuladores"
+  - scope:
+      type: "utilitarios"
+    values:
+      layout: "utilitarios"
   - scope:
       type: "tutoriais"
     values:
