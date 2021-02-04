@@ -13,7 +13,7 @@ layout: page
 {% endif %}
 
 <ul id="{{ page.url | slugify }}" class="list-group">
-  {% assign tutoriais = site.traducoes | where:"category", page.title %}
+  {% assign tutoriais = site.tutoriais | where:"category", page.title %}
   {% for tutorial in tutoriais %}
     <li id="{{ tutorial.url | slugify }}" class="list-group-item">
       <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
