@@ -1,0 +1,89 @@
+---
+layout: page
+---
+<div class="card mb-10">
+  <div class="card-header text-center">
+    <!-- Titulo do Tutorial -->
+    <h4>{{ page.doc_title }}</h4>
+  </div>
+  <div class="card-body">
+    <div class="container">
+
+      <div class="row">
+        <!-- Detalhes do Tutorial -->
+        <div class="col-xs-12 col-md-12">
+
+          <h5 class="badge badge-secondary text-light">Detalhes:</h5>
+          <table class="table table-sm table-striped">
+            <tbody>
+              <tr>
+                <th scope="row">Autor</th>
+                <td>{{ page.author }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Grupo</th>
+                <td>{{ page.group }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Site</th>
+                <td>{{ page.site}}</td>
+              </tr>
+              <tr>
+                <th scope="row">Versão</th>
+                <td>{{ page.version }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Nível</th>
+                <td>{{ page.level }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Idioma</th>
+                <td>{{ page.language }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Data de Lançamento</th>
+                <td>{{ page.release_date }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Formato</th>
+                <td>{{ page.format }}</td>
+              </tr>
+              <tr>
+                <th scope="row">Sistema</th>
+                <td>{{ page.system }}</td>
+              </tr>
+            </tbody>
+          </table>
+
+        </div>
+
+      </div>
+      <!-- Separador da Descrição da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Descrição da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+
+      <!-- Separador do Link de Download da Tradução -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Download da Tradução -->
+      <div class="row justify-content-center">
+        <div class="col-xs-12 col-md-12 ml-auto text-center">
+          <a href="https://cdn.romhackers.org/tutoriais/geral/{{ page.title }}.zip" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true">Baixar Tutorial</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: page
+---
+{% if content.size > 5 %}
+<div class="card pt-4 mb-2">
+  {% if page.featured %}
+  <img class="card-img-top"  src="{{ page.featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ page.title }}" />
+  {% endif %}
+  <div class="card-body">
+    <p class="card-text">{{ content }}</p>
+  </div>
+</div>
+{% endif %}
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+  {% assign utilitarios = site.utilitarios | where:"category", page.title %}
+  {% for utilitario in utilitarios %}
+    {% if utilitario.url contains page.permalink %}
+    <li id="{{ tutorial.url | slugify }}" class="list-group-item">
+      <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
+        {{ utilitario.title }}
+      </a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
