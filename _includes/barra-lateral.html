@@ -1,18 +1,23 @@
 <div class="col-xs-12 col-md-3">
 
+  <!-- Widget do Discord -->
+  <iframe src="https://discord.com/widget?id=89646072086929408&theme=dark" width="350" height="500"
+    allowtransparency="true" frameborder="0"
+    sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
   <!-- Traduções Recentes -->
   <div class="card mt-4 mb-2">
     <div class="card-img-group-top container">
       <div class="row">
         {% assign traducoes = site.traducoes | sort: "date" %}
         {% for traducao in traducoes reversed limit:4 %}
-          {% for image in traducao.patch_images limit:1 %}
-          <div class="col-6">
-            <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
-              <img src="{{ image }}" class="d-block w-100" alt="{{ traducao.title }}"></img>
-            </a>
-          </div>
-          {% endfor %}
+        {% for image in traducao.patch_images limit:1 %}
+        <div class="col-6">
+          <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
+            <img src="{{ image }}" class="d-block w-100" alt="{{ traducao.title }}"></img>
+          </a>
+        </div>
+        {% endfor %}
         {% endfor %}
       </div>
     </div>
@@ -27,13 +32,13 @@
       <div class="row">
         {% assign romhacks = site.romhacks | sort: "date" %}
         {% for romhack in romhacks reversed limit:4 %}
-          {% for image in romhack.patch_images limit:1 %}
-          <div class="col-6">
-            <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
-              <img src="{{ image }}" class="d-block w-100" alt="{{ romhack.title }}"></img>
-            </a>
-          </div>
-          {% endfor %}
+        {% for image in romhack.patch_images limit:1 %}
+        <div class="col-6">
+          <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
+            <img src="{{ image }}" class="d-block w-100" alt="{{ romhack.title }}"></img>
+          </a>
+        </div>
+        {% endfor %}
         {% endfor %}
       </div>
     </div>

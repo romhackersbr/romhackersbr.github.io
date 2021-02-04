@@ -3,6 +3,7 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="pt-br" itemscope itemtype="http://schema.org/Webpage">
+
 <head>
 
   <!-- SEO -->
@@ -80,8 +81,7 @@ layout: compress
           {% assign menu_superior = site.data.menus.superior | sort: 'order' %}
           {% for item in menu_superior %}
           <li id="menu-superior-{{ item.title | slugify }}" class="nav-item">
-            <a class="nav-link text-white" href="{{ item.url }}"
-              title="Ir para {{ item.title }}">{{ item.title }}</a>
+            <a class="nav-link text-white" href="{{ item.url }}" title="Ir para {{ item.title }}">{{ item.title }}</a>
           </li>
           {% endfor %}
         </ul>

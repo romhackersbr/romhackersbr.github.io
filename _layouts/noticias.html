@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="col-xs-12 col-md-9">
-  
+
   <!-- Título da Página -->
   <div class="row">
     <div class="col-12">
@@ -19,7 +19,8 @@ layout: default
 
   <div class="card mb-1">
     <div class="card-header text-center">
-      <small>Enviado em {{ page.date | date: "%d/%m/%Y" }} às {{ page.date | date: "%H:%M" }} por {{ page.author }}</small>
+      <small>Enviado em {{ page.date | date: "%d/%m/%Y" }} às {{ page.date | date: "%H:%M" }} por
+        {{ page.author }}</small>
     </div>
     <div class="card-body">
       <div class="container">
@@ -35,16 +36,25 @@ layout: default
     </div>
   </div>
 
-  {% if page.comments %} 
+  {% if page.comments %}
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = {{ page.url | prepend: site.baseurl}};  // Replace PAGE_URL with your page's canonical URL variable
-      this.page.identifier = {{ page.id }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      this.page.url = {
+        {
+          page.url | prepend: site.baseurl
+        }
+      }; // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = {
+        {
+          page.id
+        }
+      }; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
   </script>
   <script id="dsq-count-scr" src="//romhackersorg.disqus.com/embed.js" async></script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+      Disqus.</a></noscript>
   {% endif %}
 
 </div>
