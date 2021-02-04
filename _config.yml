@@ -20,6 +20,12 @@ collections:
   romhacks:
     permalink: "/:collection/:path/"
     output: true
+  emuladores:
+    permalink: "/:collection/:path/"
+    output: true
+  tutoriais:
+    permalink: "/:collection/:path/"
+    output: true
 
 # Escopo
 defaults:
