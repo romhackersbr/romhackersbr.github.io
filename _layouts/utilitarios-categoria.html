@@ -16,8 +16,8 @@ layout: page
   {% assign utilitarios = site.utilitarios | where:"category", page.title %}
   {% for utilitario in utilitarios %}
     {% if utilitario.url contains page.permalink %}
-    <li id="{{ tutorial.url | slugify }}" class="list-group-item">
-      <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
+    <li id="{{ utilitario.url | slugify }}" class="list-group-item">
+      <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
         {{ utilitario.title }}
       </a>
     </li>
