@@ -3,4 +3,47 @@ layout: page
 permalink: /equipe/
 title: Equipe
 ---
-Conteúdo da Página
+<!-- Membros Ativos -->
+<div class="card mb-2">
+    <div class="card-header">
+        <h5 class="card-title text-center">Membros Ativos</h5>
+    </div>
+    <div class="card-body">
+      <ul>
+        {% assign membros_ativos = site.data.membros.ativos | sort: 'name' %}
+        {% for membro in membros_ativos %}
+          <li>{{ membro.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+<!-- Membros Inativos -->
+<div class="card mb-2">
+    <div class="card-header">
+        <h5 class="card-title text-center">Membros Inativos</h5>
+    </div>
+    <div class="card-body">
+      <ul>
+        {% assign membros_inativos = site.data.membros.inativos | sort: 'name' %}
+        {% for membro in membros_inativos %}
+          <li>{{ membro.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+<!-- Membros Honorários -->
+<div class="card mb-2">
+    <div class="card-header">
+        <h5 class="card-title text-center">Membros Honorários</h5>
+    </div>
+    <div class="card-body">
+      <ul>
+        {% assign membros_honorarios = site.data.membros.honorarios | sort: 'name' %}
+        {% for membro in membros_honorarios %}
+          <li>{{ membro.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
