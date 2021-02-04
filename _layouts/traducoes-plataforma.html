@@ -3,13 +3,13 @@ layout: page
 ---
 
 <ul id="{{ page.url | slugify }}" class="list-group">
-{% assign platforms = site.pages | where_exp: "item" , "item.path contains page.permalink" | uniq %}
-{% for platform in platforms %}
-  {% assign level = platform.dir | split: "/" | size %}
+{% assign sistemas = site.pages | where_exp: "item" , "item.path contains page.permalink" | uniq %}
+{% for sistema in sistemas %}
+  {% assign level = sistema.dir | split: "/" | size %}
   {% if level == 4 %}
-  <li id="{{ platform.url | slugify }}" class="list-group-item">
-    <a href="{{ platform.url | prepend: site.baseurl }}">{{ platform.title }}</a>
-    {% assign contador = site.traducoes | where:"system", platform.title | size %}
+  <li id="{{ sistema.url | slugify }}" class="list-group-item">
+    <a href="{{ sistema.url | prepend: site.baseurl }}">{{ sistema.title }}</a>
+    {% assign contador = site.traducoes | where:"system", sistema.title | size %}
     <span class="badge badge-success">{{ contador }}</span>
   </li>
   {% endif %}

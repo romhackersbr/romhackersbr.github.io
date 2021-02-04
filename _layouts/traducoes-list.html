@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+{% assign plataformas = site.pages | where_exp: "item" , "item.path contains page.dir" | uniq %}
+{% for plataforma in plataformas %}
+  {% assign level = plataforma.dir | split: "/" | size %}
+  {% if level == 2 %}
+  <li id="{{ plataforma.url | slugify }}" class="list-group-item">
+    <a href="{{ plataforma.url | prepend: site.baseurl }}">{{ plataforma.title }}</a>
+    {% assign contador = site.traducoes | where:"platform", plataforma.title | size %}
+    <span class="badge badge-success">{{ contador }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
