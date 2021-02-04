@@ -44,12 +44,41 @@
 
   <!-- Utilitários Recentes -->
   <div class="card mb-2">
-    <img class="card-img-top" src="https://via.placeholder.com/250" alt="Card image cap">
+    <div class="card-header">
+      <ul>
+        {% assign utilitarios = site.utilitarios | sort: "date" %}
+        {% for utilitario in utilitarios reversed limit:4 %}
+        <li>
+          <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
+            {{ utilitario.title }}">
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
     <div class="card-body">
-      <h5 class="card-title">Tutoriais Recentes</h5>
-      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <h5 class="card-title">Utilitários Recentes</h5>
     </div>
   </div>
+
+    <!-- Tutoriais Recentes -->
+    <div class="card mb-2">
+      <div class="card-header">
+        <ul>
+          {% assign tutoriais = site.tutoriais | sort: "date" %}
+          {% for tutorial in tutoriais reversed limit:4 %}
+          <li>
+            <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
+              {{ tutorial.title }}">
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Tutoriais Recentes</h5>
+      </div>
+    </div>
 
   <!-- Widget do Discord -->
   <iframe src="https://discord.com/widget?id=89646072086929408&theme=dark" width="252" height="300"
