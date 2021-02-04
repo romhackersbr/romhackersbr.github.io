@@ -4,7 +4,7 @@ layout: page
 <div class="card mb-10">
   <div class="card-header text-center">
     <!-- Titulo do Tutorial -->
-    <h4>{{ page.doc_title }}</h4>
+    <h4>{{ page.program_name }}</h4>
   </div>
   <div class="card-body">
     <div class="container">
@@ -33,8 +33,8 @@ layout: page
                 <td>{{ page.version }}</td>
               </tr>
               <tr>
-                <th scope="row">Nível</th>
-                <td>{{ page.level }}</td>
+                <th scope="row">Plataforma</th>
+                <td>{{ page.platform }}</td>
               </tr>
               <tr>
                 <th scope="row">Idioma</th>
@@ -43,14 +43,6 @@ layout: page
               <tr>
                 <th scope="row">Data de Lançamento</th>
                 <td>{{ page.release_date }}</td>
-              </tr>
-              <tr>
-                <th scope="row">Formato</th>
-                <td>{{ page.format }}</td>
-              </tr>
-              <tr>
-                <th scope="row">Sistema</th>
-                <td>{{ page.system }}</td>
               </tr>
             </tbody>
           </table>
