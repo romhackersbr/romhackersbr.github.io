@@ -15,6 +15,7 @@ As traduções são as seguintes:
 -   [Rolling Thunder 2 (Tedenfe e Anime_World)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1455)
 -   [Turma da Mônica na Terra dos Monstros (Anime_World)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=21&lid=1457)
 
+
 **NES (7 traduções)**:
 
 -   [1942 (Andyriddler)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1451)
@@ -24,6 +25,7 @@ As traduções são as seguintes:
 -   [The 3-D Battles of World Runner (Andyriddler)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1445)
 -   [The Adventures of Bayou Billy (Andyriddler e Natália)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1453)
 -   [The Blues Brothers (Andyriddler e Natália)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=22&lid=1446)
+
 
 **PC (7 traduções)**:
 
@@ -35,9 +37,11 @@ As traduções são as seguintes:
 -   [Another Metroid 2 Remake v1.1 (JuninhoDancer)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1426)
 -   [Another Metroid 2 Remake v1.1 (Kazemaru)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=16&lid=1427)
 
+
 **Playstation (1 tradução)**:
 
 -   [Harvest Moon - Back to Nature (Denver)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=25&lid=969) (**versão atualizada!**)
+
 
 **Playstation 2 (11 traduções)**:
 
@@ -53,15 +57,18 @@ As traduções são as seguintes:
 -   [Rogue Trooper (HNNEWGAMES)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1438)
 -   [Sniper Elite - Berlin 1945 (HNNEWGAMES)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1437)
 
+
 **Playstation 3 (1 tradução)**:
 
 -   [Brothers in Arms - Hell's Highway (hnnewgames)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=84&lid=1433)
+
 
 **PSP (3 traduções)**:
 
 -   [LEGO Batman - The Videogame (HNNEWGAMES e PS Traduz)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1434)
 -   [Medal of Honor Heroes (hnnewgames)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1432)
 -   [Miami Vice - The Game (hnnewgames)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=73&lid=1428)
+
 
 **SG-1000 (8 traduções)**:
 
@@ -73,6 +80,7 @@ As traduções são as seguintes:
 -   [Pachinko (Patryck)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436
    [Pitfall II - The Lost Caverns (Patryck)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)
    -   [Sega Galaga (Patryck)](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
+
 
 Eu também aproveitei a deixa para cadastrar o utilitário [Boolean Match - Binary Pattern Search](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads2/singlefile.php?cid=2&lid=249), feito por **Neto RPG**.
 
@@ -90,5 +98,6 @@ Segue o link para download do hack de correção:
 
 -   [Castlevania Netflix - Sypha Ending Bugfix - Versão 1.0](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads0/singlefile.php?cid=38&lid=78)\
 OBS: O patch que corrige a versão japonesa serve para a ROM hackeada (Castlevania Netflix) **com ou sem** a minha tradução para o português.
+
 
 Então é isso, pessoal. Ao longo do ano, eu tentarei dar continuidade a esse trabalho de atualizar o conteúdo do site, e postarei notícias sobre as novas adições de tempos em tempos. Tenham um ótimo divertimento, e fiquem atentos às próximas notícias. ![](https://web.archive.org/web/20200928103531im_/http://romhackers.org/uploads/smil470474167631b.gif)
