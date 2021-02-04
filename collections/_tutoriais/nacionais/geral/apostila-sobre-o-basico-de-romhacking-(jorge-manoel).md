@@ -1,5 +1,6 @@
 ---
-title: "Apostila sobre o básico de romhacking e tradução"
+title: "Apostila sobre o básico de romhacking e tradução (Jorge Manoel)"
+doc_title: "Apostila sobre o básico de romhacking e tradução"
 author: "Jorge Manoel"
 group: "JM-Traduções"
 system: "Vários"
