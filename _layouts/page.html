@@ -7,10 +7,10 @@ layout: default
   <div class="row">
     <div class="col-12">
       <h1 class="h2 text-center text-dark pt-4">
-        {% if page.layout == "traducoes-sistema" %}
+        {% if page.layout == "traducoes-plataforma" or page.layout == "traducoes-sistema" %}
           Traduções de 
         {% endif %}
-        {% if page.layout == "romhacks-sistema" %}
+        {% if page.layout == "romhacks-plataforma" or page.layout == "romhacks-sistema"  %}
           Romhacks de 
         {% endif %}
         {{ page.title }}
