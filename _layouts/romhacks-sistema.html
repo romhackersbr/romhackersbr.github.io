@@ -3,17 +3,7 @@ layout: page
 ---
 
 {% assign sistema = site.sistemas | where: "title", page.title %}
-{% if sistema.content.size > 5 %}
-<div class="card mb-10">
-  {% if sistema.featured %}
-  <img class="card-img-top" src="{{ sistema.featured | prepend: site.baseurl }}"
-    alt="Imagem em destaque de {{ sistema.title }}" />
-  {% endif %}
-  <div class="card-body">
-    <p class="card-text">{{ sistema.content }}</p>
-  </div>
-</div>
-{% endif %}
+{{ sistemas.content }}
 
 <ul id="{{ page.url | slugify }}" class="list-group">
   {% assign romhacks = site.romhacks | where:"system", page.title %}
