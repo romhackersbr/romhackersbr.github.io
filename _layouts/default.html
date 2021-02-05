@@ -51,6 +51,15 @@ layout: compress
     integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet' />
 
+  {% if jekyll.environment == 'production' %}
+  <script src="//cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+    new Crate({
+      server: '89646072086929408',
+      channel: '89646072086929408'
+    })
+  </script>
+  {% endif %}
+
 </head>
 
 
@@ -160,12 +169,6 @@ layout: compress
   <!-- DisqUS -->
   {% if jekyll.environment == 'production' %}
   <script id="dsq-count-scr" src="//romhackersorg.disqus.com/count.js" async></script>
-  <script src="//cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-    new Crate({
-      server: '89646072086929408',
-      channel: '89646072086929408'
-    })
-  </script>
   {% endif %}
 
 
