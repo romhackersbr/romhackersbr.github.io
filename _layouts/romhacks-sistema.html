@@ -4,7 +4,8 @@ layout: page
 {% if content.size > 5 %}
 <div class="card mb-10">
   {% if page.featured %}
-  <img class="card-img-top"  src="{{ page.featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ page.title }}" />
+  <img class="card-img-top" src="{{ page.featured | prepend: site.baseurl }}"
+    alt="Imagem em destaque de {{ page.title }}" />
   {% endif %}
   <div class="card-body">
     <p class="card-text">{{ content }}</p>
@@ -15,10 +16,10 @@ layout: page
 <ul id="{{ page.url | slugify }}" class="list-group">
   {% assign romhacks = site.romhacks | where:"system", page.title %}
   {% for hack in romhacks %}
-    <li id="{{ hack.url | slugify }}" class="list-group-item">
-      <a href="{{ hack.url | prepend: site.baseurl }}" alt="{{ hack.title }}">
-        {{ hack.title }}
-      </a>
-    </li>
+  <li id="{{ hack.url | slugify }}" class="list-group-item">
+    <a href="{{ hack.url | prepend: site.baseurl }}" alt="{{ hack.title }}">
+      {{ hack.title }}
+    </a>
+  </li>
   {% endfor %}
 </ul>

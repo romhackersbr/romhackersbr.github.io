@@ -8,10 +8,22 @@ layout: compress
 
 
   <!-- Titulo da Pagina -->
-  <title>{{site.title}}{% if page.title %} - {% if page.layout contain "traducoes" %}- Traduções -
-    {% endif %}{% if page.layout contain "romhacks" %}- Romhacks -
-    {% endif %}{% if page.layout == "traducoes" or page.layout == "romhacks" %}{{ page.system }}
-    {% endif %}{{ page.title }}{% else %} - {{ site.description }}{% endif %}</title>
+  <title>{{site.title}}
+    {% if page.title %}
+    -
+    {% if page.layout contain "traducoes" %}
+    Traduções -
+    {% endif %}
+    {% if page.layout contain "romhacks" %}
+    Romhacks -
+    {% endif %}
+    {% if page.layout == "traducoes" or page.layout == "romhacks" %}
+    {{ page.system }}
+    {% endif %}
+    {{ page.title }}
+    {% else %}
+    - {{ site.description }}
+    {% endif %}</title>
   <link rel="canonical"
     href="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}" />
 
@@ -25,7 +37,21 @@ layout: compress
     content="{% if page.content %}{% assign description = page.excerpt | strip.html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:locale" content="pt_BR" />
   <meta property="og:title"
-    content="{% if page.title %} - {% if page.layout contain 'traducoes' %}- Traduções - {% endif %}{% if page.layout contain 'romhacks' %}- Romhacks - {% endif %}{% if page.layout == 'traducoes' or page.layout == 'romhacks' %}{{ page.system }} {% endif %}{{ page.title }}{% else %} - {{ site.description }}{% endif %}">
+    content="{% if page.title %}
+    -
+    {% if page.layout contain 'traducoes' %}
+    Traduções -
+    {% endif %}
+    {% if page.layout contain 'romhacks' %}
+    Romhacks -
+    {% endif %}
+    {% if page.layout == 'traducoes' or page.layout == 'romhacks' %}
+    {{ page.system }}
+    {% endif %}
+    {{ page.title }}
+    {% else %}
+    - {{ site.description }}
+    {% endif %}">
   <meta property="og:site_name" content="{{site.title}}">
   <meta property="og:url"
     content="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}">
