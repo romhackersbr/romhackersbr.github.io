@@ -48,7 +48,7 @@ layout: compress
 
   <!-- SEO -->
   <meta name="description"
-    content="{% if page.content %}{% assign description = page.excerpt | strip.html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
+    content="{% if page.content %}{% assign description = page.excerpt | strip_html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:locale" content="pt_BR" />
   <meta property="og:title" content="{% if page.title %}
     {% if page.layout contains 'traducoes' and page.layout != 'traducoes-list' %}
@@ -83,7 +83,7 @@ layout: compress
   <meta property="og:url"
     content="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:description"
-    content="{% if page.content %}{% assign description = page.excerpt | strip.html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
+    content="{% if page.content %}{% assign description = page.excerpt | strip_html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
   {% if page.layout == "traducoes" or page.layout == "romhacks" %}
   <meta property="og:type" content="article" />
   {% if page.patch_images.first %}
