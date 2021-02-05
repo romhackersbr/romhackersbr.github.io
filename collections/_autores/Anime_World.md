@@ -1,7 +1,7 @@
 ---
 title: "Anime_World"
 aka: ["Tio Anime", "Animeco", "Akiracovers"]
-group: ["Central MIB","Trans-Center","POBRE"]
+group: ["Central MIB","Trans-Center"]
 site: "//hansbonini.com.br"
 email: ""
 facebook: ""
