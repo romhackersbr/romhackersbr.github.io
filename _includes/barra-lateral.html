@@ -5,7 +5,7 @@
     <div class="card-img-group-top container">
       <div class="row">
         {% assign traducoes = site.traducoes | sort: "date" %}
-        {% for traducao in traducoes reversed limit:4 %}
+        {% for traducao in traducoes limit:4 %}
         {% for image in traducao.patch_images limit:1 %}
         <div class="col-6">
           <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
@@ -19,7 +19,7 @@
     <div class="card-header">
       <ul>
         {% assign traducoes = site.traducoes | sort: "date" %}
-        {% for traducao in traducoes reversed limit:4 %}
+        {% for traducao in traducoes limit:4 %}
         <li>
           <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
             {{ traducao.title }}
