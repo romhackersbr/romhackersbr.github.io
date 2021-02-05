@@ -8,7 +8,7 @@ layout: compress
 
   
   <!-- Titulo da Pagina -->
-  <title>{{site.title}}{% if page.title %}- {% if page.layout == "traducoes" or page.layout == "romhacks" %}{{ page.system }} {% endif %}{{ page.title }}{% endif %}</title>
+  <title>{{site.title}}{% if page.title %} - {% if page.layout == "traducoes" or page.layout == "romhacks" %}{{ page.system }} {% endif %}{{ page.title }}{% endif %}</title>
   <link rel="canonical" href="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}" />
   
   <!-- Meta Tags Padrão -->
