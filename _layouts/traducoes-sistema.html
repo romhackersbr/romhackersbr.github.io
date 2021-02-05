@@ -1,15 +1,9 @@
 ---
 layout: page
 ---
-{% if content.size > 5 %}
-<div class="card pt-4 mb-2">
-  {% if page.featured %}
-  <img class="card-img-top"  src="{{ page.featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ page.title }}" />
-  {% endif %}
-  <div class="card-body">
-    <p class="card-text">{{ content }}</p>
-  </div>
-</div>
+{% assign sistema = site.sistemas | where: "title", page.title %}
+{% if sistema.first %}
+{{ sistema.first.content }}
 {% endif %}
 
 <ul id="{{ page.url | slugify }}" class="list-group">
