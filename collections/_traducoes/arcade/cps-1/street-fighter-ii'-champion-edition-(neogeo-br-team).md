@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Capcom"
 game_publisher: "Capcom"
 game_release_date: "??/??/1992"
-patch_author: "undefined"
+patch_author: ["BisonSAS", "Alan Yagami"]
 patch_group: "NeoGeo BR Team"
 patch_site: "http://neogeobrteam.uni.cc/"
 patch_version: "1.0"
