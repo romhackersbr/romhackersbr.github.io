@@ -87,7 +87,7 @@ layout: page
                   {% if page.patch_author.first %}
                   <ul>
                   {% for author in page.patch_author %}
-                    {% assign autor = site.autores | where_exp: "item": "item.title == author or item.aka contains author" %}
+                    {% assign autor = site.autores | where_exp: "item", "item.title == author or item.aka contains author" %}
                     <li>
                       {% if autor.first %}
                       <a href="{{ autor.first.url }}" alt="autor.first.title">{{ autor.first.title }}</a>
@@ -98,7 +98,7 @@ layout: page
                   {% endfor %}
                   </ul>
                   {% else %}
-                    {% assign autor = site.autores | where_exp: "item": "item.title == author or item.aka contains author" %}
+                    {% assign autor = site.autores | where_exp: "item", "item.title == author or item.aka contains author" %}
                     {% if autor.first %}
                     <a href="{{ autor.first.url }}" alt="autor.first.title">{{ autor.first.title }}</a>
                     {% else %}
