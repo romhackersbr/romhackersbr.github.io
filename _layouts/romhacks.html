@@ -88,7 +88,13 @@ layout: page
               </tr>
               <tr>
                 <th scope="row">Site</th>
-                <td><a href="{{ page.patch_site }}" class="break-all">{{ page.patch_site }}</a></td>
+                <td>
+                  {% if patch.site != ""}
+                  <a href="{{ page.patch_site }}" class="break-all">{{ page.patch_site }}</a>
+                  {% else %}
+                  Nenhum
+                  {% endif %}
+                </td>
               </tr>
               <tr>
                 <th scope="row">Versão:</th>
