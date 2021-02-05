@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "30/06/2009"
 patch_type: "Arquivos traduzidos"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Manhunt%202%20-%20PSP%20News%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Manhunt%202%20-%20PSP%20News%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Manhunt%202%20-%20PSP%20News%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20Manhunt%202%20-%20PSP%20News%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Manhunt%202%20-%20PSP%20News%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Manhunt%202%20-%20PSP%20News%20-%203.jpg"]
 ---
 Uma boa tradução. Os textos do jogo estão traduzidos e parcialmente acentuados. Nota-se alguns erros de digitação e elementos não traduzidos em raros momentos, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser usada na versão americana (ULUS-10280) do jogo Manhunt 2.

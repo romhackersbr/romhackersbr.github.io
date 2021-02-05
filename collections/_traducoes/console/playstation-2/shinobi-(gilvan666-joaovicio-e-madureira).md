@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "07/01/2006"
 patch_type: "PPF 2.0"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20Shinobi%20-%20Gilvan666%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20Shinobi%20-%20Gilvan666%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20Shinobi%20-%20Gilvan666%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPS2%5D%20Shinobi%20-%20Gilvan666%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20Shinobi%20-%20Gilvan666%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20Shinobi%20-%20Gilvan666%20-%203.jpg"]
 ---
 Esta tradução está razoável. Os textos estão traduzidos e acentuados, mas nenhum gráfico foi editado. Além disso, nota-se vários erros de português nos diálogos.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de DVD em formato BIN ou ISO da versão americana do jogo Shinobi.

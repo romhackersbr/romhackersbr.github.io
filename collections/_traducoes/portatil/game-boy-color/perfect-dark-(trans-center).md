@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "13/06/2003"
 patch_type: "IPS"
 patch_progress: "98%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Perfect%20Dark%20-%20Trans-Center%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Perfect%20Dark%20-%20Trans-Center%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Perfect%20Dark%20-%20Trans-Center%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Perfect%20Dark%20-%20Trans-Center%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Perfect%20Dark%20-%20Trans-Center%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Perfect%20Dark%20-%20Trans-Center%20-%203.png"]
 ---
 Uma boa tradução. Os textos estão traduzidos e acentuados, e praticamente todos os gráficos foram editados (apenas alguns gráficos da introdução e dos cenários não foram editados). Nota-se algumas abreviações, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Perfect Dark (U) (M5) [C][!].gbc, com CRC32 0601BEF6.

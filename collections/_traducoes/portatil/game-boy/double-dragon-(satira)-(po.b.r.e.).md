@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "27 de fevereiro de 2011"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Double%20Dragon%20-%20Po.B.R.E.%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Double%20Dragon%20-%20Po.B.R.E.%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Double%20Dragon%20-%20Po.B.R.E.%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGB%5D%20Double%20Dragon%20-%20Po.B.R.E.%20-%201.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Double%20Dragon%20-%20Po.B.R.E.%20-%202.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Double%20Dragon%20-%20Po.B.R.E.%20-%203.png"]
 ---
 Tradução sem fonte acentuada e com as baboseiras dos menus, gráficos e a tela-título traduzida.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Double Dragon (U) [!].gb", com CRC32 40A8BF12.

@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "28/01/2002"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Resident%20Evil%20Gaiden%20-%20Tramula%C3%A7%C3%A3o%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Resident%20Evil%20Gaiden%20-%20Tramula%C3%A7%C3%A3o%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Resident%20Evil%20Gaiden%20-%20Tramula%C3%A7%C3%A3o%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Resident%20Evil%20Gaiden%20-%20Tramula%C3%A7%C3%A3o%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Resident%20Evil%20Gaiden%20-%20Tramula%C3%A7%C3%A3o%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Resident%20Evil%20Gaiden%20-%20Tramula%C3%A7%C3%A3o%20-%203.png"]
 ---
 Uma boa tradução. Praticamente todos os diálogos e itens estão traduzidos e acentuados, e alguns gráficos foram editados. Nota-se alguns erros de português, algumas abreviações e alguns elementos sem tradução, mas nada que incomode muito o jogador.OBS: Na tela de escolha de idioma, escolha English para jogar em português.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Resident Evil Gaiden (E) (M5) [C][!].gbc, com CRC32 F85C3F2C.

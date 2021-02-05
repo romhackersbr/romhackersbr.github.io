@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "08/05/2001 (provavelmente)"
 patch_type: "IPS e IPS-EXE"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Power%20Spike%20-%20Pro%20Beach%20Volleyball%20-%20Evil%20Darkness%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Power%20Spike%20-%20Pro%20Beach%20Volleyball%20-%20Evil%20Darkness%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Power%20Spike%20-%20Pro%20Beach%20Volleyball%20-%20Evil%20Darkness%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Power%20Spike%20-%20Pro%20Beach%20Volleyball%20-%20Evil%20Darkness%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Power%20Spike%20-%20Pro%20Beach%20Volleyball%20-%20Evil%20Darkness%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Power%20Spike%20-%20Pro%20Beach%20Volleyball%20-%20Evil%20Darkness%20-%203.png"]
 ---
 Uma tradução razoável. Os textos estão traduzidos e acentuados, e os gráficos foram editados (exceto o placar dos cenários). Nota-se muitas abreviações, provavelmente devido a falta de edição dos ponteiros.OBS: De preferência, use o emulador KiGB para evitar erros gráficos durante o jogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Power Spike - Pro Beach Volleyball (U) [C][!].gbc, com CRC32 AE57D1C3.

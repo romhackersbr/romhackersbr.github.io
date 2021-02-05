@@ -15,6 +15,6 @@ patch_version: "1.2a"
 patch_release: "19/10/2002"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Megaman%20Xtreme%202%20-%20Tradu-Roms%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Megaman%20Xtreme%202%20-%20Tradu-Roms%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Megaman%20Xtreme%202%20-%20Tradu-Roms%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Megaman%20Xtreme%202%20-%20Tradu-Roms%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Megaman%20Xtreme%202%20-%20Tradu-Roms%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Megaman%20Xtreme%202%20-%20Tradu-Roms%20-%203.png"]
 ---
 Uma boa tradução, com fontes acentuadas, todos os diálogos traduzidos, mas com gráficos e menus sem tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Megaman Xtreme 2 (U) [C][!].gbc, com CRC32 8FEDB6D8.

@@ -15,6 +15,6 @@ patch_version: "2.0"
 patch_release: "undefined"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Acentos - 100% / Gráficos - 100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Avatar%20-%20The%20Legend%20of%20Aang%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Avatar%20-%20The%20Legend%20of%20Aang%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Avatar%20-%20The%20Legend%20of%20Aang%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Avatar%20-%20The%20Legend%20of%20Aang%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Avatar%20-%20The%20Legend%20of%20Aang%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Avatar%20-%20The%20Legend%20of%20Aang%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 ---
 Todos os textos estão traduzidos e acentuados, e todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Avatar - The Legend of Aang (E) (M4).gba  (código BQZP) e com CRC32 52FE8A62.

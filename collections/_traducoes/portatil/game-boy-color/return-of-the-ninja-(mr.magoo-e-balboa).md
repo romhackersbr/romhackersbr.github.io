@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "11/11/2007"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Return%20of%20the%20Ninja%20-%20Mr.Magoo%20e%20Balboa%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Return%20of%20the%20Ninja%20-%20Mr.Magoo%20e%20Balboa%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Return%20of%20the%20Ninja%20-%20Mr.Magoo%20e%20Balboa%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Return%20of%20the%20Ninja%20-%20Mr.Magoo%20e%20Balboa%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Return%20of%20the%20Ninja%20-%20Mr.Magoo%20e%20Balboa%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Return%20of%20the%20Ninja%20-%20Mr.Magoo%20e%20Balboa%20-%203.png"]
 ---
 Uma boa tradução. Todos os textos estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Return of the Ninja (U) [C][!].gbc, com CRC32 A07DA702.

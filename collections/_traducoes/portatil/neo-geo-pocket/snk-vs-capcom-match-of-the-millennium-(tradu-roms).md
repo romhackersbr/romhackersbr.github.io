@@ -15,6 +15,6 @@ patch_version: "0.8"
 patch_release: "05/08/2000 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BNGP%5D%20SNK%20vs%20Capcom%20-%20Tradu-Roms%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BNGP%5D%20SNK%20vs%20Capcom%20-%20Tradu-Roms%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BNGP%5D%20SNK%20vs%20Capcom%20-%20Tradu-Roms%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20vs%20Capcom%20-%20Tradu-Roms%20-%201.png","http://img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20vs%20Capcom%20-%20Tradu-Roms%20-%202.png","http://img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20vs%20Capcom%20-%20Tradu-Roms%20-%203.png"]
 ---
 Esta tradução está razoável e infelizmente incompleta. Os textos foram traduzidos (não todos), mas não foram acentuados. Durante o jogo, percebe-se alguns textos não traduzidos, como os diálogos antes das lutas, alguns textos da história e pequenos trechos dos finais dos personagens. Além disso, nenhum gráfico foi editado, e nota-se erros ortográficos, erros de pontuação, abreviaturas usadas em programas de bate-papo (vc, tb, q, etc.) e estouro de algumas caixas de diálogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original SNK Vs Capcom - Match of The Millennium (JUE) [!].ngc com CRC32 B173030A.

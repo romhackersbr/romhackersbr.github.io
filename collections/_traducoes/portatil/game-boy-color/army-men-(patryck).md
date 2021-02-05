@@ -15,6 +15,6 @@ patch_version: "0.9"
 patch_release: "24/03/2013"
 patch_type: "IPS"
 patch_progress: "Textos principais - 100% / Menus - 100% / Outros textos - 80% / Acentos - 0% / Gráficos - 0% / Geral - 80%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Army%20Men%20-%20Patryck%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Army%20Men%20-%20Patryck%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Army%20Men%20-%20Patryck%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Army%20Men%20-%20Patryck%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Army%20Men%20-%20Patryck%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Army%20Men%20-%20Patryck%20-%203.png"]
 ---
 Uma tradução razoável. A maioria dos textos do jogo está traduzida, mas não está acentuada, e nenhum gráfico foi editado. Nota-se pequenos erros ortográficos e abreviações em raros momentos, mas nada que atrapalhe o jogador ou que não possa ser corrigido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Army Men (U) (M3) [C][!].gbc, com CRC32 34411753.

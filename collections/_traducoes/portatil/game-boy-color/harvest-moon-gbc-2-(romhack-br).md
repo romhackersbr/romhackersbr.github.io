@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "08/01/2002"
 patch_type: "IPS"
 patch_progress: "95%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Harvest%20Moon%20%2532%20GBC%20-%20Romhack%20BR%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Harvest%20Moon%20%2532%20GBC%20-%20Romhack%20BR%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Harvest%20Moon%20%2532%20GBC%20-%20Romhack%20BR%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Harvest%20Moon%20%2532%20GBC%20-%20Romhack%20BR%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Harvest%20Moon%20%2532%20GBC%20-%20Romhack%20BR%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Harvest%20Moon%20%2532%20GBC%20-%20Romhack%20BR%20-%203.png"]
 ---
 Uma boa tradução. A maioria dos textos está traduzida e parcialmente acentuada, mas nenhum gráfico foi editado. Nota-se pequenos erros de português e algumas abreviações em certos momentos, e há um bug no início do jogo, após dormir no prólogo, mas nada que atrapalhe o jogador ou que afete a continuidade do jogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Harvest Moon 2 GBC (U) [C][!].gbc, com CRC32 08906220.

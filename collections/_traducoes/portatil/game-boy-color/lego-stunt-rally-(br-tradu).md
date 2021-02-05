@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "13/12/2002 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20LEGO%20Stunt%20Rally%20-%20BR%20Tradu%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20LEGO%20Stunt%20Rally%20-%20BR%20Tradu%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20LEGO%20Stunt%20Rally%20-%20BR%20Tradu%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20LEGO%20Stunt%20Rally%20-%20BR%20Tradu%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20LEGO%20Stunt%20Rally%20-%20BR%20Tradu%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20LEGO%20Stunt%20Rally%20-%20BR%20Tradu%20-%203.png"]
 ---
 Uma tradução razoável. Os poucos textos do jogo estão traduzidos e parcialmente acentuados. Nota-se alguns erros de pontuação e separação silábica.ATENÇÃO:Esta tradução deve ser aplicada na ROM original LEGO Stunt Rally (U) [C][!].gbc, com CRC32 DA084760.

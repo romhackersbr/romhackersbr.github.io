@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "24 de setembro de 2007"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "textos, acentos e ponteiros em 100%, gráficos sem alterações"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Gekido%20Advance%20-%20Kintaro's%20Revenge%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Gekido%20Advance%20-%20Kintaro's%20Revenge%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Gekido%20Advance%20-%20Kintaro's%20Revenge%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Gekido%20Advance%20-%20Kintaro's%20Revenge%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Gekido%20Advance%20-%20Kintaro's%20Revenge%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Gekido%20Advance%20-%20Kintaro's%20Revenge%20-%20Central%20de%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 ---
 Tradução regular, com fonte acentuada e diálogos e menus traduzidos, mas com erros de português, de digitação e vários de pontuação, que tornam os diálogos esquisitos, além de traduções literais. Também ficou esquisito o menu de opções: "SOM" e "EFEITO SONORO".ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Gekido Advance - Kintaro's Revenge (U).gba" (código AGEE), com CRC32 6BBC5F4D.

@@ -15,6 +15,6 @@ patch_version: "05-09-2008"
 patch_release: "05/09/2008"
 patch_type: "Arquivo traduzido"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Sonic%20Rivals%20-%20Cetranslators%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Sonic%20Rivals%20-%20Cetranslators%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Sonic%20Rivals%20-%20Cetranslators%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20Sonic%20Rivals%20-%20Cetranslators%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Sonic%20Rivals%20-%20Cetranslators%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Sonic%20Rivals%20-%20Cetranslators%20-%203.jpg"]
 ---
 Uma boa tradução. Praticamente todos os textos do jogo estão traduzidos e acentuados. Nota-se alguns elementos sem tradução e algumas traduções literais, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser usada na versão americana do jogo Sonic Rivals (ULUS-10195). Instruções sobre como substituir o arquivo original STR_EN.TXT pelo traduzido estão disponíveis em um tutorial que acompanha a tradução.

@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "17/07/2011"
 patch_type: "undefined"
 patch_progress: "Textos - 100% / Ponteiros - 100% / Acentuação - 100% / Gráficos - 95% / Revisão - 100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Rayman%203%20-%20Nintendo%20BR%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Rayman%203%20-%20Nintendo%20BR%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Rayman%203%20-%20Nintendo%20BR%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Rayman%203%20-%20Nintendo%20BR%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Rayman%203%20-%20Nintendo%20BR%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Rayman%203%20-%20Nintendo%20BR%20-%203.png"]
 ---
 Uma boa tradução. Todos os textos do jogo estão traduzidos e acentuados, e praticamente todos os gráficos foram editados. Nota-se pequenos erros ortográficos em alguns momentos, mas nada que atrapalhe o jogador ou que não possa ser corrigido em um futura versão da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Rayman 3 (U) (M3).gba, com CRC32 D1613266.

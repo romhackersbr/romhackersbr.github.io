@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "19/01/2018"
 patch_type: "xdelta3"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20UP%20-%20hnnewgames%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20UP%20-%20hnnewgames%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20UP%20-%20hnnewgames%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20UP%20-%20hnnewgames%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20UP%20-%20hnnewgames%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20UP%20-%20hnnewgames%20-%203.jpg"]
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos e os vídeos foram legendados.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de UMD em formato ISO da versão americana (ULUS-10430) do jogo UP.

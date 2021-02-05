@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "13/07/2003 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Top%20Gear%20Pocket%20-%20Trans-Center%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Top%20Gear%20Pocket%20-%20Trans-Center%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Top%20Gear%20Pocket%20-%20Trans-Center%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Top%20Gear%20Pocket%20-%20Trans-Center%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Top%20Gear%20Pocket%20-%20Trans-Center%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Top%20Gear%20Pocket%20-%20Trans-Center%20-%203.png"]
 ---
 Uma boa tradução. Os textos estão traduzidos e parcialmente acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Top Gear Pocket (U) [C][!].gbc, com CRC32 84499FC1.

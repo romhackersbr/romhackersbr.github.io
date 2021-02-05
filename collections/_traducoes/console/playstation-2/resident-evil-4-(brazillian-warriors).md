@@ -15,6 +15,6 @@ patch_version: "V2"
 patch_release: "undefined"
 patch_type: "ISO traduzida"
 patch_progress: "Textos"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20Resident%20Evil%204%20-%20Brazillian%20Warriors%20-%203.jpg"]
 ---
 Todos os textos do jogo estão traduzidos e acentuados, assim como a maioria das mensagens em forma gráfico.NOVIDADES DA VERSÃO V2:* Foi corrigido o bug que travava o jogo no cenário da igreja com a personagem Ada.

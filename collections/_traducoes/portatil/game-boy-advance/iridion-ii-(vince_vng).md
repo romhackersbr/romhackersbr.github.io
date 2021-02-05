@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "01/02/2011"
 patch_type: "undefined"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Iridion%20II%20-%20vince_vng%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Iridion%20II%20-%20vince_vng%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Iridion%20II%20-%20vince_vng%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Iridion%20II%20-%20vince_vng%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Iridion%20II%20-%20vince_vng%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Iridion%20II%20-%20vince_vng%20-%203.png"]
 ---
 Esta tradução está muito boa. Praticamente todos os textos do jogo estão traduzidos e acentuados (apenas os nomes das armas e das galáxias e alguns termos não estão), e todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Iridion II (U) [!].gba, com CRC32 DD8A7104.

@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "21/09/2015 (provavelmente)"
 patch_type: "ISO traduzida"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20Final%20Mix%20-%20lleogame%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20Final%20Mix%20-%20lleogame%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20Final%20Mix%20-%20lleogame%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20Final%20Mix%20-%20lleogame%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20Final%20Mix%20-%20lleogame%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Kingdom%20Hearts%20-%20Birth%20by%20Sleep%20Final%20Mix%20-%20lleogame%20-%203.jpg"]
 ---
 Segundo o autor da tradução, a maioria dos textos do jogo está traduzida (exceto as mensagens em forma de gráfico), mas não está acentuada.OBS: Esta tradução usou como base a tradução para o idioma inglês feita por Keytotruth.

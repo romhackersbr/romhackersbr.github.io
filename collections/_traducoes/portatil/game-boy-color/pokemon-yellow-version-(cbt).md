@@ -15,6 +15,6 @@ patch_version: "1.3"
 patch_release: "31/10/1999"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20-%20Yellow%20Version%20-%20CBT%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20-%20Yellow%20Version%20-%20CBT%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20-%20Yellow%20Version%20-%20CBT%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20-%20Yellow%20Version%20-%20CBT%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20-%20Yellow%20Version%20-%20CBT%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20-%20Yellow%20Version%20-%20CBT%20-%203.png"]
 ---
 Esta é uma das famosas traduções do tradutor Samurai_Pizza, que chamam a atenção devido ao forte apelo humorístico presente nos textos. Sobre a tradução, os textos estão traduzidos e acentuados (incluindo os menus). Porém, nota-se várias palavras abreviadas e erros gramaticais mínimos, sem falar que o "NO" do bloco de perguntas não foi traduzido. Além disso, é fácil perceber que o tradutor, como sempre, alterou vários textos para dar um toque pessoal de humor ao jogo. Para algumas pessoas, isso é algo muito ruim. Mas, para outras, isso deixou o jogo bem mais divertido de se jogar.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Pokemon - Yellow Version (UE) [C][!].gbc, com CRC32 7D527D62.

@@ -15,6 +15,6 @@ patch_version: "1.1"
 patch_release: "23 de junho de 2004"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "95% dos textos, 1% dos gráficos (somente para acentuar) e 100% da acentuação"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Lady%20Sia%20-%20IPS%20Center%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Lady%20Sia%20-%20IPS%20Center%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Lady%20Sia%20-%20IPS%20Center%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Lady%20Sia%20-%20IPS%20Center%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Lady%20Sia%20-%20IPS%20Center%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Lady%20Sia%20-%20IPS%20Center%20-%203.png"]
 ---
 Para a tradução funcionar, é preciso escolher o idioma espanhol, que está como "Port.BR".Tradução com fonte acentuada, diálogos traduzidos, vários erros de português e pontuação e alguns problemas com ponteiros, notáveis bem no diálogo inicial do jogo.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Lady Sia (U) (M6) [!].gba", com CRC32 139E95BD, na ROM "Lady Sia (U) (M6) [f1] (SRAM).gba", com CRC32 464FB01C, ou na ROM "Lady Sia (U) (M6) [o1].gba", com CRC32 9DB6A0AD (todas com código ALDE).

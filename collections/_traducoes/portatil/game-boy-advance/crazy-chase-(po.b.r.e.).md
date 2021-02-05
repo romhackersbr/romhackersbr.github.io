@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "06/10/2012"
 patch_type: "IPS"
 patch_progress: "98%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Crazy%20Chase%20-%20POBRE%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Crazy%20Chase%20-%20POBRE%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Crazy%20Chase%20-%20POBRE%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Chase%20-%20POBRE%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Chase%20-%20POBRE%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Crazy%20Chase%20-%20POBRE%20-%203.png"]
 ---
 Uma boa tradução feita por Tiozinho da Telesena e que contou com a ajuda do romhacker DiegoHH, membro do grupo Monkey's Traduções. Todos os textos do jogo foram traduzido e acentuados, e a maioria dos gráficos foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Crazy Chase (U).gba, com CRC32 CABA1DB9.

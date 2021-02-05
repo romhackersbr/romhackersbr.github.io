@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "6 de fevereiro de 2008"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "95%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Metroid%20-%20Zero%20Mission%20-%20Trans-Center%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Metroid%20-%20Zero%20Mission%20-%20Trans-Center%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Metroid%20-%20Zero%20Mission%20-%20Trans-Center%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Metroid%20-%20Zero%20Mission%20-%20Trans-Center%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Metroid%20-%20Zero%20Mission%20-%20Trans-Center%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Metroid%20-%20Zero%20Mission%20-%20Trans-Center%20-%203.png"]
 ---
 Tradução boa, com fonte acentuada, todos os gráficos e diálogos traduzidos, inclusive a tela-título, e nenhum erro de português notável. Também é interessante explicar que o Solid_One propôs o aportuguesamente "metroíde" supondo que o termo original tenha origens gregas ou latinas. Apesar de estar em 95%, todo o jogo está traduzido, restando apenas o bônus do jogo, que é a versão original de NES.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Metroid - Zero Mission (U) [!].gba", com CRC32 5C61A844, na ROM "Metroid - Zero Mission (U) [o1].gba", com CRC32 18F45A50, ou na ROM "Metroid - Zero Mission (U) [t1].gba", com CRC32 E4A33451 (todas com código BMXE).

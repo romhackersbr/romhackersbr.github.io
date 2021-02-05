@@ -15,6 +15,6 @@ patch_version: "1.1"
 patch_release: "19/12/2002 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Shantae%20-%20Made%20in%20Brasil%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Shantae%20-%20Made%20in%20Brasil%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Shantae%20-%20Made%20in%20Brasil%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Shantae%20-%20Made%20in%20Brasil%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Shantae%20-%20Made%20in%20Brasil%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Shantae%20-%20Made%20in%20Brasil%20-%203.png"]
 ---
 Uma boa tradução. Os textos estão traduzidos, mas não estão acentuados, e os gráficos não foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Shantae (U) [C][!].gbc, com CRC32 E994B59B.

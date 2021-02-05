@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "28/12/2010"
 patch_type: "JAR traduzido"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Kingdon%20Hearts%20-%20Tradu%20Hacking%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Kingdon%20Hearts%20-%20Tradu%20Hacking%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Kingdon%20Hearts%20-%20Tradu%20Hacking%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BCEL%5D%20Kingdon%20Hearts%20-%20Tradu%20Hacking%20-%201.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Kingdon%20Hearts%20-%20Tradu%20Hacking%20-%202.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Kingdon%20Hearts%20-%20Tradu%20Hacking%20-%203.png"]
 ---
 Este hack chamado Kingdom Hearts e que foi feito por Bripac é, na verdade, uma modificação dos textos e dos personagens do jogo Quest for Alliance lançado pela produtora Media Plazza.Com relação à tradução para o idioma português brasileiro, ela está razoável. Os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Nota-se erros de ortografia, mas nada que não possa ser resolvido em futuras versões da tradução.

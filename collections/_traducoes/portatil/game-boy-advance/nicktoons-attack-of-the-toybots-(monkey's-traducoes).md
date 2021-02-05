@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "02/02/2011"
 patch_type: "IPS"
 patch_progress: "Diálogos - 100% / Menus - 100% / Acentos - 100% / Gráficos - 95%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Nicktoons%20-%20Attack%20of%20the%20Toybots%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Nicktoons%20-%20Attack%20of%20the%20Toybots%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Nicktoons%20-%20Attack%20of%20the%20Toybots%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Nicktoons%20-%20Attack%20of%20the%20Toybots%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Nicktoons%20-%20Attack%20of%20the%20Toybots%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Nicktoons%20-%20Attack%20of%20the%20Toybots%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 ---
 Uma boa tradução. Todos os textos do jogo estão traduzidos e acentuados, e praticamente todos os gráficos foram editados. Nota-se pequenos erros de ortografia em raros momentos, mas nada que atrapalhe o jogador ou que não possa ser corrigido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Nicktoons - Attack of the Toybots (E).gba (também conhecida como SpongeBob and Friends - Attack of the Toybots (E).gba), com CRC32 F0B0F53C.

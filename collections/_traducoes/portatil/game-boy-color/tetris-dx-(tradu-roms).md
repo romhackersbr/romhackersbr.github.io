@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "16/12/2000"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Tetris%20DX%20-%20Tradu-Roms%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Tetris%20DX%20-%20Tradu-Roms%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Tetris%20DX%20-%20Tradu-Roms%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Tetris%20DX%20-%20Tradu-Roms%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Tetris%20DX%20-%20Tradu-Roms%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Tetris%20DX%20-%20Tradu-Roms%20-%203.png"]
 ---
 Uma boa tradução. A maioria dos textos estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Apesar do tradutor afirmar que 100% dos textos estão traduzidos, é possível notar vários elementos textuais sem tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Tetris DX (JU) [C][!].gbc, com CRC32 69989152.

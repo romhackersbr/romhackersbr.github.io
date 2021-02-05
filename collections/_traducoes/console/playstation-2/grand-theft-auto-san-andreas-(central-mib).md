@@ -15,6 +15,6 @@ patch_version: "1.5"
 patch_release: "21/10/2008"
 patch_type: "Arquivos modificados"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20GTA%20-%20San%20Andreas%20-%20Mr.%20Kill%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20GTA%20-%20San%20Andreas%20-%20Mr.%20Kill%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPS2%5D%20GTA%20-%20San%20Andreas%20-%20Mr.%20Kill%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPS2%5D%20GTA%20-%20San%20Andreas%20-%20Mr.%20Kill%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20GTA%20-%20San%20Andreas%20-%20Mr.%20Kill%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20GTA%20-%20San%20Andreas%20-%20Mr.%20Kill%20-%203.jpg"]
 ---
 Esta é uma ótima tradução feita pelo tradutor Mr. Kill. Os textos foram traduzidos e acentuados. E nesta versão 1.5 da tradução, a fonte foi editada, o que possibilitou a criação da letra acentuada ã.ATENÇÃO:Esta tradução deve ser usada na versão americana do jogo Grand Theft Auto - San Andreas.O pacote de tradução vem com um arquivo em formato PDF que contém todas as instruções necessárias para se fazer uso da tradução. Portanto, nós recomendamos a todos que leiam essas instruções com bastante atenção.

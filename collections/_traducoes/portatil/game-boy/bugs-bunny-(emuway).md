@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "??/??/2000 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Bugs%20Bunny%20-%20Emuway%20-%2001.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Bugs%20Bunny%20-%20Emuway%20-%2002.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Bugs%20Bunny%20-%20Emuway%20-%2003.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGB%5D%20Bugs%20Bunny%20-%20Emuway%20-%2001.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Bugs%20Bunny%20-%20Emuway%20-%2002.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Bugs%20Bunny%20-%20Emuway%20-%2003.png"]
 ---
 Esta é a primeira versão da tradução feita por Wolf e posteriormente lançada pela BR Games. Sobre a tradução, ela está boa. Os pouquíssimos textos do jogo estão traduzidos, mas não estão acentuados, e os gráficos também não foram editados. Vale lembrar que a única diferença entre as duas traduções é o nome da BR Games que aparece no patch mais recente.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Bugs Bunny (U) [!].gb, com CRC32 403E1B7E.

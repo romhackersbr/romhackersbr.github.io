@@ -15,6 +15,6 @@ patch_version: "1.0."
 patch_release: "2012-12-01."
 patch_type: "XDelta 3."
 patch_progress: "100%."
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20Dragon%20Ball%20-%20Origins%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20Dragon%20Ball%20-%20Origins%20-%20Varios%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20Dragon%20Ball%20-%20Origins%20-%20Varios%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20-%20Origins%20-%201.png","http://img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20-%20Origins%20-%20Varios%20-%202.png","http://img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20-%20Origins%20-%20Varios%20-%203.png"]
 ---
 Essa tradução vem com 3 patches, cada patch altera a música de abertura (e som temático), de acordo com uma das seguintes versões (especificado pelo nome do arquivo): Gota Mágica (transmitido pelo SBT), Álamo (transmitido pela Globo) e a abertura original japonesa (versão japonesa do jogo).Tradução com fonte acentuada, sem gráficos editados e com qüase todos os textos traduzidos ("Clear Time" sem tradução), porém com alguns erros de português (logo no início, "De" sem acento) e com algumas frases esquisitas (algumas vieram da original).ATENÇÃO:Esta tradução deve ser aplicada na ROM original com código CDZE...Dragon Ball - Origins (U).nds, com CRC32 10E7B929.

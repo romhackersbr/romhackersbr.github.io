@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "6 de junho de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Super%20Mario%20Advance%20-%20Eder%20Pezao%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Super%20Mario%20Advance%20-%20Eder%20Pezao%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Super%20Mario%20Advance%20-%20Eder%20Pezao%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Super%20Mario%20Advance%20-%20Eder%20Pezao%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Super%20Mario%20Advance%20-%20Eder%20Pezao%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Super%20Mario%20Advance%20-%20Eder%20Pezao%20-%203.png"]
 ---
 Tradução com parte dos gráficos traduzidos mas sem texto traduzido e com um erro notável de português (rapides).ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Super Mario Advance (U) [!].gba" (código AMZE), com CRC32 69924CBD.

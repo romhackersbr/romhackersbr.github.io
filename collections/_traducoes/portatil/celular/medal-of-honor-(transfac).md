@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "12/02/2008 (atualizado em 13/02/2008)"
 patch_type: "JAR traduzido"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Medal%20of%20Honor%20-%20TransFac%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Medal%20of%20Honor%20-%20TransFac%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Medal%20of%20Honor%20-%20TransFac%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BCEL%5D%20Medal%20of%20Honor%20-%20TransFac%20-%201.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Medal%20of%20Honor%20-%20TransFac%20-%202.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Medal%20of%20Honor%20-%20TransFac%20-%203.png"]
 ---
 Boa tradução feita por Hyd_Hyro. Todos os textos estão traduzidos e devidamente acentuados. Em raros momentos, nota-se pequenos erros de ortografia, mas nada que estrague a diversão ou que não possa ser corrigido em futuras versões da tradução.OBS: Apesar desta tradução ser feita para um jogo de celular, é possível jogá-la em seu computador. Os dois arquivos executáveis que acompanham a tradução são compilações do jogo traduzido com um emulador. E cada executável possui uma configuração de teclas diferente.

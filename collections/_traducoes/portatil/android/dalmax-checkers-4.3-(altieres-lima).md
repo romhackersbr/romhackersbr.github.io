@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "09/10/2011"
 patch_type: "APK traduzido"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BAND%5D%20Dalmax%20Checkers%204.3%20-%20Altieres%20Lima%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BAND%5D%20Dalmax%20Checkers%204.3%20-%20Altieres%20Lima%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BAND%5D%20Dalmax%20Checkers%204.3%20-%20Altieres%20Lima%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BAND%5D%20Dalmax%20Checkers%204.3%20-%20Altieres%20Lima%20-%201.jpg","http://img.romhackers.org/traducoes/%5BAND%5D%20Dalmax%20Checkers%204.3%20-%20Altieres%20Lima%20-%202.jpg","http://img.romhackers.org/traducoes/%5BAND%5D%20Dalmax%20Checkers%204.3%20-%20Altieres%20Lima%20-%203.jpg"]
 ---
 Esta tradução está muito boa. Todos os textos do jogo estão traduzidos e acentuados, e nenhum gráfico aparentemente foi modificado por não haver necessidade.OBS: Apesar desta tradução ser feita para um jogo do sistema Android, é possível jogá-la em seu computador. Para isso, basta ter o Android SDK instalado em seu sistema.

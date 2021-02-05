@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "31/01/2010"
 patch_type: "JAR traduzido"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Underworld%20Vampire's%20Night%20-%20POBRE%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Underworld%20Vampire's%20Night%20-%20POBRE%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Underworld%20Vampire's%20Night%20-%20POBRE%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BCEL%5D%20Underworld%20Vampire's%20Night%20-%20POBRE%20-%201.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Underworld%20Vampire's%20Night%20-%20POBRE%20-%202.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Underworld%20Vampire's%20Night%20-%20POBRE%20-%203.png"]
 ---
 Uma ótima tradução feita por StackHouse. Todos os textos do jogo foram traduzidos e todos os gráficos foram editados. O jogo é multirresolução, aproveitem!OBS: Apesar desta tradução resultar numa experiência de jogo bem melhor em um celular, é possível jogá-la em seu computador. O arquivo executável que acompanha a tradução é uma compilação do jogo traduzido com um emulador.

@@ -15,6 +15,6 @@ patch_version: "1.0a"
 patch_release: "18 de janeiro de 2003"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Robotech%20-%20The%20Macross%20Saga%20-%20Evil%20Darkness%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Robotech%20-%20The%20Macross%20Saga%20-%20Evil%20Darkness%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Robotech%20-%20The%20Macross%20Saga%20-%20Evil%20Darkness%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Robotech%20-%20The%20Macross%20Saga%20-%20Evil%20Darkness%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Robotech%20-%20The%20Macross%20Saga%20-%20Evil%20Darkness%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Robotech%20-%20The%20Macross%20Saga%20-%20Evil%20Darkness%20-%203.png"]
 ---
 Para a tradução funcionar, é preciso escolher o idioma espanhol, que está como "Port.".Tradução com fonte acentuada, diálogos, alguns gráficos e menus traduzidos, estes com os possíveis acentos quebrados, alguns erros de português e problemas com ponteiros nos textos, mas nada que afete a continuidade do jogo.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Robotech - The Macross Saga (U) [!].gba", com CRC32 325A6596, na ROM "Robotech - The Macross Saga (U) [hIR].gba", com CRC32 EB49659A, ou na ROM "Robotech - The Macross Saga (U) [hI].gba", com CRC32 ED40ACF2 (todas com código ARBE).

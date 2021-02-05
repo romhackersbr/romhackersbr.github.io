@@ -15,6 +15,6 @@ patch_version: "2.5"
 patch_release: "14/04/2008"
 patch_type: "Arquivos traduzidos"
 patch_progress: "Textos - 100% / Acentuação - 50% / Gráficos - 0%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20God%20of%20War%20-%20Chains%20of%20Olympus%20-%20eskhotline%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20God%20of%20War%20-%20Chains%20of%20Olympus%20-%20eskhotline%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20God%20of%20War%20-%20Chains%20of%20Olympus%20-%20eskhotline%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20God%20of%20War%20-%20Chains%20of%20Olympus%20-%20eskhotline%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20God%20of%20War%20-%20Chains%20of%20Olympus%20-%20eskhotline%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20God%20of%20War%20-%20Chains%20of%20Olympus%20-%20eskhotline%20-%203.jpg"]
 ---
 Esta tradução está muito boa. Todos os textos do jogo estão traduzidos e parcialmente acentuados, mas nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser usada na versão americana (UCUS-98653) ou na versão européia (UCET-00844) do jogo God of War - Chains of Olympus.

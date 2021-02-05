@@ -15,6 +15,6 @@ patch_version: "2.0 beta"
 patch_release: "26/12/2008"
 patch_type: "IPS"
 patch_progress: "90%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Yu-Gi-Oh%20-%20The%20Eternal%20Duelist%20Soul%20-%20POBRE%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Yu-Gi-Oh%20-%20The%20Eternal%20Duelist%20Soul%20-%20POBRE%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Yu-Gi-Oh%20-%20The%20Eternal%20Duelist%20Soul%20-%20POBRE%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Yu-Gi-Oh%20-%20The%20Eternal%20Duelist%20Soul%20-%20POBRE%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Yu-Gi-Oh%20-%20The%20Eternal%20Duelist%20Soul%20-%20POBRE%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Yu-Gi-Oh%20-%20The%20Eternal%20Duelist%20Soul%20-%20POBRE%20-%203.png"]
 ---
 Apesar de ainda estar em fase beta, esta é uma boa tradução do tradutor Ilune (aka Zantetsuken). Os textos do jogo estão traduzidos e acentuados, e os gráficos estão editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 0670 - Yu-Gi-Oh! The Eternal Duelist Soul (U).gba, com CRC32 DFD07A36 e sem intro.

@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "28 de março de 2002"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Crash%20Bandicoot%20XS%20-%20Tradu-Roms%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Crash%20Bandicoot%20XS%20-%20Tradu-Roms%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Crash%20Bandicoot%20XS%20-%20Tradu-Roms%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Crash%20Bandicoot%20XS%20-%20Tradu-Roms%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Crash%20Bandicoot%20XS%20-%20Tradu-Roms%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Crash%20Bandicoot%20XS%20-%20Tradu-Roms%20-%203.png"]
 ---
 Para a tradução funcionar, é preciso escolher o idioma espanhol, que foi colocado como "POR.BR".Tradução boa, com fonte acentuada e apenas os créditos e alguns nomes nos menus sem tradução.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Crash Bandicoot XS (E) (M6) [!].gba", com CRC32 CCFD654F, ou na ROM "Crash Bandicoot XS (E) (M6) [t1].gba", com CRC32 76508B66 (ambas com código ACQP).

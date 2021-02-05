@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "10 de agosto de 2002"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20-%20BRTradu%20e%20Trans-Center%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20-%20BRTradu%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20-%20BRTradu%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20-%20BRTradu%20e%20Trans-Center%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20-%20BRTradu%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20the%20Clones%20-%20BRTradu%20-%203.png"]
 ---
 Tradução sem fonte acentuada, com parte dos menus, gráficos (como o da introdução) e diálogos traduzidos, mas com erros de digitação, além de poucos de pontuação.ATENÇÃO:Esta tradução pode ser aplicada na ROM "Star Wars - Episode II - Attack of The Clones (U).gba", com CRC32 8FB5E2C6, na ROM "Star Wars - Episode II - Attack of The Clones (U) [h1].gba", com CRC32 E5C8DCB5, ou na ROM "Star Wars - Episode II - Attack of The Clones (U) [hI].gba", com CRC32 74068EDE (todas com código AS2E).

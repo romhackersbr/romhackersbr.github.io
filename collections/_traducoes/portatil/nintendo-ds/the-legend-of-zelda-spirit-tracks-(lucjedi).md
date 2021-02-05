@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "18 de Abril de 2014"
 patch_type: "xDelta"
 patch_progress: "??"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20The%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%20-%20Lucjedi%20-%201.PNG","http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20The%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%20-%20Lucjedi%20-%202.PNG","http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20The%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%20-%20Lucjedi%20-%203.PNG"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BNDS%5D%20The%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%20-%20Lucjedi%20-%201.PNG","http://img.romhackers.org/traducoes/%5BNDS%5D%20The%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%20-%20Lucjedi%20-%202.PNG","http://img.romhackers.org/traducoes/%5BNDS%5D%20The%20Legend%20of%20Zelda%20-%20Spirit%20Tracks%20-%20Lucjedi%20-%203.PNG"]
 ---
 A tradução está com todos os textos traduzidos e acentuados, poucos gráficos (os da tela de título, por exemplo) foram editados. De acordo com o autor, em uma versão futura os gráficos podem vir a ser editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 4527 - The Legend of Zelda - Spirit Tracks (U).nds, com CRC32 3170189F.

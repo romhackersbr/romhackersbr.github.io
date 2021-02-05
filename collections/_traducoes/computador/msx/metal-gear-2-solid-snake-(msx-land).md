@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "16/11/2002 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BMSX2%5D%20Metal%20Gear%202%20-%20Solid%20Snake%20-%20MSX%20Land%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BMSX2%5D%20Metal%20Gear%202%20-%20Solid%20Snake%20-%20MSX%20Land%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BMSX2%5D%20Metal%20Gear%202%20-%20Solid%20Snake%20-%20MSX%20Land%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BMSX2%5D%20Metal%20Gear%202%20-%20Solid%20Snake%20-%20MSX%20Land%20-%201.png","http://img.romhackers.org/traducoes/%5BMSX2%5D%20Metal%20Gear%202%20-%20Solid%20Snake%20-%20MSX%20Land%20-%202.png","http://img.romhackers.org/traducoes/%5BMSX2%5D%20Metal%20Gear%202%20-%20Solid%20Snake%20-%20MSX%20Land%20-%203.png"]
 ---
 Esta tradução está boa. Os diálogos e itens do jogos estão traduzidos, mas não estão acentuados, e alguns gráficos foram editados. Nota-se algumas abreviações, mas nada que atrapalhe o jogador. Vale lembrar que esta tradução usou como base a tradução para o idioma inglês feita pelos tradutores Takamichi Suzukawa e Maarten Ter Huurne e que o pacote de tradução conta com dois patches: um para a ROM original japonesa e outro para a ROM traduzida para o inglês.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Metal Gear 2 - Solid Snake (1990) (Konami) (J).mx2, com CRC32 18B1F34B.

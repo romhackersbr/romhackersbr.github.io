@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "25 de fevereiro de 2003"
 patch_type: "Patch IPS e IPSEXE dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20The%20Land%20Before%20Time%20-%20EmuBrazil%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20The%20Land%20Before%20Time%20-%20EmuBrazil%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20The%20Land%20Before%20Time%20-%20EmuBrazil%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20The%20Land%20Before%20Time%20-%20EmuBrazil%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20The%20Land%20Before%20Time%20-%20EmuBrazil%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20The%20Land%20Before%20Time%20-%20EmuBrazil%20-%203.png"]
 ---
 Para a tradução funcionar, é preciso escolher o idioma francês, que está como "Português".Tradução boa, com fonte acentuada e diálogos e menus traduzidos com apenas duas palavras abreviadas, segundo o autor, além de "password" que, provavelmente, ficou por questão de preferência.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "Land Before Time, The (E) (M5) [!].gba" (código ALAP), com CRC32 CF0FA4D9.

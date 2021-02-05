@@ -15,6 +15,6 @@ patch_version: "1.1"
 patch_release: "21/01/2011"
 patch_type: "IPS, IPS-EXE e UPS"
 patch_progress: "90%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5B32X%5D%20Space%20Harrier%20-%20Carlson%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5B32X%5D%20Space%20Harrier%20-%20Carlson%20-%204.png","http://www.romhackers.org/imagens/traducoes/%5B32X%5D%20Space%20Harrier%20-%20Carlson%20-%205.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5B32X%5D%20Space%20Harrier%20-%20Carlson%20-%201.png","http://img.romhackers.org/traducoes/%5B32X%5D%20Space%20Harrier%20-%20Carlson%20-%204.png","http://img.romhackers.org/traducoes/%5B32X%5D%20Space%20Harrier%20-%20Carlson%20-%205.png"]
 ---
 Uma boa tradução do tradutor freelancer Carlson. Os poucos textos do jogo estão traduzidos, mas não estão acentuados, e aparentemente nenhum gráfico foi editado.NOVIDADES DA VERSÃO 1.1:- Debug traduzido, dentre outras coisas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Space Harrier (32X) (JU) [!].bin, com CRC32 86E7F989.

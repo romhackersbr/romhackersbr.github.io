@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "13/01/2001 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge%20-%20Tradumix%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge%20-%20Tradumix%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge%20-%20Tradumix%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge%20-%20Tradumix%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge%20-%20Tradumix%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge%20-%20Tradumix%20-%203.png"]
 ---
 Uma tradução razoável. Os texto estão traduzidos, mas não estão acentuados, e alguns gráficos foram editados. Nota-se abreviações, vários elementos sem tradução, alguns erros de português e termos com tradução confusa.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Pokemon Puzzle Challenge (U) [C][!].gbc, com CRC32 D06BBA96.

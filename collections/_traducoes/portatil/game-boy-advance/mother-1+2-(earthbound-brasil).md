@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "02/06/2011"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Acentos - 100% / Gráficos - 90% / Revisão - 100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Mother%201+2%20-%20Earthbound%20Brasil%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Mother%201+2%20-%20Earthbound%20Brasil%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Mother%201+2%20-%20Earthbound%20Brasil%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Mother%201+2%20-%20Earthbound%20Brasil%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Mother%201+2%20-%20Earthbound%20Brasil%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Mother%201+2%20-%20Earthbound%20Brasil%20-%203.png"]
 ---
 Uma ótima tradução. Todos os textos estão devidamente traduzidos e acentuados, e a maioria dos gráficos foi editada.OBS: Apenas o primeiro jogo da compilação, Mother 1, está traduzido, mas os autores prometem traduzir o Mother 2 futuramente.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Mother 1+2 (J).gba (dump do grupo Trashman), com código A2UJ e CRC32 0A44569C.

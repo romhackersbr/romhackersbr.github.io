@@ -15,6 +15,6 @@ patch_version: "??? (segunda atualização)"
 patch_release: "undefined"
 patch_type: "xDelta"
 patch_progress: "~90%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20Digimon%20World%20Dawn%20-%201.PNG","http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20Digimon%20World%20Dawn%20-%20Nintendo%20BR%20-%202.PNG","http://www.romhackers.org/imagens/traducoes/%5BNDS%5D%20Digimon%20World%20Dawn%20-%20Nintendo%20BR%20-%203.PNG"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BNDS%5D%20Digimon%20World%20Dawn%20-%201.PNG","http://img.romhackers.org/traducoes/%5BNDS%5D%20Digimon%20World%20Dawn%20-%20Nintendo%20BR%20-%202.PNG","http://img.romhackers.org/traducoes/%5BNDS%5D%20Digimon%20World%20Dawn%20-%20Nintendo%20BR%20-%203.PNG"]
 ---
 A tradução conta com boa parte dos textos que aparecem durante o jogo traduzidos (todos os textos relativos à história principal estão traduzidos). Alguns erros de ortografia podem ser notados (como um "Continar" no menu principal) e alguns gráficos foram editados. Além disso, a fonte de caracteres foi acentuada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 1421 - Digimon World Dawn (U).nds, com CRC32 75625E58.

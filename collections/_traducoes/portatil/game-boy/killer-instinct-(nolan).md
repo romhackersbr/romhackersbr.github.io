@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "21/07/2013"
 patch_type: "IPS"
 patch_progress: "Menus - 99% / Gráficos - 0% / Acentos - 0% / Geral - 99%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Killer%20Instinct%20-%20Nolan%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Killer%20Instinct%20-%20Nolan%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Killer%20Instinct%20-%20Nolan%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGB%5D%20Killer%20Instinct%20-%20Nolan%20-%201.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Killer%20Instinct%20-%20Nolan%20-%202.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Killer%20Instinct%20-%20Nolan%20-%203.png"]
 ---
 Uma tradução razoável. Os textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Nota-se termos ainda sem tradução, como press start, combo breaker, danger, etc, assim como algumas abreviações.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Killer Instinct (U) [S][!].gb, com CRC32 AC793B54.

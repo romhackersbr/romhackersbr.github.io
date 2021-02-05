@@ -15,6 +15,6 @@ patch_version: "BETA2"
 patch_release: "undefined"
 patch_type: "JAR traduzido"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Phantasy%20Star%20Deluxe%20-%20Damien%20IX%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Phantasy%20Star%20Deluxe%20-%20Damien%20IX%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BCEL%5D%20Phantasy%20Star%20Deluxe%20-%20Damien%20IX%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BCEL%5D%20Phantasy%20Star%20Deluxe%20-%20Damien%20IX%20-%201.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Phantasy%20Star%20Deluxe%20-%20Damien%20IX%20-%202.png","http://img.romhackers.org/traducoes/%5BCEL%5D%20Phantasy%20Star%20Deluxe%20-%20Damien%20IX%20-%203.png"]
 ---
 Uma tradução razoável. Os textos do jogo estão traduzidos e acentuados, mas apenas o gráfico do menu inicial foi editado. Nota-se erros ortográficos, e como o autor tentou deixar a sua tradução próxima da tradução feita pela Tec Toy para a versão Master System do jogo, é possível ver o famoso erro "Não especule em torno do romance de Lassic".OBS: Apesar desta tradução ser feita para um jogo de celular, é possível jogá-la em seu computador. Para isso, basta ter o emulador KEmulator Lite.

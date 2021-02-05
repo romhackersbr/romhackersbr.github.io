@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "19/07/2000 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Real%20Bout%20Special%20-%20Tradu-Roms%20-%2001.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Real%20Bout%20Special%20-%20Tradu-Roms%20-%2002.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Real%20Bout%20Special%20-%20Tradu-Roms%20-%2003.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGB%5D%20Real%20Bout%20Special%20-%20Tradu-Roms%20-%2001.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Real%20Bout%20Special%20-%20Tradu-Roms%20-%2002.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Real%20Bout%20Special%20-%20Tradu-Roms%20-%2003.png"]
 ---
 Infelizmente, esta tradução está bem fraquinha. Apesar da Tradu-Roms declarar que o jogo está 100% traduzido, é possível encontrar muita coisa sem tradução. Nos textos traduzidos, nota-se a falta de acentuação e vários erros de ortografia. Além disso, os gráficos também não foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Real Bout Special (J) [S].gb, com CRC32 F4031D4C.

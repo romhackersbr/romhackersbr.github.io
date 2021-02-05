@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "14/09/2009"
 patch_type: "Xdelta 3"
 patch_progress: "99%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Wipeout%20Pure%20-%20Litiser%20-%201.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Wipeout%20Pure%20-%20Litiser%20-%202.jpg","http://www.romhackers.org/imagens/traducoes/%5BPSP%5D%20Wipeout%20Pure%20-%20Litiser%20-%203.jpg"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20Wipeout%20Pure%20-%20Litiser%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Wipeout%20Pure%20-%20Litiser%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Wipeout%20Pure%20-%20Litiser%20-%203.jpg"]
 ---
 Uma boa tradução do tradutor freelancer Litiser. Os textos estão traduzidos e acentuados. Nota-se elementos sem tradução em alguns momentos, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem ISO da versão européia (UCES-00001) do jogo Wipeout Pure.

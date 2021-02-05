@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "22/02/2003 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Megaman%20IV%20-%20Evil%20Darkness%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Megaman%20IV%20-%20Evil%20Darkness%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGB%5D%20Megaman%20IV%20-%20Evil%20Darkness%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGB%5D%20Megaman%20IV%20-%20Evil%20Darkness%20-%201.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Megaman%20IV%20-%20Evil%20Darkness%20-%202.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Megaman%20IV%20-%20Evil%20Darkness%20-%203.png"]
 ---
 A tradução está boa. Os textos estão traduzidos e parcialmente acentuados, mas nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Megaman IV (E).gb, com CRC32 973FCF4C.

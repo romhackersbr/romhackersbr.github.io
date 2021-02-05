@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "26/10/2017"
 patch_type: "IPS"
 patch_progress: "Textos"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Lilo%20&%20Stitch%20-%20ripman%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Lilo%20&%20Stitch%20-%20ripman%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20Lilo%20&%20Stitch%20-%20ripman%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Lilo%20&%20Stitch%20-%20ripman%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Lilo%20&%20Stitch%20-%20ripman%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Lilo%20&%20Stitch%20-%20ripman%20-%203.png"]
 ---
 Segundo o autor da tradução, todos os textos do jogo foram traduzidos, mas não foram acentuados, e nenhuma mensagem em forma de gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Lilo & Stitch (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).gba, com código AGB-ALTP-EUR e CRC32 E7BC4EF1.

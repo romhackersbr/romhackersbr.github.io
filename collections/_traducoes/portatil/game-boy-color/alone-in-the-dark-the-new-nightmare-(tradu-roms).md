@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "25/01/2003 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20-%20Tradu-Roms%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20-%20Tradu-Roms%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20-%20Tradu-Roms%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20-%20Tradu-Roms%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20-%20Tradu-Roms%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20-%20Tradu-Roms%20-%203.png"]
 ---
 Uma boa tradução. Os textos estão traduzidos e acentos, e alguns gráficos foram editados. Nota-se pequenos erros gramaticais em raros momentos, mas nada que atrapalhe o entendimento dos textos ou o progresso no jogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Alone in the Dark - The New Nightmare (E) (M6) [C][!].gbc, com CRC32 7FF2042F.

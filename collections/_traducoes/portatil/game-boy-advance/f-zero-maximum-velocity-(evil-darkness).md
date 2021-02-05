@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "antes de 18 de novembro de 2001 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20Evil%20Darkness%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20Evil%20Darkness%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20Evil%20Darkness%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20Evil%20Darkness%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20Evil%20Darkness%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20F-Zero%20-%20Maximum%20Velocity%20-%20Evil%20Darkness%20-%203.png"]
 ---
 Tradução simples, sem acentos e com a maior parte dos menus sem tradução. É possível até citar o que foi visto traduzido: "tecle start" no início, entrada no menu de "ranking mexido" (traduzida incorretamente) e as dificuldades ao selecionar a categoria (a dificuldade média, "standard", está sem exibir).ATENÇÃO:Esta tradução pode ser aplicada na ROM "F-Zero - Maximum Velocity (UE) [!].gba", com CRC32 BD5E9798, ou na ROM "F-Zero - Maximum Velocity (UE) [f1].gba", com CRC32 C293EB8C (ambas com código AFZE).

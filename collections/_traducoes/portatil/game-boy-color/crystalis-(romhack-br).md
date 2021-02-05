@@ -15,6 +15,6 @@ patch_version: "1.2"
 patch_release: "19/06/2002"
 patch_type: "IPS e IPS-EXE"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Crystalis%20-%20Romhack%20BR%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Crystalis%20-%20Romhack%20BR%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Crystalis%20-%20Romhack%20BR%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Crystalis%20-%20Romhack%20BR%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Crystalis%20-%20Romhack%20BR%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Crystalis%20-%20Romhack%20BR%20-%203.png"]
 ---
 Uma boa tradução. Os textos estão traduzidos e acentuados, e a maioria dos gráficos foram editados. Nota-se algumas abreviações e alguns erros de português, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Crystalis (U) [C][!].gbc, com CRC32 909BB02D.

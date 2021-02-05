@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "22/01/2002 (provavelmente)"
 patch_type: "IPS e IPS-EXE"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Star%20Wars%20Episode%20I%20-%20Obi-Wan's%20Adventures%20-%20Evil%20Darkness%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Star%20Wars%20Episode%20I%20-%20Obi-Wan's%20Adventures%20-%20Evil%20Darkness%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BGBC%5D%20Star%20Wars%20Episode%20I%20-%20Obi-Wan's%20Adventures%20-%20Evil%20Darkness%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BGBC%5D%20Star%20Wars%20Episode%20I%20-%20Obi-Wan's%20Adventures%20-%20Evil%20Darkness%20-%201.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Star%20Wars%20Episode%20I%20-%20Obi-Wan's%20Adventures%20-%20Evil%20Darkness%20-%202.png","http://img.romhackers.org/traducoes/%5BGBC%5D%20Star%20Wars%20Episode%20I%20-%20Obi-Wan's%20Adventures%20-%20Evil%20Darkness%20-%203.png"]
 ---
 Uma tradução razoável. Os textos estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Nota-se algumas abreviações e traduções literais.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Star Wars Episode I - Obi-Wan's Adventures (U) [C][!].gbc, com CRC32 0E697582.
