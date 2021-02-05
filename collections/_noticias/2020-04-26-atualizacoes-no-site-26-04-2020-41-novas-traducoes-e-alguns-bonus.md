@@ -77,9 +77,9 @@ As traduções são as seguintes:
 -   [GP World (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1447)
 -   [Gulkave (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1443)
 -   [Orguss (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1444)
--   [Pachinko (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436
-   [Pitfall II - The Lost Caverns (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)
-   -   [Sega Galaga (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
+-   [Pachinko (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1436)
+- [Pitfall II - The Lost Caverns (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1454)
+-   [Sega Galaga (Patryck)](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=70&lid=1448)
 
 
 Eu também aproveitei a deixa para cadastrar o utilitário [Boolean Match - Binary Pattern Search](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads2/singlefile.php?cid=2&lid=249), feito por **Neto RPG**.
