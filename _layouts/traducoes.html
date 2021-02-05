@@ -87,7 +87,14 @@ layout: page
                   {% if page.patch_author.first %}
                   <ul>
                   {% for author in page.patch_author %}
-                    <li>{{ author }}</li>
+                    {% assign autor = site.autores | where: "title", author %}
+                    <li>
+                      {% if autor.first %}
+                      <a href="{{ autor.url }}" alt="autor.title">{{ autor.title }}</a>
+                      {% else %}
+                      {{ author }}
+                      {% endif %}
+                    </li>
                   {% endfor %}
                   </ul>
                   {% else %}

@@ -3,7 +3,7 @@ layout: page
 ---
 <div class="card mb-10">
     <div class="card-header text-center">
-        <small>Também conhecido como: {{ page.aka | join: ',' }}</small>
+        <small>Também conhecido como: {{ page.aka | join: ', ' }}</small>
     </div>
     <div class="card-body">
         <div class="container">
@@ -33,7 +33,7 @@ layout: page
                             <tr>
                                 <th scope="row">Site</th>
                                 <td>
-                                    <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>
+                                    <a href="{{ page.site }}" class="break-all">https:{{ page.site }}</a>
                                 </td>
                             </tr>
                             {% endif %}
