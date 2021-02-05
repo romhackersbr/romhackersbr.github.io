@@ -10,7 +10,6 @@ layout: compress
   <!-- Titulo da Pagina -->
   <title>{{site.title}}
     {% if page.title %}
-    -
     {% if page.layout contains "traducoes" %}
     Traduções -
     {% endif %}
@@ -22,7 +21,7 @@ layout: compress
     {% endif %}
     {{ page.title }}
     {% else %}
-    - {{ site.description }}
+    {{ site.description }}
     {% endif %}</title>
   <link rel="canonical"
     href="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}" />
