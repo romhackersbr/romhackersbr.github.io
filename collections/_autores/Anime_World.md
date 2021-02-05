@@ -4,6 +4,7 @@ real_name: "Hans Bonini"
 aka: ["Tio Anime", "Animeco", "Akiracovers"]
 group: ["Central MIB","Trans-Center","POBRE"]
 site: "http://hansbonini.com.br"
+email: ""
 dob: "02/07/1989"
 category: ["Programador", "Asmhacker", "Romhacker", "Tradutor"]
 languages: ["Inglês", "Português", "Japonês", "Alemão"]
