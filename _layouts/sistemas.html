@@ -2,11 +2,11 @@
 layout: page
 ---
 <div class="card mb-10">
-    {% if sistema.featured %}
-    <img class="card-img-top" src="{{ sistema.featured | prepend: site.baseurl }}"
-        alt="Imagem em destaque de {{ sistema.title }}" />
+    {% if page.featured %}
+    <img class="card-img-top" src="{{ page.featured | prepend: site.baseurl }}"
+        alt="Imagem em destaque de {{ page.title }}" />
     {% endif %}
     <div class="card-body">
-        <p class="card-text">{{ sistema.content }}</p>
+        <p class="card-text">{{ page.content }}</p>
     </div>
 </div>
