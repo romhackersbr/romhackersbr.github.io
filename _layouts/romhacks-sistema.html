@@ -3,12 +3,13 @@ layout: page
 ---
 {% if content.size > 5 %}
 <div class="card mb-10">
-  {% if page.featured %}
-  <img class="card-img-top" src="{{ page.featured | prepend: site.baseurl }}"
-    alt="Imagem em destaque de {{ page.title }}" />
+  {% assign sistema = site.sistemas | where: "title", page.title %}
+  {% if sistema.featured %}
+  <img class="card-img-top" src="{{ sistema.featured | prepend: site.baseurl }}"
+    alt="Imagem em destaque de {{ sistema.title }}" />
   {% endif %}
   <div class="card-body">
-    <p class="card-text">{{ content }}</p>
+    <p class="card-text">{{ sistema.content }}</p>
   </div>
 </div>
 {% endif %}
