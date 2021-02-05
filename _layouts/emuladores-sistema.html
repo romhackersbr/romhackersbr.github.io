@@ -3,7 +3,14 @@ layout: page
 ---
 {% assign sistema = site.sistemas | where: "title", page.title %}
 {% if sistema.first %}
-{{ sistema.first.content }}
+<div class="card pt-4 mb-2">
+  {% if sistema.first.featured %}
+  <img class="card-img-top"  src="{{ sistema.first..featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ sistema.first.title }}" />
+  {% endif %}
+  <div class="card-body">
+    <p class="card-text">{{ sistema.first.content }}</p>
+  </div>
+</div>
 {% endif %}
 
 <ul id="{{ page.url | slugify }}" class="list-group">
