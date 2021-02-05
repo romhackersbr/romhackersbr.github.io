@@ -97,15 +97,17 @@ layout: page
               </tr>
               <tr>
                 <th scope="row">Grupo Tradutor</th>
-                <ul>
-                  {% if page.patch_group.first %}
-                  {% for group in page.patch_group %}
-                    <li>{{ group }}</li>
-                  {% endfor %}
-                  {% else %}
-                    <li>{{ page.patch_group }}</li>
-                  {% endif %}
+                <td>
+                  <ul>
+                    {% if page.patch_group.first %}
+                    {% for group in page.patch_group %}
+                      <li>{{ group }}</li>
+                    {% endfor %}
+                    {% else %}
+                      <li>{{ page.patch_group }}</li>
+                    {% endif %}
                   </ul>
+                </td>
               </tr>
               <tr>
                 <th scope="row">Site</th>
