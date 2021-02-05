@@ -10,16 +10,16 @@ layout: compress
   <!-- Titulo da Pagina -->
   <title>{{site.title}}
     {% if page.title %}
-    {% if page.layout contains "traducoes" %}
+    {% if page.layout contains "traducoes" and page.layout != "traducoes-list" %}
     Traduções -
     {% endif %}
-    {% if page.layout contains "romhacks" %}
+    {% if page.layout contains "romhacks" and page.layout != "romhacks-list" %}
     Romhacks -
     {% endif %}
-    {% if page.layout contains "tutoriais" %}
+    {% if page.layout contains "tutoriais" and page.layout != "tutoriais-list" %}
     Tutoriais -
     {% endif %}
-    {% if page.layout contains "emuladores" %}
+    {% if page.layout contains "emuladores" and page.layout != "emuladores-list" %}
     Emuladores -
     {% endif %}
     {% if page.layout contains "utilitarios" %}
@@ -55,16 +55,16 @@ layout: compress
   <meta property="og:title"
     content="{% if page.title %}
     -
-    {% if page.layout contains 'traducoes' %}
+    {% if page.layout contains 'traducoes' and page.layout != 'traducoes-list' %}
     Traduções -
     {% endif %}
-    {% if page.layout contains 'romhacks' %}
+    {% if page.layout contains 'romhacks' and page.layout != 'romhacks-list' %}
     Romhacks -
     {% endif %}
-    {% if page.layout contains 'tutoriais' %}
+    {% if page.layout contains 'tutoriais' and page.layout != 'tutoriais-list' %}
     Tutoriais -
     {% endif %}
-    {% if page.layout contains 'emuladores' %}
+    {% if page.layout contains 'emuladores' and page.layout != 'emuladores-list' %}
     Emuladores -
     {% endif %}
     {% if page.layout contains 'utilitarios' %}
