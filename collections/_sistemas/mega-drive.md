@@ -1,6 +1,6 @@
 ---
 title: "Mega Drive"
-featured: /assets/svg/sistema/mega-drive.svg
+featured: "/assets/svg/sistema/mega-drive.svg"
 ---
 
 Mega Drive (メガドライブ, Mega Doraibu?), conhecido como Sega Genesis na América do Norte, é um console de video game de 16 bits da Sega que concorria diretamente com o Super Nintendo Entertainment System. O console fez grande sucesso na década de 1990, perdendo espaço após o surgimento e popularização da nova geração de consoles de 32 bits, como o PlayStation da Sony.

@@ -28,6 +28,9 @@ collections:
   tutoriais:
     permalink: "/:collection/:path/"
     output: true
+  sistemas:
+    permalink: "/:collection/:path/"
+    output: true
 
 # Escopo
 defaults:
