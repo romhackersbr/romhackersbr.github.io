@@ -139,7 +139,7 @@ layout: page
       <div class="row justify-content-center">
         <div class="col-xs-6 col-md-6 text-center">
           {% if page.patch_file %}
-          <a href="https://cdn.romhackers.org/traducoes/{{ page.patch_file | replace: "[", "%5b" | replace: "]", "%5d" }}" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true">Baixar Patch</a>
+          <a href="https://cdn.romhackers.org/traducoes/{{ page.patch_file | url_encode }}" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true">Baixar Patch</a>
           {% else %}
           <button type="button" class="btn btn-dark" disabled>Baixar Patch</button>
           {% endif %}
