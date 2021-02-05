@@ -38,7 +38,7 @@
     <div class="card-img-group-top container">
       <div class="row">
         {% assign romhacks = site.romhacks | sort: "date" %}
-        {% for romhack in romhacks reversed limit:4 %}
+        {% for romhack in romhacks limit:4 %}
         {% for image in romhack.patch_images limit:1 %}
         <div class="col-6">
           <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
@@ -52,7 +52,7 @@
     <div class="card-header">
       <ul>
         {% assign romhacks = site.romhacks | sort: "date" %}
-        {% for romhack in romhacks reversed limit:4 %}
+        {% for romhack in romhacks limit:4 %}
         <li>
           <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
             {{ romhack.title }}
@@ -71,7 +71,7 @@
     <div class="card-header">
       <ul>
         {% assign tutoriais = site.tutoriais | sort: "date" %}
-        {% for tutorial in tutoriais reversed limit:4 %}
+        {% for tutorial in tutoriais limit:4 %}
         <li>
           <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
             {{ tutorial.title }}
