@@ -39,7 +39,8 @@ layout: compress
     {% endif %}
     {{ page.title }}
     {% else %}
-    - {{ site.description }}</title>
+    - {{ site.description }}
+    {% endif %}</title>
   <link rel="canonical"
     href="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}" />
 
