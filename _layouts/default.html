@@ -11,10 +11,10 @@ layout: compress
   <title>{{site.title}}
     {% if page.title %}
     -
-    {% if page.layout contain "traducoes" %}
+    {% if page.layout contains "traducoes" %}
     Traduções -
     {% endif %}
-    {% if page.layout contain "romhacks" %}
+    {% if page.layout contains "romhacks" %}
     Romhacks -
     {% endif %}
     {% if page.layout == "traducoes" or page.layout == "romhacks" %}
@@ -39,10 +39,10 @@ layout: compress
   <meta property="og:title"
     content="{% if page.title %}
     -
-    {% if page.layout contain 'traducoes' %}
+    {% if page.layout contains 'traducoes' %}
     Traduções -
     {% endif %}
-    {% if page.layout contain 'romhacks' %}
+    {% if page.layout contains 'romhacks' %}
     Romhacks -
     {% endif %}
     {% if page.layout == 'traducoes' or page.layout == 'romhacks' %}
