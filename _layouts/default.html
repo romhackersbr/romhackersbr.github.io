@@ -8,7 +8,7 @@ layout: compress
 
   
   <!-- Titulo da Pagina -->
-  <title>{{site.title}}{% if page.title %}- {%if page.layout == "traducoes" %}{{ page.system }} {% endif %}{{ page.title }}{% endif %}</title>
+  <title>{{site.title}}{% if page.title %}- {% if page.layout == "traducoes" or page.layout == "romhacks" %}{{ page.system }} {% endif %}{{ page.title }}{% endif %}</title>
  
   <!-- Meta Tags Padrão -->
   <meta charset="utf-8">
@@ -17,13 +17,15 @@ layout: compress
 
   <!-- SEO -->
   <meta name="description" content="{% if page.content %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:title" content="{%if page.layout == 'traducoes' %}{{ page.system }} {% endif %}{% if page.title %}{{ page.title }}{% endif %}">
+  <meta property="og:title" content="{% if page.layout == 'traducoes' or page.layout == 'romhacks' %}{{ page.system }} {% endif %}{% if page.title %}{{ page.title }}{% endif %}">
   <meta property="og:site_name" content="{{site.title}}">
   <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:description" content="{% if page.content %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   {% if page.layout == "traducoes" or page.layout == "romhacks" %}
+  {% if page.patch_images.first }
   <meta property="og:image" content="{{ page.patch_images.first }}">
   <meta property="og:image:type" content="image/jpeg">
+  {% endif %}
   {% endif %}
 
   <!-- CSS -->
