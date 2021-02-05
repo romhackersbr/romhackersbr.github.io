@@ -16,8 +16,25 @@ layout: compress
     {% if page.layout contains "romhacks" %}
     Romhacks -
     {% endif %}
-    {% if page.layout == "traducoes" or page.layout == "romhacks" %}
+    {% if page.layout contains "tutoriais" %}
+    Tutoriais -
+    {% endif %}
+    {% if page.layout contains "emuladores" %}
+    Emuladores -
+    {% endif %}
+    {% if page.layout contains "utilitarios" %}
+    Utilitários -
+    {% endif %}
+    {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
     {{ page.system }}
+    {% endif %}
+    {% if page.layout == "tutoriais" %}
+    {% if page.url contains "nacionais" %}
+    Nacionais - 
+    {% else %}
+    Internacionais - 
+    {% endif %}
+    {{ page.category }}
     {% endif %}
     {{ page.title }}
     {% else %}
@@ -44,8 +61,25 @@ layout: compress
     {% if page.layout contains 'romhacks' %}
     Romhacks -
     {% endif %}
-    {% if page.layout == 'traducoes' or page.layout == 'romhacks' %}
+    {% if page.layout contains 'tutoriais' %}
+    Tutoriais -
+    {% endif %}
+    {% if page.layout contains 'emuladores' %}
+    Emuladores -
+    {% endif %}
+    {% if page.layout contains 'utilitarios' %}
+    Utilitários -
+    {% endif %}
+    {% if page.layout == 'traducoes' or page.layout == 'romhacks' or page.layout == 'emuladores' %}
     {{ page.system }}
+    {% endif %}
+    {% if page.layout == 'tutoriais' %}
+    {% if page.url contains 'nacionais' %}
+    Nacionais - 
+    {% else %}
+    Internacionais - 
+    {% endif %}
+    {{ page.category }}
     {% endif %}
     {{ page.title }}
     {% else %}
