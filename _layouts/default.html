@@ -21,6 +21,7 @@ layout: compress
     Emuladores -
     {% elsif page.layout contains "utilitarios" %}
     Utilitários -
+    {% else %}
     {% endif %}
     {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
     {{ page.system }}
@@ -30,6 +31,7 @@ layout: compress
     Nacionais - 
     {% elsif page.url contains "internacionais" %}
     Internacionais - 
+    {% else %}
     {% endif %}
     {% endif %}
     {% if page.layout == "tutoriais" %}
@@ -61,6 +63,7 @@ layout: compress
     Emuladores -
     {% elsif page.layout contains 'utilitarios' %}
     Utilitários -
+    {% else %}
     {% endif %}
     {% if page.layout == 'traducoes' or page.layout == 'romhacks' or page.layout == 'emuladores' %}
     {{ page.system }}
@@ -70,6 +73,7 @@ layout: compress
     Nacionais - 
     {% elsif page.url contains 'internacionais' %}
     Internacionais - 
+    {% else %}
     {% endif %}
     {% endif %}
     {% if page.layout == 'tutoriais' %}
