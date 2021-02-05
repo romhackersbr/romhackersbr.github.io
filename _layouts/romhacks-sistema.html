@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign sistema = site.sistemas | where: "title", page.title | uniq %}
+{% assign sistema = site.sistemas | where: "title", page.title %}
 {{ sistema.content }}
 
 <ul id="{{ page.url | slugify }}" class="list-group">
