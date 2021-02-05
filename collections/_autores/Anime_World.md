@@ -1,13 +1,18 @@
 ---
 title: "Anime_World"
-real_name: "Hans Bonini"
 aka: ["Tio Anime", "Animeco", "Akiracovers"]
 group: ["Central MIB","Trans-Center","POBRE"]
-site: "http://hansbonini.com.br"
+site: "//hansbonini.com.br"
 email: ""
-dob: "02/07/1989"
+facebook: ""
+twitter: ""
+discord: ""
+github: ""
+furt: ""
 category: ["Programador", "Asmhacker", "Romhacker", "Tradutor"]
 languages: ["Inglês", "Português", "Japonês", "Alemão"]
+real_name: "Hans Bonini"
+dob: "02/07/1989"
 ---
 
 Interessou-se por Romhacking e Emulação aos 11 anos de idade, após receber de um colega

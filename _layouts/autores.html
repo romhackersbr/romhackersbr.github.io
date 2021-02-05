@@ -13,26 +13,78 @@ layout: page
           <h5 class="badge badge-secondary text-light">Informações:</h5>
           <table class="table table-sm table-striped">
             <tbody>
+              {% if page.real_name != '' %}
               <tr>
                 <th scope="row">Nome Real</th>
                 <td>
-                    {% if page.real_name != '' %}
-                    {{ page.real_name }}
-                    {% else %}
-                    Não informado ou Desconhecido
-                    {% endif %}
+                    {{ page.real_name }}                    
                 </td>
               </tr>
+              {% endif %}
+              {% if page.dob != '' %}
               <tr>
                 <th scope="row">Data de Nascimento</th>
                 <td>
-                    {% if page.dob != '' %}
-                    {{ page.dob }}
-                    {% else %}
-                    Não informada ou Desconhecida
-                    {% endif %}
+                    {{ page.dob }}                    
                 </td>
               </tr>
+              {% endif %}
+              {% if page.site != "" %}
+              <tr>
+                <th scope="row">Site</th>
+                <td>
+                    <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>                 
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.email != "" %}
+              <tr>
+                <th scope="row">Email</th>
+                <td>
+                    <a href="mailto://{{ page.email }}" class="break-all">{{ page.email }}</a>                 
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.facebook != "" %}
+              <tr>
+                <th scope="row">Facebook</th>
+                <td>
+                    <a href="//fb.com/{ page.facebook }}" class="break-all">fb.com/{{ page.facebook }}</a>                 
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.twitter != "" %}
+              <tr>
+                <th scope="row">Twitter</th>
+                <td>
+                    <a href="//twitter.com/{{ page.twitter }}" class="break-all">@{{ page.twitter }}</a>                 
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.github != "" %}
+              <tr>
+                <th scope="row">Github</th>
+                <td>
+                    <a href="//github.com/{{ page.github }}" class="break-all">{{ page.github }}</a>                 
+                </td>
+              </tr>
+              {% endif %}
+              {% if page.furt != "" %}
+              <tr>
+                <th scope="row">Furt</th>
+                <td>
+                    <a href="//www.romhacking.net.br/index.php?action=profile;u={{ page.furt }}" class="break-all">{{ page.title }}</a>                 
+                </td>
+              </tr>
+              {% endif %} 
+              {% if page.discord != "" %}
+              <tr>
+                <th scope="row">Discord</th>
+                <td>
+                    {{ page.discord }}                 
+                </td>
+              </tr>
+              {% endif %}
               <tr>
                 <th scope="row">Grupo(s)</th>
                 <td>
@@ -49,16 +101,6 @@ layout: page
                             Nenhum
                         {% endif %}
                     {% endif %}
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">Site</th>
-                <td>
-                    {% if page.site == "" %}
-                    Nenhum
-                    {% else %}
-                    <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>
-                    {% endif %}                   
                 </td>
               </tr>
               <tr>
