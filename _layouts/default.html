@@ -10,37 +10,9 @@ layout: compress
   <!-- Titulo da Pagina -->
   <title>{{site.title}}
     {% if page.title %}
-    - 
-    {% if page.layout contains "traducoes" and page.layout != "traducoes-list" %}
-    Traduções -
-    {% elsif page.layout contains "romhacks" and page.layout != "romhacks-list" %}
-    Romhacks -
-    {% elsif page.layout contains "tutoriais" and page.layout != "tutoriais-list" %}
-    Tutoriais -
-    {% elsif page.layout contains "emuladores" and page.layout != "emuladores-list" %}
-    Emuladores -
-    {% elsif page.layout contains "utilitarios" %}
-    Utilitários -
-    {% else %}
+    -
     {% endif %}
-    {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
-    {{ page.system }}
-    {% endif %}
-    {% if page.url contains "tutoriais" %}
-    {% if page.url contains "nacionais" %}
-    Nacionais - 
-    {% elsif page.url contains "internacionais" %}
-    Internacionais - 
-    {% else %}
-    {% endif %}
-    {% endif %}
-    {% if page.layout == "tutoriais" %}
-    {{ page.category }}
-    {% endif %}
-    {{ page.title }}
-    {% else %}
-    - {{ site.description }}
-    {% endif %}</title>
+    {% include seo-titulo.html %}</title>
   <link rel="canonical"
     href="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}" />
 
@@ -53,37 +25,7 @@ layout: compress
   <meta name="description"
     content="{% if page.content %}{% assign description = page.excerpt | strip_html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:locale" content="pt_BR" />
-  <meta property="og:title" content="{% if page.title %}
-    {% if page.layout contains 'traducoes' and page.layout != 'traducoes-list' %}
-    Traduções -
-    {% elsif page.layout contains 'romhacks' and page.layout != 'romhacks-list' %}
-    Romhacks -
-    {% elsif page.layout contains 'tutoriais' and page.layout != 'tutoriais-list' %}
-    Tutoriais -
-    {% elsif page.layout contains 'emuladores' and page.layout != 'emuladores-list' %}
-    Emuladores -
-    {% elsif page.layout contains 'utilitarios' %}
-    Utilitários -
-    {% else %}
-    {% endif %}
-    {% if page.layout == 'traducoes' or page.layout == 'romhacks' or page.layout == 'emuladores' %}
-    {{ page.system }}
-    {% endif %}
-    {% if page.url contains 'tutoriais' %}
-    {% if page.url contains 'nacionais' %}
-    Nacionais - 
-    {% elsif page.url contains 'internacionais' %}
-    Internacionais - 
-    {% else %}
-    {% endif %}
-    {% endif %}
-    {% if page.layout == 'tutoriais' %}
-    {{ page.category }}
-    {% endif %}
-    {{ page.title }}
-    {% else %}
-    - {{ site.description }}
-    {% endif %}">
+  <meta property="og:title" content="{% include seo-titulo.html %}">
   <meta property="og:site_name" content="{{site.title}}">
   <meta property="og:url"
     content="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}">

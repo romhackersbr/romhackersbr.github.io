@@ -1,0 +1,31 @@
+{% if page.title %}
+    {% if page.layout contains "traducoes" and page.layout != "traducoes-list" %}
+    Traduções -
+    {% elsif page.layout contains "romhacks" and page.layout != "romhacks-list" %}
+    Romhacks -
+    {% elsif page.layout contains "tutoriais" and page.layout != "tutoriais-list" %}
+    Tutoriais -
+    {% elsif page.layout contains "emuladores" and page.layout != "emuladores-list" %}
+    Emuladores -
+    {% elsif page.layout contains "utilitarios" %}
+    Utilitários -
+    {% else %}
+    {% endif %}
+    {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
+    {{ page.system }}
+    {% endif %}
+    {% if page.url contains "tutoriais" %}
+    {% if page.url contains "nacionais" %}
+    Nacionais - 
+    {% elsif page.url contains "internacionais" %}
+    Internacionais - 
+    {% else %}
+    {% endif %}
+    {% endif %}
+    {% if page.layout == "tutoriais" %}
+    {{ page.category }} - 
+    {% endif %}
+    {{ page.title }}
+    {% else %}
+    - {{ site.description }}
+    {% endif %}
