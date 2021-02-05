@@ -11,8 +11,6 @@ layout: page
   {% if level == 2 %}
   <li id="{{ platform.url | slugify }}" class="list-group-item">
     <a href="{{ platform.url | prepend: site.baseurl }}">{{ platform.title }}</a>
-    {% assign contador = site.traducoes | where:"platform", platform.title | size %}
-    <span class="badge badge-success">{{ contador }}</span>
   </li>
   {% endif %}
 {% endfor %}
