@@ -84,12 +84,24 @@ layout: page
               <tr>
                 <th scope="row">Tradutor(es)</th>
                 <td>
-                  {{ page.patch_author }}
+                  <ul>
+                  {% for author in page.patch_author %}
+                    <li>
+                    {{  author }}
+                    </li>
+                  {% endfor %}
+                  </ul>
                 </td>
               </tr>
               <tr>
                 <th scope="row">Grupo Tradutor</th>
-                <td>{{ page.patch_group }}</td>
+                <ul>
+                  {% for group in page.patch_group %}
+                    <li>
+                    {{ group }}
+                    </li>
+                  {% endfor %}
+                  </ul>
               </tr>
               <tr>
                 <th scope="row">Site</th>
