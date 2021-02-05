@@ -112,10 +112,10 @@ layout: page
               <tr>
                 <th scope="row">Site</th>
                 <td>
-                  {% if page.patch_site != ""}
-                  <a href="{{ page.patch_site }}" class="break-all">https://{{ page.patch_site }}</a>
-                  {% else %}
+                  {% if page.patch_site == "" %}
                   Nenhum
+                  {% else %}
+                  <a href="{{ page.patch_site }}" class="break-all">https://{{ page.patch_site }}</a>
                   {% endif %}
                 </td>
               </tr>
