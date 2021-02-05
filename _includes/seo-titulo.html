@@ -9,6 +9,8 @@
     Emuladores -
     {% elsif page.layout contains "utilitarios" %}
     Utilitários -
+    {% elsif page.layout == 'noticias-list' %}
+    {{ site.description }} - 
     {% else %}
     {% endif %}
     {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
