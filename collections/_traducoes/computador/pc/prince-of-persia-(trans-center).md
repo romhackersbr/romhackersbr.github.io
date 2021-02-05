@@ -16,5 +16,6 @@ patch_release: "24/04/2008"
 patch_type: "Jogo traduzido (abandonware)"
 patch_progress: "Textos"
 patch_images: ["http://img.romhackers.org/traducoes/%5BPC%5D%20Prince%20of%20Persia%20-%20Trans-Center%20-%201.gif","http://img.romhackers.org/traducoes/%5BPC%5D%20Prince%20of%20Persia%20-%20Trans-Center%20-%202.gif","http://img.romhackers.org/traducoes/%5BPC%5D%20Prince%20of%20Persia%20-%20Trans-Center%20-%203.gif"]
+patch_file: "[PC] Prince of Persia [T-BR] [T-Solid One G-Trans-Center] [V-1.0 P-100% A-2008].zip"
 ---
 Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.
