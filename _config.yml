@@ -31,6 +31,9 @@ collections:
   sistemas:
     permalink: "/:collection/:path/"
     output: true
+  autores:
+    permalink: "/:collection/:path/"
+    output: true
 
 # Escopo
 defaults:
