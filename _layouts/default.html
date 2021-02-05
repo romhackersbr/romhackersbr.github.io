@@ -2,14 +2,15 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="pt-br" itemscope itemtype="http://schema.org/Webpage">
+<html lang="pt-BR" itemscope itemtype="http://schema.org/Webpage">
 
 <head>
 
   
   <!-- Titulo da Pagina -->
   <title>{{site.title}}{% if page.title %}- {% if page.layout == "traducoes" or page.layout == "romhacks" %}{{ page.system }} {% endif %}{{ page.title }}{% endif %}</title>
- 
+  <link rel="canonical" href="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}" />
+  
   <!-- Meta Tags Padrão -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,16 +18,19 @@ layout: compress
 
   <!-- SEO -->
   <meta name="description" content="{% if page.content %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:locale" content="pt_BR" />
   <meta property="og:title" content="{% if page.layout == 'traducoes' or page.layout == 'romhacks' %}{{ page.system }} {% endif %}{% if page.title %}{{ page.title }}{% endif %}">
   <meta property="og:site_name" content="{{site.title}}">
   <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.baseurl }}{% else %}{{ site.url }}{% endif %}">
   <meta property="og:description" content="{% if page.content %}{{ page.excerpt | strip_html }}{% else %}{{ site.description }}{% endif %}">
   {% if page.layout == "traducoes" or page.layout == "romhacks" %}
+  <meta property="og:type" content="article" />
   {% if page.patch_images.first }
   <meta property="og:image" content="{{ page.patch_images.first }}">
-  <meta property="og:image:type" content="image/jpeg">
   {% endif %}
   {% endif %}
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
