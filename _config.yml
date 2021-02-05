@@ -58,6 +58,10 @@ defaults:
       type: "tutoriais"
     values:
       layout: "tutoriais"
+  - scope:
+      type: "sistemas"
+    values:
+      layout: "sistemas"
 
 # Configurações de Build
 markdown: kramdown
