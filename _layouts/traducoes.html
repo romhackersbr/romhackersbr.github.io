@@ -87,7 +87,9 @@ layout: page
                   {% if page.patch_author.first %}
                   <ul>
                   {% for author in page.patch_author %}
-                    {% assign autor = site.autores | where_exp: "item", "item.title == author or item.aka contains author" %}
+                    {% assign autor1 = site.autores | where_exp: "item", "item.title == author" %}
+                    {% assign autor2 = site.autores | where_exp: "item", "item.aka contains author" %}
+                    {% assign autor = autor1 | concat: autor2 | uniq%}
                     <li>
                       {% if autor.first %}
                       <a href="{{ autor.first.url }}" alt="autor.first.title">{{ autor.first.title }}</a>
