@@ -10,7 +10,7 @@ layout: compress
   <!-- Titulo da Pagina -->
   <title>{{site.title}}
     {% if page.title %}
-    - 
+    -
     {% if page.layout contains "traducoes" and page.layout != "traducoes-list" %}
     Traduções -
     {% endif %}
@@ -29,12 +29,12 @@ layout: compress
     {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
     {{ page.system }}
     {% endif %}
-    {% if page.layout == "tutoriais" %}
     {% if page.url contains "nacionais" %}
-    Nacionais - 
+    Nacionais -
     {% else %}
-    Internacionais - 
+    Internacionais -
     {% endif %}
+    {% if page.layout == "tutoriais" %}
     {{ page.category }}
     {% endif %}
     {{ page.title }}
@@ -53,8 +53,7 @@ layout: compress
   <meta name="description"
     content="{% if page.content %}{% assign description = page.excerpt | strip.html %}{% if description == '' %}{{ site.description }}{% else %}{{ description }}{% endif %}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:locale" content="pt_BR" />
-  <meta property="og:title"
-    content="{% if page.title %}
+  <meta property="og:title" content="{% if page.title %}
     {% if page.layout contains 'traducoes' and page.layout != 'traducoes-list' %}
     Traduções -
     {% endif %}
@@ -73,12 +72,12 @@ layout: compress
     {% if page.layout == 'traducoes' or page.layout == 'romhacks' or page.layout == 'emuladores' %}
     {{ page.system }}
     {% endif %}
-    {% if page.layout == 'tutoriais' %}
     {% if page.url contains 'nacionais' %}
     Nacionais - 
     {% else %}
     Internacionais - 
     {% endif %}
+    {% if page.layout == 'tutoriais' %}
     {{ page.category }}
     {% endif %}
     {{ page.title }}
