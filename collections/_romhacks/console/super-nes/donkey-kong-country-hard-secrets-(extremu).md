@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "04/03/2013"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/hacks/%5BSNES%5D%20Donkey%20Kong%20Country%20Hard%20Secrets%20-%201.png","http://www.romhackers.org/imagens/hacks/%5BSNES%5D%20Donkey%20Kong%20Country%20Hard%20Secrets%20-%202.png","http://www.romhackers.org/imagens/hacks/%5BSNES%5D%20Donkey%20Kong%20Country%20Hard%20Secrets%20-%203.png"]
+patch_images: ["http://img.romhackers.org/hacks/%5BSNES%5D%20Donkey%20Kong%20Country%20Hard%20Secrets%20-%201.png","http://img.romhackers.org/hacks/%5BSNES%5D%20Donkey%20Kong%20Country%20Hard%20Secrets%20-%202.png","http://img.romhackers.org/hacks/%5BSNES%5D%20Donkey%20Kong%20Country%20Hard%20Secrets%20-%203.png"]
 ---
 Este hack modifica as fases e obstáculos do jogo, tornado-o bem mais difícil.ATENÇÃO:Este hack deve ser aplicado na ROM original Kong Country (U) (V1.0) [!].smc, com CRC32 C946DCA0 e sem cabeçalho.

@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "??/??/1999 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/hacks/%5BA26%5D%20Demons!%20%5BH-SpkLeader%20G-SpkSoft%5D%20%5BA-1999%5D%20%5BPhoenix%20Hack%5D.png"]
+patch_images: ["http://img.romhackers.org/hacks/%5BA26%5D%20Demons!%20%5BH-SpkLeader%20G-SpkSoft%5D%20%5BA-1999%5D%20%5BPhoenix%20Hack%5D.png"]
 ---
 Este hack modifica alguns gráficos do jogo Phoenix, deixando-os parecidos com os do jogo Demon Attack.ATENÇÃO:O patch deve ser aplicado na ROM original Phoenix (1982) (Atari).a26, com CRC32 6AE1B66C.

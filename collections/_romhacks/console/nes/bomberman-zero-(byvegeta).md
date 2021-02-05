@@ -15,6 +15,6 @@ patch_version: "0.9"
 patch_release: "10/02/2011"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Bomberman%20Zero%20-%20byvegeta%20-%201.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Bomberman%20Zero%20-%20byvegeta%20-%202.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Bomberman%20Zero%20-%20byvegeta%20-%203.png"]
+patch_images: ["http://img.romhackers.org/hacks/%5BNES%5D%20Bomberman%20Zero%20-%20byvegeta%20-%201.png","http://img.romhackers.org/hacks/%5BNES%5D%20Bomberman%20Zero%20-%20byvegeta%20-%202.png","http://img.romhackers.org/hacks/%5BNES%5D%20Bomberman%20Zero%20-%20byvegeta%20-%203.png"]
 ---
 Este hack edita todos os gráficos do jogo, deixa-os mais detalhados, e modifica todos os elementos das fases, como a formação dos obstáculos, a localização dos inimigos, etc.ATENÇÃO:Este hack deve ser aplicado na ROM original Bomberman (U) [!].nes, com CRC32 B9804046.

@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "10/09/2012"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Magician%20-%20Onion%20Knight%20BR%20-%201.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Magician%20-%20Onion%20Knight%20BR%20-%202.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Magician%20-%20Onion%20Knight%20BR%20-%203.png"]
+patch_images: ["http://img.romhackers.org/hacks/%5BNES%5D%20Magician%20-%20Onion%20Knight%20BR%20-%201.png","http://img.romhackers.org/hacks/%5BNES%5D%20Magician%20-%20Onion%20Knight%20BR%20-%202.png","http://img.romhackers.org/hacks/%5BNES%5D%20Magician%20-%20Onion%20Knight%20BR%20-%203.png"]
 ---
 Magician é um hack que modifica os gráficos e a estrutura das fases do jogo Nuts & Milk.ATENÇÃO:Este hack deve ser aplicado na ROM original Nuts & Milk (J) [!].nes, com CRC32 11879FE8.

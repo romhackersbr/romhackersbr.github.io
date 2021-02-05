@@ -15,6 +15,6 @@ patch_version: "1.1"
 patch_release: "25/03/2010"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Metroid%20Alpha%20-%20byvegeta%20-%201.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Metroid%20Alpha%20-%20byvegeta%20-%202.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Metroid%20Alpha%20-%20byvegeta%20-%203.png"]
+patch_images: ["http://img.romhackers.org/hacks/%5BNES%5D%20Metroid%20Alpha%20-%20byvegeta%20-%201.png","http://img.romhackers.org/hacks/%5BNES%5D%20Metroid%20Alpha%20-%20byvegeta%20-%202.png","http://img.romhackers.org/hacks/%5BNES%5D%20Metroid%20Alpha%20-%20byvegeta%20-%203.png"]
 ---
 Este hack modifica os gráficos, os inimigos, as fases e as cores do jogo Metroid, deixando-o com um visual mais moderno.ATENÇÃO:Este hack deve ser aplicado na ROM original Metroid (E) [!].nes, com CRC32 A591CC24.

@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "21/07/2007"
 patch_type: "IPS e UPS"
 patch_progress: "???"
-patch_images: ["http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Adoventoro%20Tcheco%20-%20MCB%20Hacks%20-%201.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Adoventoro%20Tcheco%20-%20MCB%20Hacks%20-%202.png","http://www.romhackers.org/imagens/hacks/%5BNES%5D%20Adoventoro%20Tcheco%20-%20MCB%20Hacks%20-%203.png"]
+patch_images: ["http://img.romhackers.org/hacks/%5BNES%5D%20Adoventoro%20Tcheco%20-%20MCB%20Hacks%20-%201.png","http://img.romhackers.org/hacks/%5BNES%5D%20Adoventoro%20Tcheco%20-%20MCB%20Hacks%20-%202.png","http://img.romhackers.org/hacks/%5BNES%5D%20Adoventoro%20Tcheco%20-%20MCB%20Hacks%20-%203.png"]
 ---
 Este hack modifica os gráficos do personagem Keroppi do jogo Kero Kero Keroppi no Daibouken 2 - Donuts Ike ha Oosawagi!, dando lugar ao já famoso personagem Tcheco criado por Macbee. Os cenários e as cores do jogo também foram editados, assim como os textos.ATENÇÃO:Este hack deve ser aplicado na ROM original Kero Kero Keroppi no Daibouken 2 - Donuts Ike ha Oosawagi! (J) [!].nes, com CRC32 2C46F2A3.
