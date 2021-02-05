@@ -2,8 +2,8 @@
 layout: page
 ---
 
-{% assign sistema = site.sistemas | where: "title", page.title %}
-{{ sistemas.content }}
+{% assign sistema = site.sistemas | where: "title", page.title | uniq %}
+{{ sistema.content }}
 
 <ul id="{{ page.url | slugify }}" class="list-group">
   {% assign romhacks = site.romhacks | where:"system", page.title %}

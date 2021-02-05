@@ -72,8 +72,8 @@ plugins:
 
 # Ignora os arquivos do sistema
 exclude:
-- Gemfile
-- Gemfile.lock
-- README.md
-- LICENSE.txt
-- CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
