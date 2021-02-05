@@ -84,29 +84,29 @@ layout: page
               <tr>
                 <th scope="row">Tradutor(es)</th>
                 <td>
-                  <ul>
                   {% if page.patch_author.first %}
+                  <ul>
                   {% for author in page.patch_author %}
                     <li>{{ author }}</li>
                   {% endfor %}
-                  {% else %}
-                    <li>{{ page.patch_author }}</li>
-                  {% endif %}
                   </ul>
+                  {% else %}
+                    {{ page.patch_author }}
+                  {% endif %}
                 </td>
               </tr>
               <tr>
                 <th scope="row">Grupo Tradutor</th>
                 <td>
+                  {% if page.patch_group.first %}
                   <ul>
-                    {% if page.patch_group.first %}
-                    {% for group in page.patch_group %}
-                      <li>{{ group }}</li>
-                    {% endfor %}
-                    {% else %}
-                      <li>{{ page.patch_group }}</li>
-                    {% endif %}
+                  {% for group in page.patch_group %}
+                    <li>{{ group }}</li>
+                  {% endfor %}
                   </ul>
+                  {% else %}
+                    {{ page.patch_group }}
+                  {% endif %}
                 </td>
               </tr>
               <tr>

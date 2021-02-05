@@ -77,14 +77,32 @@ layout: page
           <table class="table table-sm table-striped">
             <tbody>
               <tr>
-                <th scope="row">Tradutor(es)</th>
+                <th scope="row">Romhacker(s)</th>
                 <td>
-                  {{ page.patch_author }}
+                  {% if page.patch_author.first %}
+                  <ul>
+                  {% for author in page.patch_author %}
+                    <li>{{ author }}</li>
+                  {% endfor %}
+                  </ul>
+                  {% else %}
+                    {{ page.patch_author }}
+                  {% endif %}
                 </td>
               </tr>
               <tr>
-                <th scope="row">Grupo Tradutor</th>
-                <td>{{ page.patch_group }}</td>
+                <th scope="row">Grupo Romhacker</th>
+                <td>
+                  {% if page.patch_group.first %}
+                  <ul>
+                  {% for group in page.patch_group %}
+                    <li>{{ group }}</li>
+                  {% endfor %}
+                  </ul>
+                  {% else %}
+                    {{ page.patch_group }}
+                  {% endif %}
+                </td>
               </tr>
               <tr>
                 <th scope="row">Site</th>
