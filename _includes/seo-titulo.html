@@ -9,6 +9,8 @@
     Emuladores -
     {% elsif page.layout contains "utilitarios" %}
     Utilitários -
+    {% elsif page.layout contains "autores" and page.layout != "autores-list" %}
+    Perfil de 
     {% elsif page.layout contains "list" %}
     {{ site.description }} - 
     {% else %}
