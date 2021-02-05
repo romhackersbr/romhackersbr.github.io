@@ -15,6 +15,6 @@ patch_version: "0.1 BETA"
 patch_release: "03/01/2009"
 patch_type: "UPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20Origins%20-%20Gabriel_Luan%20-%201.png","http://img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20Origins%20-%20Gabriel_Luan%20-%202.jpg","http://img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20Origins%20-%20Gabriel_Luan%20-%203.jpg"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20Origins%20-%20Gabriel_Luan%20-%201.png","//img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20Origins%20-%20Gabriel_Luan%20-%202.jpg","//img.romhackers.org/traducoes/%5BNDS%5D%20Dragon%20Ball%20Origins%20-%20Gabriel_Luan%20-%203.jpg"]
 ---
 Este é o primeiro patch público da tradução feita pelo tradutor freelancer Gabriel_Luan. Como a tradução ainda se encontra em fase beta, é possível encontrar alguns erros e partes não traduzidas. Portanto, fiquem atentos ao lançamento do próximo patch.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 2875 - Dragon Ball Origins (U).nds, com CRC32 10E7B929. O patch de tradução está usando o novíssimo formato UPS. Assim sendo, nós aconselhamos a todos que usem o aplicador Tsukuyomi UPS.

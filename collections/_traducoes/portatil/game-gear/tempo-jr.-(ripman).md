@@ -15,6 +15,6 @@ patch_version: "Beta1"
 patch_release: "09/02/2018"
 patch_type: "IPS"
 patch_progress: "Textos (história)"
-patch_images: ["http://img.romhackers.org/traducoes/%5BGG%5D%20Tempo%20Jr.%20-%20ripman%20-%201.png","http://img.romhackers.org/traducoes/%5BGG%5D%20Tempo%20Jr.%20-%20ripman%20-%202.png","http://img.romhackers.org/traducoes/%5BGG%5D%20Tempo%20Jr.%20-%20ripman%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BGG%5D%20Tempo%20Jr.%20-%20ripman%20-%201.png","//img.romhackers.org/traducoes/%5BGG%5D%20Tempo%20Jr.%20-%20ripman%20-%202.png","//img.romhackers.org/traducoes/%5BGG%5D%20Tempo%20Jr.%20-%20ripman%20-%203.png"]
 ---
 Segundo o autor da tradução, a maioria dos textos está traduzida (exceto as mensagens em forma de gráfico), mas não está acentuada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Tempo Jr. (U) [!].gg, com CRC32 DE466796.

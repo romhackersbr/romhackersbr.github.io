@@ -15,6 +15,6 @@ patch_version: "BETA"
 patch_release: "10/03/2011"
 patch_type: "IPS"
 patch_progress: "Textos - 100% / Acentos - 98% / Gráficos - 30%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%20-%20Kratos-AM%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%20-%20Kratos-AM%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%20-%20Kratos-AM%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%20-%20Kratos-AM%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%20-%20Kratos-AM%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20Donkey%20Kong%20Country%20-%20Kratos-AM%20-%203.png"]
 ---
 Uma boa tradução. Todos os textos estão traduzidos e parcialmente acentuados, e alguns gráficos foram editados. Nota-se pequenos erros ortográficos em alguns momentos, mas nada que atrapalhe o jogador ou que não possa ser corrigido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 1055 - Donkey Kong Country (U).gba, com CRC32 12F7A968.

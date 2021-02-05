@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "17 de abril de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMD%5D%20Phelios%20-%20Son%20Car%20-%201.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20Phelios%20-%20Son%20Car%20-%202.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20Phelios%20-%20Son%20Car%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Phelios%20-%20Son%20Car%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Phelios%20-%20Son%20Car%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Phelios%20-%20Son%20Car%20-%203.png"]
 ---
 Tradução regular, apesar da fonte acentuada e de todo o texto visível do jogo traduzido, tem muitas traduções literais, termos sem tradução ("draconian"), abreviações (algumas justificáveis), erros de pontuação e acentuação e problemas de adaptação com alguns nomes próprios (alterando alguns nomes em inglês, sem traduzir).ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Phelios-SonCar.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Phelios (U) [c][!].gen" (código T-14013), com CRC32 11C79320.

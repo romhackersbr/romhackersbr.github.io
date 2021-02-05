@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "09/07/2018"
 patch_type: "Arquivo traduzido"
 patch_progress: "Textos"
-patch_images: ["http://img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%201.jpg","http://img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%202.jpg","http://img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%203.jpg"]
+patch_images: ["//img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%201.jpg","//img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%202.jpg","//img.romhackers.org/traducoes/%5BGC%5D%20Hulk%20-%20PSTraduz%20e%20HNNEWGAMES%20-%203.jpg"]
 ---
 Segundo os autores da tradução, todos os textos do jogo estão traduzidos e parcialmente acentuados (a tradução não possui os caracteres acentuados "Ã" e "Õ"), assim como as mensagens em forma de gráfico.ATENÇÃO:Esta tradução deve ser aplicada em uma ISO americana (GHKE7D) do jogo Hulk para o sistema Game Cube.

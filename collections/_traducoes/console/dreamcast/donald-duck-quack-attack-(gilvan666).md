@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "undefined"
 patch_type: "ISO traduzida"
 patch_progress: "Textos"
-patch_images: ["http://img.romhackers.org/traducoes/%5BDC%5D%20Donald%20Duck%20-%20Quack%20Attack%20-%20gilvan666%20-%201.jpg","http://img.romhackers.org/traducoes/%5BDC%5D%20Donald%20Duck%20-%20Quack%20Attack%20-%20gilvan666%20-%202.jpg","http://img.romhackers.org/traducoes/%5BDC%5D%20Donald%20Duck%20-%20Quack%20Attack%20-%20gilvan666%20-%203.jpg"]
+patch_images: ["//img.romhackers.org/traducoes/%5BDC%5D%20Donald%20Duck%20-%20Quack%20Attack%20-%20gilvan666%20-%201.jpg","//img.romhackers.org/traducoes/%5BDC%5D%20Donald%20Duck%20-%20Quack%20Attack%20-%20gilvan666%20-%202.jpg","//img.romhackers.org/traducoes/%5BDC%5D%20Donald%20Duck%20-%20Quack%20Attack%20-%20gilvan666%20-%203.jpg"]
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos, mas não estão acentuados, e alguns gráficos foram editados.

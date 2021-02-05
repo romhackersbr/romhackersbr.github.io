@@ -15,6 +15,6 @@ patch_version: "1.0b"
 patch_release: "14/09/2009"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNES%5D%20Hudson's%20Adventure%20Island%20II%20-%20Pitoko%20-%201.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Hudson's%20Adventure%20Island%20II%20-%20Pitoko%20-%202.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Hudson's%20Adventure%20Island%20II%20-%20Pitoko%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Hudson's%20Adventure%20Island%20II%20-%20Pitoko%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Hudson's%20Adventure%20Island%20II%20-%20Pitoko%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Hudson's%20Adventure%20Island%20II%20-%20Pitoko%20-%203.png"]
 ---
 Uma ótima tradução do tradutor freelancer Pitoko. Todos os textos do jogo estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Hudson's Adventure Island II (U) [!].nes, com CRC32 5D8F80C7.

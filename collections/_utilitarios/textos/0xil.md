@@ -14,4 +14,4 @@ site: "Nenhum"
 
 **ATENÇÃO**:
 
-Este programa é feito em JAVA. Portanto, será preciso ter o JRE (Java Runtime Environment) instalado em seu computador para que ele funcione. O JRE pode ser obtido no site da [Sun Microsystems](https://web.archive.org/web/20100620183131/http://java.sun.com/).
+Este programa é feito em JAVA. Portanto, será preciso ter o JRE (Java Runtime Environment) instalado em seu computador para que ele funcione. O JRE pode ser obtido no site da [Sun Microsystems](//web.archive.org/web/20100620183131///java.sun.com/).

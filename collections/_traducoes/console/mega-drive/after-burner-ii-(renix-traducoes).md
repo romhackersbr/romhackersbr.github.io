@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "03/07/2009"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Renix%20-%201.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Renix%20-%202.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Renix%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Renix%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Renix%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Renix%20-%203.png"]
 ---
 Uma boa tradução. Todos os textos estão traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original After Burner II (UE) [!].bin, com CRC32 CCAFE00E.

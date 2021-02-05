@@ -15,6 +15,6 @@ patch_version: "0.9"
 patch_release: "27/12/2010"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNES%5D%20Ninja%20Crusaders%20-%20Costa%20Torres%20Tradu%C3%A7%C3%B5es%20-%201.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Ninja%20Crusaders%20-%20Costa%20Torres%20Tradu%C3%A7%C3%B5es%20-%202.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Ninja%20Crusaders%20-%20Costa%20Torres%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Ninja%20Crusaders%20-%20Costa%20Torres%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Ninja%20Crusaders%20-%20Costa%20Torres%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Ninja%20Crusaders%20-%20Costa%20Torres%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 ---
 Uma tradução razoável. Os poucos textos do jogo estão traduzidos, mas não estão acentuados. Além disso, percebe-se que o caracter & foi usado para representar o caracter ç, mas nada que incomode muito o jogador ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Ninja Crusaders (U) [!].nes, com CRC32 DC84DEB0.

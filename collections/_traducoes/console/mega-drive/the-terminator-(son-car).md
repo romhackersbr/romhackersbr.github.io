@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "30 de abril de 2005 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Son%20Car%20-%201.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Son%20Car%20-%202.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Son%20Car%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Son%20Car%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Son%20Car%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20The%20Terminator%20-%20Son%20Car%20-%203.png"]
 ---
 Tradução regular, com fonte acentuada e praticamente todo o texto do jogo traduzido, mas com muitos erros de português notáveis, erros de pontuação, abreviações nos menus e traduções literais que deixaram alguns trechos esquisitos (notavelmente, os nomes das músicas nas opções).ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Terminator-SonCar.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Terminator, The (U) [!].gen" (código T-70026), com CRC32 31A629BE.

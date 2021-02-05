@@ -10,11 +10,11 @@ game_publisher: "Sony"
 game_release_date: "31/10/2006"
 patch_author: "undefined"
 patch_group: "Monkey's Traduções"
-patch_site: "http://www.monkeystraducoes.com/"
+patch_site: "//www.monkeystraducoes.com/"
 patch_version: "???"
 patch_release: "19/08/2010"
 patch_type: "Xdelta 3"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BPSP%5D%20Killzone%20-%20Liberation%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Killzone%20-%20Liberation%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPSP%5D%20Killzone%20-%20Liberation%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.jpg"]
+patch_images: ["//img.romhackers.org/traducoes/%5BPSP%5D%20Killzone%20-%20Liberation%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%201.jpg","//img.romhackers.org/traducoes/%5BPSP%5D%20Killzone%20-%20Liberation%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%202.jpg","//img.romhackers.org/traducoes/%5BPSP%5D%20Killzone%20-%20Liberation%20-%20Monkey's%20Tradu%C3%A7%C3%B5es%20-%203.jpg"]
 ---
 Uma ótima tradução. Todos os textos do jogo estão traduzidos e acentuados. Nota-se elementos sem tradução, como os créditos do jogo, mas nada que atrapalhe o jogador.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem ISO da versão americana (UCUS-98646) do jogo Killzone - Liberation. Além disso, os autores informam que a tradução não é compatível com o patch 1.2 do jogo que habilita o capítulo 5, permite jogar online em uma rede e disponibiliza duas armas novas. Se o patch 1.2 do jogo for aplicado ao jogo traduzido, este voltará a ficar em inglês.

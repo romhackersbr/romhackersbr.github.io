@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "09/04/2018"
 patch_type: "IPS"
 patch_progress: "Textos"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNES%5D%201943%20-%20The%20Battle%20of%20Midway%20-%20Andyriddler%20-%201.png","http://img.romhackers.org/traducoes/%5BNES%5D%201943%20-%20The%20Battle%20of%20Midway%20-%20Andyriddler%20-%202.png","http://img.romhackers.org/traducoes/%5BNES%5D%201943%20-%20The%20Battle%20of%20Midway%20-%20Andyriddler%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%201943%20-%20The%20Battle%20of%20Midway%20-%20Andyriddler%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%201943%20-%20The%20Battle%20of%20Midway%20-%20Andyriddler%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%201943%20-%20The%20Battle%20of%20Midway%20-%20Andyriddler%20-%203.png"]
 ---
 Segundo o autor da tradução, praticamente todos os textos do jogo foram traduzidos e acentuados (com exceção do texto GAME OVER), e nenhuma mensagem em forma de gráfico foi editada por não haver necessidade.ATENÇÃO:Esta tradução deve ser aplicada na ROM original 1943 - The Battle of Midway (U) [!].nes, com CRC32 D131BF15.

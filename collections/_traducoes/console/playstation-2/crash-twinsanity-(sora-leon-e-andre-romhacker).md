@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "02/01/2018"
 patch_type: "xdelta3"
 patch_progress: "Textos"
-patch_images: ["http://img.romhackers.org/traducoes/%5BPS2%5D%20Crash%20Twinsanity%20-%20Sora%20Leon%20e%20Andr%C3%A9%20Romhacker%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20Crash%20Twinsanity%20-%20Sora%20Leon%20e%20Andr%C3%A9%20Romhacker%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPS2%5D%20Crash%20Twinsanity%20-%20Sora%20Leon%20e%20Andr%C3%A9%20Romhacker%20-%203.jpg"]
+patch_images: ["//img.romhackers.org/traducoes/%5BPS2%5D%20Crash%20Twinsanity%20-%20Sora%20Leon%20e%20Andr%C3%A9%20Romhacker%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Crash%20Twinsanity%20-%20Sora%20Leon%20e%20Andr%C3%A9%20Romhacker%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS2%5D%20Crash%20Twinsanity%20-%20Sora%20Leon%20e%20Andr%C3%A9%20Romhacker%20-%203.jpg"]
 ---
 Segundo os autores da tradução, todos os textos do jogo estão traduzidos e acentuados e os vídeos foram legendados.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de DVD em formato ISO da versão americana (SLUS-20909) do jogo Crash Twinsanity.

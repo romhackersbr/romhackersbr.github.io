@@ -15,6 +15,6 @@ patch_version: "1.3"
 patch_release: "04/01/2010"
 patch_type: "IPS"
 patch_progress: "Textos - 100%, Acentos - 100% e Gráficos - 95%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMS%5D%20Choplifter%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%201.png","http://img.romhackers.org/traducoes/%5BSMS%5D%20Choplifter%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%202.png","http://img.romhackers.org/traducoes/%5BSMS%5D%20Choplifter%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Choplifter%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Choplifter%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Choplifter%20-%20Renix%20Tradu%C3%A7%C3%B5es%20-%203.png"]
 ---
 Uma boa tradução. Os poucos textos do jogo estão traduzidos e parcialmente acentuados (com a exceção das palavras TOP e 1PL), e a maioria das palavras / textos em forma gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Choplifter (UE) [!].sms, com CRC32 4A21C15F e sem cabeçalho.

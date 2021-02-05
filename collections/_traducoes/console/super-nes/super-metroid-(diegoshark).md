@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "23 de maio de 2008"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Metroid%20-%201.png","http://img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Metroid%20-%20Diegoshark%20-%202.png","http://img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Metroid%20-%20Diegoshark%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Metroid%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Metroid%20-%20Diegoshark%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Super%20Metroid%20-%20Diegoshark%20-%203.png"]
 ---
 Tradução parcial, sem fonte acentuada, com apenas as partes textuais da introdução traduzidas, mas com erros de pontuação, de português e de digitação e traduções esquisitas ("lutei com os metroids sobre o planeta Zebes"), além do fato do tradutor não saber o sexo da protagonista ("SatisfeitO que estava bem").ATENÇÃO:O patch original foi feito sobre uma ROM com cabeçalho, por conta disso, foi tirado um outro patch nomeado como "Super Metroid (JU) [!] [I-BR T-Diegoshark A-2008].ips", que já serve para uma ROM considerada "good dump" (sem modificações).Este patch mencionado deve ser aplicado na ROM original "Super Metroid (JU) [!].smc", com CRC32 D63ED5F8. Para usar o patch original, é necessário por um cabeçalho de 512 bytes nessa ROM.

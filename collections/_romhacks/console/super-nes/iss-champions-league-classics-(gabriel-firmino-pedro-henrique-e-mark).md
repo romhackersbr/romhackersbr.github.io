@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "11/12/2009"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/hacks/%5BSNES%5D%20ISS%20Champions%20League%20Classics%20-%20Gabriel%20Firmino,%20Pedro%20Henrique%20e%20Mark%20-%201.png","http://img.romhackers.org/hacks/%5BSNES%5D%20ISS%20Champions%20League%20Classics%20-%20Gabriel%20Firmino,%20Pedro%20Henrique%20e%20Mark%20-%202.png","http://img.romhackers.org/hacks/%5BSNES%5D%20ISS%20Champions%20League%20Classics%20-%20Gabriel%20Firmino,%20Pedro%20Henrique%20e%20Mark%20-%203.png"]
+patch_images: ["//img.romhackers.org/hacks/%5BSNES%5D%20ISS%20Champions%20League%20Classics%20-%20Gabriel%20Firmino,%20Pedro%20Henrique%20e%20Mark%20-%201.png","//img.romhackers.org/hacks/%5BSNES%5D%20ISS%20Champions%20League%20Classics%20-%20Gabriel%20Firmino,%20Pedro%20Henrique%20e%20Mark%20-%202.png","//img.romhackers.org/hacks/%5BSNES%5D%20ISS%20Champions%20League%20Classics%20-%20Gabriel%20Firmino,%20Pedro%20Henrique%20e%20Mark%20-%203.png"]
 ---
 Este hack introduz os times clássicos da UEFA ao jogo. Dessa forma, você terá o privilégio de jogar com grandes craques, como: Maradona, Cruijff, Di Stefano, Puskas, Gullit, entre outros.Detalhe: alguns textos do jogo estão traduzidos para o português, embora sem acentos.ATENÇÃO:O patch deve ser aplicado na ROM original International Superstar Soccer (U) [!].smc, com CRC32 49627238 e sem cabeçalho.

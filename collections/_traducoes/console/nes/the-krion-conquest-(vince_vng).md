@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "22/01/2011"
 patch_type: "undefined"
 patch_progress: "96%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNES%5D%20The%20Krion%20Conquest%20-%20vince_vng%20-%201.png","http://img.romhackers.org/traducoes/%5BNES%5D%20The%20Krion%20Conquest%20-%20vince_vng%20-%202.png","http://img.romhackers.org/traducoes/%5BNES%5D%20The%20Krion%20Conquest%20-%20vince_vng%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20The%20Krion%20Conquest%20-%20vince_vng%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20The%20Krion%20Conquest%20-%20vince_vng%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20The%20Krion%20Conquest%20-%20vince_vng%20-%203.png"]
 ---
 Uma boa tradução. Todos textos, exceto os nomes das armas, estão traduzidos e acentuados, e os gráficos, exceto o da tela de título, foram editados.OBS: Esta é a primeira tradução lançada pelo tradutor freelancer vince_vng.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Krion Conquest, The (U) [!].nes, com CRC32 29B42609.

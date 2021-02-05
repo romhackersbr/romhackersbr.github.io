@@ -10,11 +10,11 @@ game_publisher: "Sega"
 game_release_date: "1993"
 patch_author: "EmuBoarding"
 patch_group: "Central Brasileira de Tradução (extinto)"
-patch_site: "http://www.emucamp.com/CBT/ (fora do ar)"
+patch_site: "//www.emucamp.com/CBT/ (fora do ar)"
 patch_version: "1.0"
 patch_release: "18/08/1999"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMS%5D%20Renegade%20-%20CBT%20-%201.png","http://img.romhackers.org/traducoes/%5BSMS%5D%20Renegade%20-%20CBT%20-%202.png","http://img.romhackers.org/traducoes/%5BSMS%5D%20Renegade%20-%20CBT%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Renegade%20-%20CBT%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Renegade%20-%20CBT%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Renegade%20-%20CBT%20-%203.png"]
 ---
 Uma boa tradução do EmuBoarding. Os textos estão traduzidos e acentuados, e alguns gráficos foram editados. Em raros momentos, nota-se algumas abreviações, mas nada que atrapalhe a diversão do jogo.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Renegade (E) [!].sms, com CRC32 3BE7F641 e sem cabeçalho.

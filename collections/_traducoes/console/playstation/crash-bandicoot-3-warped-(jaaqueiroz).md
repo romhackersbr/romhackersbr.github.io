@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "27/03/2006 (provavelmente)"
 patch_type: "PPF 3.0"
 patch_progress: "75%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Jaaqueiroz%20-%201.jpg","http://img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Jaaqueiroz%20-%202.jpg","http://img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Jaaqueiroz%20-%203.jpg"]
+patch_images: ["//img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Jaaqueiroz%20-%201.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Jaaqueiroz%20-%202.jpg","//img.romhackers.org/traducoes/%5BPS1%5D%20Crash%20Bandicoot%203%20-%20Warped%20-%20Jaaqueiroz%20-%203.jpg"]
 ---
 Uma boa tradução de Jaaqueiroz. Praticamente todos os textos estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD da versão americana (SCUS-94244) do jogo Crash Bandicoot 3 - Warped.

@@ -10,7 +10,7 @@ format: "FLV"
 language: "Português"
 release_date: "01/02/2009"
 version: "1.0"
-site: "http://emulandogba.sites.uol.com.br/index2.html"
+site: "//emulandogba.sites.uol.com.br/index2.html"
 ---
 Esta é uma ótima vídeo-aula que ensina a extrair, editar e inserir efeitos sonoros em jogos do sistema Super Nintendo.
 

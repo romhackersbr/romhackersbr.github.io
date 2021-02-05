@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "23/01/2011"
 patch_type: "Aplicador EXE e IPS"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNES%5D%20Trojan%20-%20vince_vng%20-%201.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Trojan%20-%20vince_vng%20-%202.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Trojan%20-%20vince_vng%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Trojan%20-%20vince_vng%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Trojan%20-%20vince_vng%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Trojan%20-%20vince_vng%20-%203.png"]
 ---
 Uma boa tradução. Os poucos textos do jogo foram traduzidos, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Trojan (U) [!].nes, com CRC32 CF378FB2.

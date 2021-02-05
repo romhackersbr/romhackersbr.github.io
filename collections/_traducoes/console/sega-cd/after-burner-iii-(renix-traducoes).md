@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "03/07/2009"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSCD%5D%20After%20Burner%20III%20-%20Renix%20-%201.png","http://img.romhackers.org/traducoes/%5BSCD%5D%20After%20Burner%20III%20-%20Renix%20-%202.png","http://img.romhackers.org/traducoes/%5BSCD%5D%20After%20Burner%20III%20-%20Renix%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSCD%5D%20After%20Burner%20III%20-%20Renix%20-%201.png","//img.romhackers.org/traducoes/%5BSCD%5D%20After%20Burner%20III%20-%20Renix%20-%202.png","//img.romhackers.org/traducoes/%5BSCD%5D%20After%20Burner%20III%20-%20Renix%20-%203.png"]
 ---
 Uma boa tradução. Os textos estão traduzidos, mas não estão acentuados, e alguns gráficos foram editados. Devido à provável falta de edição de ponteiros, algumas palavras estão abreviadas, e outras estão sem tradução, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.OBS: Esta é, provavelmente, a primeira tradução brasileira feita (por meio de romhacking) para um jogo do sistema Sega CD.ATENÇÃO:Esta tradução deve ser aplicada em uma imagem de CD em formato ISO+MP3 da versão americana do jogo After Burner III.

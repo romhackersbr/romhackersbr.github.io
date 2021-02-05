@@ -15,6 +15,6 @@ patch_version: "0.8"
 patch_release: "10/03/2011"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%201.png","http://img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%202.png","http://img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Tom%20and%20Jerry%20-%20The%20Movie%20-%20Kratos-AM%20-%203.png"]
 ---
 Uma tradução razoável. Os poucos textos do jogo estão traduzidos e parcialmente acentuados, e alguns gráficos foram editados. Nota-se pequenos erros de pontuação e alguns elementos abreviados devido à falta de edição de ponteiros, mas nada que atrapalhe o jogador ou que não possa ser resolvido em futuras versões da tradução.ATENÇÃO:Esta tradução deve ser aplicada na ROM orignal Tom and Jerry - The Movie (E).sms, com CRC32 BF7B7285.

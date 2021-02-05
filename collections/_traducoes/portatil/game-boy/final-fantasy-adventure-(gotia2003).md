@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "11/10/2015"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BGB%5D%20Final%20Fantasy%20Adventure%20-%20gotia2003%20-%201.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Final%20Fantasy%20Adventure%20-%20gotia2003%20-%202.png","http://img.romhackers.org/traducoes/%5BGB%5D%20Final%20Fantasy%20Adventure%20-%20gotia2003%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BGB%5D%20Final%20Fantasy%20Adventure%20-%20gotia2003%20-%201.png","//img.romhackers.org/traducoes/%5BGB%5D%20Final%20Fantasy%20Adventure%20-%20gotia2003%20-%202.png","//img.romhackers.org/traducoes/%5BGB%5D%20Final%20Fantasy%20Adventure%20-%20gotia2003%20-%203.png"]
 ---
 Os textos do jogo estão traduzidos e acentuados. Segundo o autor da tradução, a tela de título foi substituída pela original da versão japonesa, e vários termos censurados na versão americana do jogo foram restaurados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Final Fantasy Adventure (U) [!].gb, com CRC32 18C78B3A.

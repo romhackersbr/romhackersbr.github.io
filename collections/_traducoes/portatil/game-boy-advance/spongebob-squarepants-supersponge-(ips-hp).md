@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "30 de setembro de 2003 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote ZIP"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BGBA%5D%20SpongeBob%20SquarePants%20-%20SuperSponge%20-%20IPS-HP%20-%201.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20SpongeBob%20SquarePants%20-%20SuperSponge%20-%20IPS-HP%20-%202.png","http://img.romhackers.org/traducoes/%5BGBA%5D%20SpongeBob%20SquarePants%20-%20SuperSponge%20-%20IPS-HP%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BGBA%5D%20SpongeBob%20SquarePants%20-%20SuperSponge%20-%20IPS-HP%20-%201.png","//img.romhackers.org/traducoes/%5BGBA%5D%20SpongeBob%20SquarePants%20-%20SuperSponge%20-%20IPS-HP%20-%202.png","//img.romhackers.org/traducoes/%5BGBA%5D%20SpongeBob%20SquarePants%20-%20SuperSponge%20-%20IPS-HP%20-%203.png"]
 ---
 Tradução sem fonte acentuada, com diálogos, locais e menus traduzidos, algumas abreviações e poucos erros de digitação, de concordância e de pontuação.ATENÇÃO:Esta tradução pode ser aplicada na ROM "SpongeBob SquarePants - SuperSponge (U).gba", com CRC32 98AD67E6, ou na ROM "SpongeBob SquarePants - SuperSponge (U) [f1] (Password).gba", com CRC32 90748710 (ambas com código ASPE).

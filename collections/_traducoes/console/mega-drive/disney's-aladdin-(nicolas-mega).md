@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "5 de março de 2007 (provavelmente)"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Nicolas%20Mega%20-%201.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Nicolas%20Mega%20-%202.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Nicolas%20Mega%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Nicolas%20Mega%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Nicolas%20Mega%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20Disney's%20Aladdin%20-%20Nicolas%20Mega%20-%203.png"]
 ---
 Tradução boa, com fonte devidamente acentuada, menus, nomes das fases e diálogos traduzidos, estes com alguns erros de pontuação e português.ATENÇÃO:O IPS original não conserta a soma de verificação do cabeçalho, podendo travar o jogo se o emulador não consertar automaticamente. Um IPS alternativo está disponível no pacote com o nome "Aladdin-NicolasMega-1.0.ips", já com tudo consertado.Esta tradução deve ser aplicada na ROM original "Disney's Aladdin (U) [!].gen" (código MK-1058), com CRC32 ED427EA9.

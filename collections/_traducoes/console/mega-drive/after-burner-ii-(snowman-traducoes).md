@@ -10,11 +10,11 @@ game_publisher: "SEGA"
 game_release_date: "23 de março de 1990"
 patch_author: "Bruno_X"
 patch_group: "Snowman Traduções (extinto)"
-patch_site: "http://snowmanbr.hypermart.net/ (fora do ar)"
+patch_site: "//snowmanbr.hypermart.net/ (fora do ar)"
 patch_version: "???"
 patch_release: "2000"
 patch_type: "Patch IPS dentro de pacote RAR"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%201.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%202.png","http://img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%201.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%202.png","//img.romhackers.org/traducoes/%5BSMD%5D%20After%20Burner%20II%20-%20Snowman%20Traducoes%20-%203.png"]
 ---
 Tradução simples porém regular, com abreviações, erro na tela de selecionar comandos (provavelmente por causa de ponteiros) e traduções esquisitas dos títulos das músicas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original "After Burner II (UE) [!].gen" (código MK-1104), com CRC32 CCAFE00E.

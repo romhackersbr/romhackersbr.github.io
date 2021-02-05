@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "31/10/2017"
 patch_type: "IPS"
 patch_progress: "Textos"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSNES%5D%20Dragon's%20Lair%20-%20ripman%20-%201.png","http://img.romhackers.org/traducoes/%5BSNES%5D%20Dragon's%20Lair%20-%20ripman%20-%202.png","http://img.romhackers.org/traducoes/%5BSNES%5D%20Dragon's%20Lair%20-%20ripman%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSNES%5D%20Dragon's%20Lair%20-%20ripman%20-%201.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Dragon's%20Lair%20-%20ripman%20-%202.png","//img.romhackers.org/traducoes/%5BSNES%5D%20Dragon's%20Lair%20-%20ripman%20-%203.png"]
 ---
 Segundo o autor da tradução, todos os textos do jogo estão traduzidos, mas não estão acentuados, e nenhuma mensagem em forma de gráfico foi editada.ATENÇÃO:Esta tradução deve ser aplicada na ROM Dragon's Lair (E).smc, com CRC32 304FDB92 e sem cabeçalho.

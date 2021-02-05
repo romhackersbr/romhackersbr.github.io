@@ -10,11 +10,11 @@ game_publisher: "Sega"
 game_release_date: "??/??/1984"
 patch_author: "Patryck Padilha de Oliveira"
 patch_group: "Nenhum"
-patch_site: "http://ab-gamesinc-br.blogspot.com.br/"
+patch_site: "//ab-gamesinc-br.blogspot.com.br/"
 patch_version: "???"
 patch_release: "18/10/2016"
 patch_type: "IPS"
 patch_progress: "Textos gerais"
-patch_images: ["http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Girl's%20Garden%20-%20Patryck%20-%201.png","http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Girl's%20Garden%20-%20Patryck%20-%202.png","http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Girl's%20Garden%20-%20Patryck%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BSG-1000%5D%20Girl's%20Garden%20-%20Patryck%20-%201.png","//img.romhackers.org/traducoes/%5BSG-1000%5D%20Girl's%20Garden%20-%20Patryck%20-%202.png","//img.romhackers.org/traducoes/%5BSG-1000%5D%20Girl's%20Garden%20-%20Patryck%20-%203.png"]
 ---
 Todos os textos estão traduzidos e acentuados, e todos os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Girl's Garden (SG-1000).sg, com CRC32 1898F274.

@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "27/05/2011"
 patch_type: "IPS"
 patch_progress: "Textos - 98% / Acentos - 2%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20Vs.%20Capcom%20-%20Card%20Fighters%20Clash%202%20-%20Expand%20Edition%20-%20Maggot%20-%201.png","http://img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20Vs.%20Capcom%20-%20Card%20Fighters%20Clash%202%20-%20Expand%20Edition%20-%20Maggot%20-%202.png","http://img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20Vs.%20Capcom%20-%20Card%20Fighters%20Clash%202%20-%20Expand%20Edition%20-%20Maggot%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20Vs.%20Capcom%20-%20Card%20Fighters%20Clash%202%20-%20Expand%20Edition%20-%20Maggot%20-%201.png","//img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20Vs.%20Capcom%20-%20Card%20Fighters%20Clash%202%20-%20Expand%20Edition%20-%20Maggot%20-%202.png","//img.romhackers.org/traducoes/%5BNGP%5D%20SNK%20Vs.%20Capcom%20-%20Card%20Fighters%20Clash%202%20-%20Expand%20Edition%20-%20Maggot%20-%203.png"]
 ---
 Uma boa tradução. Praticamente todos os textos do jogo estão traduzidos, mas não estão acentuados, e vários gráficos foram editados.OBS: Esta tradução tomou como base a tradução para o idioma inglês feita pelo grupo The CFC2 Translation Team.ATENÇÃO:Esta tradução deve ser aplicada na ROM original SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [!].ngc, com CRC32 CCBCFDA7.

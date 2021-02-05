@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "18/08/2009"
 patch_type: "IPS"
 patch_progress: "100%"
-patch_images: ["http://img.romhackers.org/traducoes/%5BNES%5D%20Bionic%20Commando%2099%20by%20Chris%20Covell%20-%20Mr.Magoo%20-%201.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Bionic%20Commando%2099%20by%20Chris%20Covell%20-%20Mr.Magoo%20-%202.png","http://img.romhackers.org/traducoes/%5BNES%5D%20Bionic%20Commando%2099%20by%20Chris%20Covell%20-%20Mr.Magoo%20-%203.png"]
+patch_images: ["//img.romhackers.org/traducoes/%5BNES%5D%20Bionic%20Commando%2099%20by%20Chris%20Covell%20-%20Mr.Magoo%20-%201.png","//img.romhackers.org/traducoes/%5BNES%5D%20Bionic%20Commando%2099%20by%20Chris%20Covell%20-%20Mr.Magoo%20-%202.png","//img.romhackers.org/traducoes/%5BNES%5D%20Bionic%20Commando%2099%20by%20Chris%20Covell%20-%20Mr.Magoo%20-%203.png"]
 ---
 Esta é uma ótima tradução do tradutor freelancer Mr.Magoo. Todos os textos estão devidamente traduzidos e acentuados, e os gráficos também foram editados.OBS: Esta versão da tradução traz as modificações feitas por Chris Covell, que eliminam as censuras antinazismo e deixam o jogo mais parecido com a versão japonesa.ATENÇÃO:Apesar desta tradução conter as modificações do hack Bionic Commando 99 by Chris Covell, esta tradução deve ser aplicada na ROM original Bionic Commando (U) [!].nes, com CRC32 83BE000C.

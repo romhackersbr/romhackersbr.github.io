@@ -8,9 +8,9 @@ comments: true
 
 Olá à todos!!! Depois de um longo tempo de dedicação, finalmente disponibilizo a minha nova tradução: Biohazard Outbreak. Ahh, porque essa tradução de novo, se já existe uma aqui? na versão européia é claro... Vai a explicação: MODO ONLINE.
 
-![](https://web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/traducoes/[PS2]%20Biohazard%20Outbreak%20-%20PoBRe%20-%201.png)
+![](//web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/traducoes/[PS2]%20Biohazard%20Outbreak%20-%20PoBRe%20-%201.png)
 
-Depois de um longo tempo, os fãs voltaram a reativar os servidores online, através de uma engenharia reversa, mas somente funciona na versão japonesa. Segue o link para mais informações: [http://obsrv.org/](https://web.archive.org/web/20200928103531/http://obsrv.org/)
+Depois de um longo tempo, os fãs voltaram a reativar os servidores online, através de uma engenharia reversa, mas somente funciona na versão japonesa. Segue o link para mais informações: [http://obsrv.org/](//web.archive.org/web/20200928103531/http://obsrv.org/)
 
 Então precisei "refazer" toda a tradução da versão européia para ser aplicada na japonesa, porém com muitos ajustes nos textos, gráficos editados, novas tabelas (o jogo utiliza o Shift-JIS) e a novidade: tradução dos AD-LIBS, que é fundamental para dar dicas aos novatos.
 
@@ -20,13 +20,13 @@ Agradeço também pelo apoio do gamer_boy, que colaborou com partes da traduçã
 
 Abaixo algumas imagens do jogo traduzido.
 
-![](https://web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/traducoes/[PS2]%20Biohazard%20Outbreak%20-%20PoBRe%20-%205.png)
+![](//web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/traducoes/[PS2]%20Biohazard%20Outbreak%20-%20PoBRe%20-%205.png)
 
-![](https://web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/traducoes/[PS2]%20Biohazard%20Outbreak%20-%20PoBRe%20-%206.png)
+![](//web.archive.org/web/20200928103531im_/http://www.romhackers.org/imagens/traducoes/[PS2]%20Biohazard%20Outbreak%20-%20PoBRe%20-%206.png)
 
 Aproveitem e baixem a tradução. Estou à disposição, para críticas e sugestões de melhoria da tradução. Até a próxima...
 
-[Biohazard Outbreak - Online mode - download do patch](https://web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1418)
+[Biohazard Outbreak - Online mode - download do patch](//web.archive.org/web/20200928103531/http://romhackers.org/modules/PDdownloads/singlefile.php?cid=26&lid=1418)
 
 Nova versão 0.93 beta, corrigido bug que impedia de continuar no jogo.\
-![](https://web.archive.org/web/20200928103531im_/http://romhackers.org/uploads/smil47047241216ea.gif)
+![](//web.archive.org/web/20200928103531im_/http://romhackers.org/uploads/smil47047241216ea.gif)

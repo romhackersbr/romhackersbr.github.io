@@ -10,6 +10,6 @@ format: "HTML"
 language: "Português"
 release_date: "02/04/2003"
 version: "1.0"
-site: "http://madeinbrasil.org/"
+site: "//madeinbrasil.org/"
 ---
 Tutorial ilustrado que ensina a gravar um CD de Playstation 2 contendo o emulador SNES-Station e ROMs de Super Nintendo.

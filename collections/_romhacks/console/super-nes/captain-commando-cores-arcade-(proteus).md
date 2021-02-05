@@ -15,6 +15,6 @@ patch_version: "???"
 patch_release: "16/03/2017 (atualizado em 23/03/2017)"
 patch_type: "IPS"
 patch_progress: "???"
-patch_images: ["http://img.romhackers.org/hacks/Captain%20Commando%20Cores%20Arcade%20-%20Proteus%20-%201.png","http://img.romhackers.org/hacks/Captain%20Commando%20Cores%20Arcade%20-%20Proteus%20-%202.png","http://img.romhackers.org/hacks/Captain%20Commando%20Cores%20Arcade%20-%20Proteus%20-%203.png"]
+patch_images: ["//img.romhackers.org/hacks/Captain%20Commando%20Cores%20Arcade%20-%20Proteus%20-%201.png","//img.romhackers.org/hacks/Captain%20Commando%20Cores%20Arcade%20-%20Proteus%20-%202.png","//img.romhackers.org/hacks/Captain%20Commando%20Cores%20Arcade%20-%20Proteus%20-%203.png"]
 ---
 Este hack edita as paletas de cores do jogo para que fiquem mais fiéis às da versão Arcade.ATENÇÃO:Este hack deve ser aplicado na ROM original Captain Commando (U).smc, com CRC32 81DB73C7 e sem cabeçalho.
