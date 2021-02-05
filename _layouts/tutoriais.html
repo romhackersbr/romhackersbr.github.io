@@ -26,7 +26,13 @@ layout: page
               </tr>
               <tr>
                 <th scope="row">Site</th>
-                <td>{{ page.site}}</td>
+                <td>
+                  {% if page.site == "" %}
+                  Nenhum
+                  {% else %}
+                  <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>
+                  {% endif %}
+                </td>
               </tr>
               <tr>
                 <th scope="row">Versão</th>
