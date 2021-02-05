@@ -25,10 +25,12 @@ layout: compress
     {% if page.layout == "traducoes" or page.layout == "romhacks" or page.layout == "emuladores" %}
     {{ page.system }}
     {% endif %}
+    {% if page.url contains "tutoriais" %}
     {% if page.url contains "nacionais" %}
     Nacionais - 
     {% elsif page.url contains "internacionais" %}
     Internacionais - 
+    {% endif %}
     {% endif %}
     {% if page.layout == "tutoriais" %}
     {{ page.category }}
@@ -63,10 +65,12 @@ layout: compress
     {% if page.layout == 'traducoes' or page.layout == 'romhacks' or page.layout == 'emuladores' %}
     {{ page.system }}
     {% endif %}
+    {% if page.url contains 'tutoriais' %}
     {% if page.url contains 'nacionais' %}
     Nacionais - 
     {% elsif page.url contains 'internacionais' %}
     Internacionais - 
+    {% endif %}
     {% endif %}
     {% if page.layout == 'tutoriais' %}
     {{ page.category }}
