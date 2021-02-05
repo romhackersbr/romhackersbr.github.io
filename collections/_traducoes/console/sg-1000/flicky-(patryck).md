@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "21/10/2016"
 patch_type: "IPS"
 patch_progress: "Textos"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%201.png","http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%202.png","http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Flicky%20-%20Patryck%20-%203.png"]
 ---
 Segundo o autor da tradução, todos os textos foram traduzidos e acentuados, e os gráficos foram editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Flicky (SG-1000).sg, com CRC32 BD24D27B.

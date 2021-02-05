@@ -15,6 +15,6 @@ patch_version: "1.0"
 patch_release: "04/02/2016"
 patch_type: "1.0"
 patch_progress: "Textos"
-patch_images: ["http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Zippy%20Race%20-%20Patryck%20-%201.png","http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Zippy%20Race%20-%20Patryck%20-%202.png","http://www.romhackers.org/imagens/traducoes/%5BSG-1000%5D%20Zippy%20Race%20-%20Patryck%20-%203.png"]
+patch_images: ["http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Zippy%20Race%20-%20Patryck%20-%201.png","http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Zippy%20Race%20-%20Patryck%20-%202.png","http://img.romhackers.org/traducoes/%5BSG-1000%5D%20Zippy%20Race%20-%20Patryck%20-%203.png"]
 ---
 Segundo o autor da tradução, a maioria dos textos está traduzida e acentuada, e os gráficos estão editados.ATENÇÃO:Esta tradução deve ser aplicada na ROM Zippy Race (SG-1000) [!].sg, com CRC32 BC5D20DF.
