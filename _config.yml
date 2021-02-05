@@ -3,8 +3,8 @@ title: PO.B.R.E
 email: your-email@example.com
 description: >- # Colocar a descrição nas linhas abaixo
   Portal Brasileiro de Romhacking e Emulação
-baseurl: "https://romhackersbr.github.io"
-url: "https://romhackersbr.github.io"
+baseurl: "https://romhackers.org"
+url: "https://romhackersbr.org"
 #baseurl: ""
 #url: ""
 
