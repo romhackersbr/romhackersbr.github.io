@@ -2,182 +2,227 @@
 layout: page
 ---
 <div class="card mb-10">
-  <div class="card-header text-center">
-    <small>Também conhecido como: {{ page.aka | join: ',' }}</small>
-  </div>
-  <div class="card-body">
-    <div class="container">
-      <div class="row">
-        <!-- Informações sobre o Autor -->
-        <div class="col-xs-12 col-md-12 pt-5">
-          <h5 class="badge badge-secondary text-light">Informações:</h5>
-          <table class="table table-sm table-striped">
-            <tbody>
-              {% if page.real_name != '' %}
-              <tr>
-                <th scope="row">Nome Real</th>
-                <td>
-                    {{ page.real_name }}                    
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.dob != '' %}
-              <tr>
-                <th scope="row">Data de Nascimento</th>
-                <td>
-                    {{ page.dob }}                    
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.site != "" %}
-              <tr>
-                <th scope="row">Site</th>
-                <td>
-                    <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>                 
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.email != "" %}
-              <tr>
-                <th scope="row">Email</th>
-                <td>
-                    <a href="mailto://{{ page.email }}" class="break-all">{{ page.email }}</a>                 
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.facebook != "" %}
-              <tr>
-                <th scope="row">Facebook</th>
-                <td>
-                    <a href="//fb.com/{ page.facebook }}" class="break-all">fb.com/{{ page.facebook }}</a>                 
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.twitter != "" %}
-              <tr>
-                <th scope="row">Twitter</th>
-                <td>
-                    <a href="//twitter.com/{{ page.twitter }}" class="break-all">@{{ page.twitter }}</a>                 
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.github != "" %}
-              <tr>
-                <th scope="row">Github</th>
-                <td>
-                    <a href="//github.com/{{ page.github }}" class="break-all">{{ page.github }}</a>                 
-                </td>
-              </tr>
-              {% endif %}
-              {% if page.furt != "" %}
-              <tr>
-                <th scope="row">Furt</th>
-                <td>
-                    <a href="//www.romhacking.net.br/index.php?action=profile;u={{ page.furt }}" class="break-all">{{ page.title }}</a>                 
-                </td>
-              </tr>
-              {% endif %} 
-              {% if page.discord != "" %}
-              <tr>
-                <th scope="row">Discord</th>
-                <td>
-                    {{ page.discord }}                 
-                </td>
-              </tr>
-              {% endif %}
-              <tr>
-                <th scope="row">Grupo(s)</th>
-                <td>
-                    {% if page.group.first %}
-                    <ul>
-                        {% for grupo in page.group %}
-                        <li>{{ grupo }}</li>
-                        {% endfor %}
-                    </ul>
-                    {% else %}
-                        {% if page.group != '' %}
-                            {{ page.group }}
-                        {% else %}
-                            Nenhum
-                        {% endif %}
-                    {% endif %}
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">Idiomas</th>
-                <td>
-                    {% if page.languages.first %}
-                    <ul>
-                        {% for idioma in page.languages %}
-                        <li>{{ idioma }}</li>
-                        {% endfor %}
-                    </ul>
-                    {% else %}
-                        {% if page.languages != '' %}
-                            {{ page.languages }}
-                        {% else %}
-                            Nenhum
-                        {% endif %}
-                    {% endif %}
-                </td>
-              </tr>
-              <tr>
-                <th scope="row">Funções</th>
-                <td>
-                    {% if page.category.first %}
-                    <ul>
-                        {% for funcao in page.category %}
-                        <li>{{ funcao }}</li>
-                        {% endfor %}
-                    </ul>
-                    {% else %}
-                        {% if page.category != '' %}
-                            {{ page.category }}
-                        {% else %}
-                            Nenhum
-                        {% endif %}
-                    {% endif %}
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-
-      </div>
-      <!-- Separador da Biografia do Autor -->
-      <div class="row">
-        <div class="col-12">
-          <hr />
-        </div>
-      </div>
-      <!-- Biografia do Autor -->
-      <div class="row">
-        <div class="col-12">
-          {{ content }}
-        </div>
-      </div>
-
-      <!-- Separador de Trabalhos do Autor -->
-      <div class="row">
-        <div class="col-12">
-          <hr />
-        </div>
-      </div>
-      <!-- Trabalhos do Autor -->
-      <div class="row">
-        <div class="col-xs-12 col-md-12">
-            {% assign traducoes = site.traducoes | where: "patch_author", page.title %}
-            {% if traducoes.first %}
-            <h5 class="badge badge-secondary text-light">Traduções:</h5>
-            <ul>
-                {% for traducao in traducoes %}
-                <li>{{ traducao.title }}</li>
-                {% endfor %}
-            </ul>
-            {% endif %}
-        </div>
-      </div>
-
+    <div class="card-header text-center">
+        <small>Também conhecido como: {{ page.aka | join: ',' }}</small>
     </div>
-  </div>
+    <div class="card-body">
+        <div class="container">
+            <div class="row">
+                <!-- Informações sobre o Autor -->
+                <div class="col-xs-12 col-md-12 pt-5">
+                    <h5 class="badge badge-secondary text-light">Informações:</h5>
+                    <table class="table table-sm table-striped">
+                        <tbody>
+                            {% if page.real_name != '' %}
+                            <tr>
+                                <th scope="row">Nome Real</th>
+                                <td>
+                                    {{ page.real_name }}
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.dob != '' %}
+                            <tr>
+                                <th scope="row">Data de Nascimento</th>
+                                <td>
+                                    {{ page.dob }}
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.site != "" %}
+                            <tr>
+                                <th scope="row">Site</th>
+                                <td>
+                                    <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.email != "" %}
+                            <tr>
+                                <th scope="row">Email</th>
+                                <td>
+                                    <a href="mailto://{{ page.email }}" class="break-all">{{ page.email }}</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.facebook != "" %}
+                            <tr>
+                                <th scope="row">Facebook</th>
+                                <td>
+                                    <a href="//fb.com/{ page.facebook }}"
+                                        class="break-all">fb.com/{{ page.facebook }}</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.twitter != "" %}
+                            <tr>
+                                <th scope="row">Twitter</th>
+                                <td>
+                                    <a href="//twitter.com/{{ page.twitter }}" class="break-all">@{{ page.twitter }}</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.github != "" %}
+                            <tr>
+                                <th scope="row">Github</th>
+                                <td>
+                                    <a href="//github.com/{{ page.github }}" class="break-all">{{ page.github }}</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.furt != "" %}
+                            <tr>
+                                <th scope="row">Furt</th>
+                                <td>
+                                    <a href="//www.romhacking.net.br/index.php?action=profile;u={{ page.furt }}"
+                                        class="break-all">{{ page.title }}</a>
+                                </td>
+                            </tr>
+                            {% endif %}
+                            {% if page.discord != "" %}
+                            <tr>
+                                <th scope="row">Discord</th>
+                                <td>
+                                    {{ page.discord }}
+                                </td>
+                            </tr>
+                            {% endif %}
+                            <tr>
+                                <th scope="row">Grupo(s)</th>
+                                <td>
+                                    {% if page.group.first %}
+                                    <ul>
+                                        {% for grupo in page.group %}
+                                        <li>{{ grupo }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                    {% else %}
+                                    {% if page.group != '' %}
+                                    {{ page.group }}
+                                    {% else %}
+                                    Nenhum
+                                    {% endif %}
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Idiomas</th>
+                                <td>
+                                    {% if page.languages.first %}
+                                    <ul>
+                                        {% for idioma in page.languages %}
+                                        <li>{{ idioma }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                    {% else %}
+                                    {% if page.languages != '' %}
+                                    {{ page.languages }}
+                                    {% else %}
+                                    Nenhum
+                                    {% endif %}
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Funções</th>
+                                <td>
+                                    {% if page.category.first %}
+                                    <ul>
+                                        {% for funcao in page.category %}
+                                        <li>{{ funcao }}</li>
+                                        {% endfor %}
+                                    </ul>
+                                    {% else %}
+                                    {% if page.category != '' %}
+                                    {{ page.category }}
+                                    {% else %}
+                                    Nenhum
+                                    {% endif %}
+                                    {% endif %}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+            <!-- Separador da Biografia do Autor -->
+            <div class="row">
+                <div class="col-12">
+                    <hr />
+                </div>
+            </div>
+            <!-- Biografia do Autor -->
+            <div class="row">
+                <div class="col-12">
+                    {{ content }}
+                </div>
+            </div>
+
+            <!-- Separador de Trabalhos do Autor -->
+            <div class="row">
+                <div class="col-12">
+                    <hr />
+                </div>
+            </div>
+            <!-- Trabalhos do Autor -->
+            <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    {% assign traducoes = site.traducoes | where: "patch_author", page.title %}
+                    {% if traducoes.first %}
+                    <h5 class="badge badge-secondary text-light">Traduções:</h5>
+                    <ul>
+                        {% for traducao in traducoes %}
+                        <li><a href="{{ traducao.url | prepend: site.baseurl }}"
+                                alt="{{ traducao.title }}">{{ traducao.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    {% assign romhacks = site.romhacks | where: "patch_author", page.title %}
+                    {% if romhacks.first %}
+                    <h5 class="badge badge-secondary text-light">Romhacks:</h5>
+                    <ul>
+                        {% for romhack in romhacks %}
+                        <li><a href="{{ romhack.url | prepend: site.baseurl }}"
+                                alt="{{ romhack.title }}">{{ romhack.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    {% assign tutoriais = site.tutoriais | where: "author", page.title %}
+                    {% if tutoriais.first %}
+                    <h5 class="badge badge-secondary text-light">Tutoriais:</h5>
+                    <ul>
+                        {% for tutorial in tutoriais %}
+                        <li><a href="{{ tutorial.url | prepend: site.baseurl }}"
+                                alt="{{ tutorial.title }}">{{ tutorial.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-md-12">
+                    {% assign utilitarios = site.utilitarios | where: "author", page.title %}
+                    {% if utilitarios.first %}
+                    <h5 class="badge badge-secondary text-light">Utilitários:</h5>
+                    <ul>
+                        {% for utilitario in utilitarios %}
+                        <li><a href="{{ utilitario.url | prepend: site.baseurl }}"
+                                alt="{{ utilitario.title }}">{{ utilitario.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </div>
+
+        </div>
+    </div>
 </div>
