@@ -11,7 +11,7 @@ layout: page
   {% if level == 2 %}
   <li id="{{ idioma.url | slugify }}" class="list-group-item">
     <a href="{{ idioma.url | prepend: site.baseurl }}">{{ idioma.title }}</a>
-    {% assign contador = site.tutoriais | where_exp:"item", "item.path contains page.dir" | uniq | size %}
+    {% assign contador = site.tutoriais | where_exp:"item", "item.path contains idioma.title" | uniq | size %}
     <span class="badge badge-success">{{ contador }}</span>
   </li>
   {% endif %}

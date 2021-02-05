@@ -9,7 +9,7 @@ layout: page
   {% if level == 4 %}
   <li id="{{ categoria.url | slugify }}" class="list-group-item">
     <a href="{{ categoria.url | prepend: site.baseurl }}">{{ categoria.title }}</a>
-    {% assign contador = site.tutoriais | where_exp:"item", "item.url contains page.permalink and categoria.title" | size %}
+    {% assign contador = site.tutoriais | where_exp:"item", "item.url contains page.permalink and item.url contains categoria.title" | size %}
     <span class="badge badge-success">{{ contador }}</span>
   </li>
   {% endif %}
