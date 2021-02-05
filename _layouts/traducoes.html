@@ -90,7 +90,7 @@ layout: page
                     {% assign autor = site.autores | where: "title", author %}
                     <li>
                       {% if autor.first %}
-                      <a href="{{ autor.url }}" alt="autor.title">{{ autor.title }}</a>
+                      <a href="{{ autor.first.url }}" alt="autor.first.title">{{ autor.first.title }}</a>
                       {% else %}
                       {{ author }}
                       {% endif %}
@@ -100,7 +100,7 @@ layout: page
                   {% else %}
                     {% assign autor = site.autores | where: "title", page.patch_author %}
                     {% if autor.first %}
-                    <a href="{{ autor.url }}" alt="autor.title">{{ autor.title }}</a>
+                    <a href="{{ autor.first.url }}" alt="autor.first.title">{{ autor.first.title }}</a>
                     {% else %}
                     {{ page.patch_author }}
                     {% endif %}
