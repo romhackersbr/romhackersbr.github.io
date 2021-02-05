@@ -65,6 +65,11 @@ defaults:
       type: "sistemas"
     values:
       layout: "sistemas"
+  - scope:
+      type: "autores"
+    values:
+      layout: "autores"
+
 
 # Configurações de Build
 markdown: kramdown

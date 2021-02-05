@@ -1,0 +1,146 @@
+---
+layout: page
+---
+---
+layout: page
+---
+<div class="card mb-10">
+  <div class="card-header text-center">
+    <!-- Nome do Autor -->
+    <h4>{{ page.title }}</h4>
+    <small>Também conhecido como: {{ page.aka | join: ',' }}</small>
+  </div>
+  <div class="card-body">
+    <div class="container">
+      <div class="row">
+        <!-- Informações sobre o Autor -->
+        <div class="col-xs-12 col-md-12 pt-5">
+          <h5 class="badge badge-secondary text-light">Informações:</h5>
+          <table class="table table-sm table-striped">
+            <tbody>
+              <tr>
+                <th scope="row">Nome Real</th>
+                <td>
+                    {% if page.real_name != '' %}
+                    {{ page.real_name }}
+                    {% else %}
+                    Não informado ou Desconhecido
+                    {% endif %}
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Data de Nascimento</th>
+                <td>
+                    {% if page.dob != '' %}
+                    {{ page.dob }}
+                    {% else %}
+                    Não informada ou Desconhecida
+                    {% endif %}
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Grupo(s)</th>
+                <td>
+                    {% if page.group.first %}
+                    <ul>
+                        {% for grupo in page.group %}
+                        <li>{{ grupo }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                        {% if page.group != '' %}
+                            {{ page.group }}
+                        {% else %}
+                            Nenhum
+                        {% endif %}
+                    {% endif %}
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Site</th>
+                <td>
+                    {% if page.site == "" %}
+                    Nenhum
+                    {% else %}
+                    <a href="{{ page.site }}" class="break-all">https://{{ page.site }}</a>
+                    {% endif %}                   
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Idiomas</th>
+                <td>
+                    {% if page.languages.first %}
+                    <ul>
+                        {% for idioma in page.languages %}
+                        <li>{{ idioma }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                        {% if page.languages != '' %}
+                            {{ page.languages }}
+                        {% else %}
+                            Nenhum
+                        {% endif %}
+                    {% endif %}
+                </td>
+              </tr>
+              <tr>
+                <th scope="row">Funções</th>
+                <td>
+                    {% if page.category.first %}
+                    <ul>
+                        {% for funcoes in page.category %}
+                        <li>{{ category }}</li>
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                        {% if page.category != '' %}
+                            {{ page.category }}
+                        {% else %}
+                            Nenhum
+                        {% endif %}
+                    {% endif %}
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+      <!-- Separador da Biografia do Autor -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Biografia do Autor -->
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+
+      <!-- Separador de Trabalhos do Autor -->
+      <div class="row">
+        <div class="col-12">
+          <hr />
+        </div>
+      </div>
+      <!-- Trabalhos do Autor -->
+      <div class="row">
+        <div class="col-xs-12 col-md-12">
+            {% assign traducoes = site.traducoes | patch_author, page.title %}
+            {% if traducoes.first %}
+            <h5 class="badge badge-secondary text-light">Traduções:</h5>
+            <ul>
+                {% for traducao in traducoes %}
+                <li>{{ traducao.title }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
