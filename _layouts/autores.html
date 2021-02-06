@@ -204,7 +204,11 @@ layout: page
             </div>
             <div class="row">
                 <div class="col-xs-12 col-md-12">
-                    {% assign tutoriais = site.tutoriais | where: "author", page.title %}
+                    {% assign tutoriais = site.tutoriais | where_exp: "item", "item.author contains page.title" %}
+                    {% for alcunha in page.aka %}
+                        {% assign tutoriais_aka = site.tutoriais | where_exp: "item", "item.author contains alcunha" %}
+                        {% assign tutoriais = tutoriais | concat: tutoriais_aka | uniq %}
+                    {% endfor %}
                     {% if tutoriais.first %}
                     <h5 class="badge badge-secondary text-light">Tutoriais:</h5>
                     <ul>
@@ -218,7 +222,12 @@ layout: page
             </div>
             <div class="row">
                 <div class="col-xs-12 col-md-12">
-                    {% assign utilitarios = site.utilitarios | where: "author", page.title %}
+                    {% assign utilitarios = site.utilitarios | where_exp: "item", "item.author contains page.title" %}
+                    {% for alcunha in page.aka %}
+                        {% assign utilitarios_aka = site.utilitarios | where_exp: "item", "item.author contains alcunha" %}
+                        {% assign utilitarios = utilitarios | concat: utilitarios_aka | uniq %}
+                    {% endfor %}
+                    {% if tutoriais.first %}
                     {% if utilitarios.first %}
                     <h5 class="badge badge-secondary text-light">Utilitários:</h5>
                     <ul>
