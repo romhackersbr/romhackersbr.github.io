@@ -169,7 +169,7 @@ layout: page
             <div class="row">
                 <div class="col-xs-12 col-md-12">
                     {% assign traducoes1 = site.traducoes | where_exp: "item", "item.patch_author == page.title" %}
-                    {% assign traducoes2 = site.traducoes | where_exp: "item", "item.patch_author contains page.aka" %}
+                    {% assign traducoes2 = site.traducoes | where_exp: "item", "page.aka contains item.patch_author" %}
                     {% assign traducoes = traducoes1 | concat: traducoes2 | uniq %}
                     {% if traducoes.first %}
                     <h5 class="badge badge-secondary text-light">Traduções:</h5>
@@ -184,7 +184,9 @@ layout: page
             </div>
             <div class="row">
                 <div class="col-xs-12 col-md-12">
-                    {% assign romhacks = site.romhacks | where: "patch_author", page.title %}
+                    {% assign romhacks1 = site.romhacks | where_exp: "item", "item.patch_author == page.title" %}
+                    {% assign romhacks2 = site.romhacks | where_exp: "item", "page.aka contains item.patch_author" %}
+                    {% assign romhacks = romhacks1 | concat: romhacks2 | uniq %}
                     {% if romhacks.first %}
                     <h5 class="badge badge-secondary text-light">Romhacks:</h5>
                     <ul>
