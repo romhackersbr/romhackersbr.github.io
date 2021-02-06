@@ -10,7 +10,7 @@ discord: "Alissoη #1740"
 github: ""
 furt: "647"
 category: ["Tradutor", "Editor de Gráficos", "Romhacker"]
-languages: ["Inglês", "Português", "Epanhol"]
+languages: ["Inglês", "Português", "Espanhol"]
 real_name: "Alisson Queiroz"
 dob: "10/08/2001"
 ---
