@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "TechnoSoft"
 game_publisher: "Sega"
 game_release_date: "14/08/1989"
-patch_author: "undefined"
+patch_author: ["Anime_World","Solid_One"]
 patch_group: "Fórum Unificado de Romhacking e Tradução"
 patch_site: "//www.romhacking.net.br/"
 patch_version: "1.0"

@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Namco"
 game_publisher: "Namco"
 game_release_date: "??/??/1991"
-patch_author: "undefined"
+patch_author: ["Anime_World", "Tedenfe"]
 patch_group: "Fórum Unificado de Tradução"
 patch_site: "//www.romhacking.net.br/"
 patch_version: "1.0"

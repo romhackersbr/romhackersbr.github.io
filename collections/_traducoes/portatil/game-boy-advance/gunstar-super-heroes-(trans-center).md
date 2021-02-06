@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Treasure"
 game_publisher: "SEGA"
 game_release_date: "25 de outubro de 2005"
-patch_author: "Kmikz, Anime_World, Fallen_Soul e Spyblack"
+patch_author: ["Kmikz", "Anime_World", "Fallen_Soul", "Spyblack"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html"
 patch_version: "1.0 Beta"
