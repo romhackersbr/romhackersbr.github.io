@@ -28,38 +28,44 @@ $(function () {
     prefetch: "/api/utilitarios.json",
   });
 
-  $(".typeahead").typeahead(null, {
-    name: "traducoes",
-    source: traducoes,
-    display: "title",
-    templates: {
-      header: '<h3 class="pesquisa-resultado-tipo">Traduções</h3>',
+  $(".typeahead").typeahead(
+    null,
+    {
+      name: "traducoes",
+      source: traducoes,
+      display: "title",
+      templates: {
+        header: '<h3 class="pesquisa-resultado-tipo">Traduções</h3>',
+        suggestion: Handlebars.compile('<div><span class="tt-suggestion-cat">[{{system}}]</span> – {{title}}</div>')
+      },
     },
-    suggestion: Handlebars.compile('<div><span class="tt-suggestion-cat">[{{system}}]</span> – {{title}}</div>')
-  },{
-    name: "romhacks",
-    source: romhacks,
-    display: "title",
-    templates: {
-      header: '<h3 class="pesquisa-resultado-tipo">Romhacks</h3>',
+    {
+      name: "romhacks",
+      source: romhacks,
+      display: "title",
+      templates: {
+        header: '<h3 class="pesquisa-resultado-tipo">Romhacks</h3>',
+      },
     },
-  },{
-    name: "tutoriais",
-    source: tutoriais,
-    display: "title",
-    templates: {
-      header: '<h3 class="pesquisa-resultado-tipo">Tutoriais</h3>',
+    {
+      name: "tutoriais",
+      source: tutoriais,
+      display: "title",
+      templates: {
+        header: '<h3 class="pesquisa-resultado-tipo">Tutoriais</h3>',
+      },
     },
-  },{
-    name: "utilitarios",
-    source: utilitarios,
-    display: "title",
-    templates: {
-      header: '<h3 class="pesquisa-resultado-tipo">Utilitários</h3>',
-    },
-  });
+    {
+      name: "utilitarios",
+      source: utilitarios,
+      display: "title",
+      templates: {
+        header: '<h3 class="pesquisa-resultado-tipo">Utilitários</h3>',
+      },
+    }
+  );
 
-  $('.typeahead').bind('typeahead:select', function(ev, suggestion) {
+  $(".typeahead").bind("typeahead:select", function (ev, suggestion) {
     window.location.href = suggestion.url;
   });
 });
