@@ -5,13 +5,13 @@ layout: api
   {% for utilitario in site.utilitarios %}
     {
             "id"                : "{{ utilitario.id }}",
-            "title"             : {{ utilitario.title  | escape | jsonify  }},
-            "author"            : {{ utilitario.author | escape | jsonify }},
-            "group"             : {{ utilitario.group | escape | jsonify }},
-            "url"               : {{ utilitario.url  | escape | jsonify }},
+            "title"             : {{ utilitario.title  | jsonify  }},
+            "author"            : {{ utilitario.author | jsonify }},
+            "group"             : {{ utilitario.group | jsonify }},
+            "url"               : {{ utilitario.url  | jsonify }},
             "date"              : "{{ utilitario.date }}",
-            "content"           : "{{ utilitario.content | escape | strip_newlines | strip_html | jsonify  }}",
-            "excerpt"           : "{{ utilitario.excerpt | escape | strip_newlines | strip_html | jsonify }}"
+            "content"           : "{{ utilitario.content | strip_newlines | strip_html | jsonify  }}",
+            "excerpt"           : "{{ utilitario.excerpt | strip_newlines | strip_html | jsonify }}"
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]

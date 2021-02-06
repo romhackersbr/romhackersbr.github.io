@@ -13,8 +13,8 @@ layout: api
               "patch_group"       : {{ traducao.patch_group  | jsonify }},
               "url"               : {{ traducao.url | jsonify }},
               "date"              : "{{ traducao.date }}",
-              "content"           : {{ traducao.content | escape | strip_newlines | strip_html | jsonify }},
-              "excerpt"           : {{ traducao.excerpt | escape | strip_newlines | strip_html | jsonify }}
+              "content"           : {{ traducao.content | strip_newlines | strip_html | jsonify }},
+              "excerpt"           : {{ traducao.excerpt | strip_newlines | strip_html | jsonify }}
       } {% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
 ]
