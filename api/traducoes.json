@@ -1,0 +1,20 @@
+---
+layout: api
+---
+[
+    {% for traducao in site.traducoes %}
+      {
+              "id"                : "{{ traducao.id }}",
+              "title"             : "{{ traducao.title | escape }}",
+              "system"            : "{{ traducao.system | escape }}",
+              "platform"          : "{{ traducao.platform | escape }}",
+              "game_name"         : "{{ traducao.game_name | escape }}",
+              "patch_author"      : "{{ traducao.patch_author }}",
+              "patch_group"       : "{{ traducao.patch_group }}",
+              "url"               : "{{ traducao.url }}",
+              "date"              : "{{ traducao.date }}",
+              "content"           : "{{ traducao.content | escape | strip_newlines }}",
+              "excerpt"           : "{{ traducao.excerpt | escape | strip_newlines }}"
+      } {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+]
