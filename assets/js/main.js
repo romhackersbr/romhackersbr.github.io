@@ -13,7 +13,7 @@ $(function () {
   $('.typeahead').typeahead(null, {
     name: 'pesquisa',
     source: traducoes,
-    display: 'team'
+    display: 'title'
   });
 
 
