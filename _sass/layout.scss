@@ -140,7 +140,7 @@ th[scope=row] {
   top: 60px!important;
   left: 0px!important;
   z-index: 100!important;
-  background: rgba(55, 55, 55, 0.8);
+  background: rgba(240, 240, 240, 0.8);
   width: 100%;
   height: 100%;
   text-align: center;
@@ -152,10 +152,8 @@ th[scope=row] {
 .tt-suggestion.tt-selectable {
   border-bottom: 1px solid #ccc;
   padding: 10px 0;
-  color: #dae0e5!important
 }
 .tt-suggestion.tt-selectable:hover {
-  background-color: #dae0e5!important;
-  color: rgb(55,55,55)!important;
-  
+  background-color:rgba(0,0,0,.03)!important;
+  color: #1d2124!important;
 }
