@@ -1,0 +1,15 @@
+---
+title: "Lista Completa de Opcodes para 6502 (NES)"
+doc_title: "Lista completa de opcodes (NES)"
+author: "DaRKWiZaRDX"
+group: "DaRKWiZaRDX translations"
+system: "NES"
+category: "Programação"
+level: "Intermediário"
+format: "TXT"
+language: "Espanhol"
+release_date: "31/01/2006"
+version: "1.0"
+site: "http://dwx.romhackhispano.org/"
+---
+A lista completa dos códigos operacionais utilizados pela CPU do NES, fundamental para qualquer um programar em Assembly.
