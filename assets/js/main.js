@@ -5,25 +5,43 @@ $(function () {
   });
 
   var traducoes = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.obj.whitespace("title"),
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace(
+      "title",
+      "game_title",
+      "patch_author",
+      "patch_group"
+    ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     prefetch: "/api/traducoes.json",
   });
 
   var romhacks = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.obj.whitespace("title"),
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace(
+      "title",
+      "game_title",
+      "patch_author",
+      "patch_group"
+    ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     prefetch: "/api/romhacks.json",
   });
 
   var tutoriais = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.obj.whitespace("title"),
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace(
+      "title",
+      "author",
+      "group"
+    ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     prefetch: "/api/tutoriais.json",
   });
 
   var utilitarios = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.obj.whitespace("title"),
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace(
+      "title",
+      "author",
+      "group"
+    ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     prefetch: "/api/utilitarios.json",
   });
@@ -36,7 +54,9 @@ $(function () {
       display: "title",
       templates: {
         header: '<h3 class="pesquisa-resultado-tipo">Traduções</h3>',
-        suggestion: Handlebars.compile('<div><span class="tt-suggestion-cat">[{{system}}]</span> – {{title}}</div>')
+        suggestion: Handlebars.compile(
+          '<div><span class="tt-suggestion-cat">[{{system}}]</span> – {{title}}</div>'
+        ),
       },
     },
     {
