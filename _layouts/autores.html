@@ -227,7 +227,6 @@ layout: page
                         {% assign utilitarios_aka = site.utilitarios | where_exp: "item", "item.author contains alcunha" %}
                         {% assign utilitarios = utilitarios | concat: utilitarios_aka | uniq %}
                     {% endfor %}
-                    {% if tutoriais.first %}
                     {% if utilitarios.first %}
                     <h5 class="badge badge-secondary text-light">Utilitários:</h5>
                     <ul>
