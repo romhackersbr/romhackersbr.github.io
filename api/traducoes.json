@@ -5,13 +5,13 @@ layout: api
     {% for traducao in site.traducoes %}
       {
               "id"                : "{{ traducao.id }}",
-              "title"             : {{ traducao.title  | escape | jsonify }},
-              "system"            : {{ traducao.system  | escape | jsonify  }},
-              "platform"          : {{ traducao.platform  | escape | jsonify }},
-              "game_title"        : {{ traducao.game_title  | escape | jsonify }},
-              "patch_author"      : {{ traducao.patch_author | escape | jsonify }},
-              "patch_group"       : {{ traducao.patch_group  | escape | jsonify }},
-              "url"               : {{ traducao.url | escape | jsonify }},
+              "title"             : {{ traducao.title  | jsonify }},
+              "system"            : {{ traducao.system  | jsonify  }},
+              "platform"          : {{ traducao.platform  | jsonify }},
+              "game_title"        : {{ traducao.game_title  | jsonify }},
+              "patch_author"      : {{ traducao.patch_author | jsonify }},
+              "patch_group"       : {{ traducao.patch_group  | jsonify }},
+              "url"               : {{ traducao.url | jsonify }},
               "date"              : "{{ traducao.date }}",
               "content"           : {{ traducao.content | escape | strip_newlines | strip_html | jsonify }},
               "excerpt"           : {{ traducao.excerpt | escape | strip_newlines | strip_html | jsonify }}
