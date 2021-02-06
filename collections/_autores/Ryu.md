@@ -1,14 +1,14 @@
 ---
 title: "Ryu"
 aka: ["Ryu", "Alisson"]
-group: ["Nenhum"]
-site: "Nenhum"
+group: ""
+site: ""
 email: "alissonking4@gmail.com"
 facebook: ""
 twitter: ""
 discord: "Alissoη #1740"
 github: ""
-furt: ""
+furt: "647"
 category: ["Tradutor", "Editor de Gráficos", "Romhacker"]
 languages: ["Inglês", "Português", "Epanhol"]
 real_name: "Alisson Queiroz"
