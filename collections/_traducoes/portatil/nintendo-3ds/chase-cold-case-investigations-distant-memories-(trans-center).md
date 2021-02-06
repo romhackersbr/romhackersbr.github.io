@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Arc System Works"
 game_publisher: "Aksys Games"
 game_release_date: "13/10/2016"
-patch_author: "undefined"
+patch_author: ["Solid One","djmatheusito"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html (fora do ar)"
 patch_version: "1.0"

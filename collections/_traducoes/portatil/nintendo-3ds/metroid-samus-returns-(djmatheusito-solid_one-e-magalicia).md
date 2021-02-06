@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Mercury Steam"
 game_publisher: "Nintendo"
 game_release_date: "15/09/2017"
-patch_author: "undefined"
+patch_author: "[djmatheusito", "Solid_One","Magalícia"]
 patch_group: "Fórum Unificado de Romhacking e Tradução"
 patch_site: "//www.romhacking.net.br/"
 patch_version: "1.1"
