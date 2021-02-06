@@ -7,7 +7,7 @@ $(function () {
   var traducoes = new Bloodhound({
     datumTokenizer: Bloodhound.tokenizers.obj.whitespace('title'),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    prefetch: '/api/pesquisa.json',
+    prefetch: '/api/traducoes.json',
   });
   
   $('.typeahead').typeahead(null, {
