@@ -1,0 +1,17 @@
+---
+layout: api
+---
+[
+  {% for tutorial in site.tutoriais %}
+    {
+            "id"                : "{{ tutorial.id }}",
+            "title"             : "{{ tutorial.title | escape }}",
+            "author"            : "{{ tutorial.author }}",
+            "group"             : "{{ tutorial.group }}",
+            "url"               : "{{ tutorial.url }}",
+            "date"              : "{{ tutorial.date }}",
+            "content"           : "{{ tutorial.content | escape | strip_newlines }}",
+            "excerpt"           : "{{ tutorial.excerpt | escape | strip_newlines }}"
+    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]

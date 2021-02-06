@@ -1,0 +1,17 @@
+---
+layout: api
+---
+[
+  {% for utilitario in site.utilitarios %}
+    {
+            "id"                : "{{ utilitario.id }}",
+            "title"             : "{{ utilitario.title | escape }}",
+            "author"            : "{{ utilitario.author }}",
+            "group"             : "{{ utilitario.group }}",
+            "url"               : "{{ utilitario.url }}",
+            "date"              : "{{ utilitario.date }}",
+            "content"           : "{{ utilitario.content | escape | strip_newlines }}",
+            "excerpt"           : "{{ utilitario.excerpt | escape | strip_newlines }}"
+    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]

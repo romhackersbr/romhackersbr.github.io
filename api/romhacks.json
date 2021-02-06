@@ -1,0 +1,20 @@
+---
+layout: api
+---
+[
+  {% for romhack in site.romhacks %}
+    {
+            "id"                : "{{ romhack.id }}",
+            "title"             : "{{ romhack.title | escape }}",
+            "system"            : "{{ romhack.system | escape }}",
+            "platform"          : "{{ romhack.platform | escape }}",
+            "game_name"         : "{{ romhack.game_name | escape }}",
+            "patch_author"      : "{{ romhack.patch_author }}",
+            "patch_group"       : "{{ romhack.patch_group }}",
+            "url"               : "{{ romhack.url }}",
+            "date"              : "{{ romhack.date }}",
+            "content"           : "{{ romhack.content | escape | strip_newlines }}",
+            "excerpt"           : "{{ romhack.excerpt | escape | strip_newlines }}"
+    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]

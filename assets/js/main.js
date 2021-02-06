@@ -16,5 +16,7 @@ $(function () {
     display: 'title'
   });
 
+  console.log(traducoes)
+
 
 });
