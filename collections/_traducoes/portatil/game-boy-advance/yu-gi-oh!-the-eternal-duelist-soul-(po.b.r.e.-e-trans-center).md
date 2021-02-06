@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Konami"
 game_publisher: "Konami"
 game_release_date: "15/10/2002"
-patch_author: "undefined"
+patch_author: ["Ilune", "Joapeer", "Odin", "Solid_One"]
 patch_group: "undefined"
 patch_site: "//www.romhackers.org/ e //emulandogba.sites.uol.com.br/index2.html"
 patch_version: "2.0 beta"

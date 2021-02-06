@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "INTI CREATES"
 game_publisher: "Capcom"
 game_release_date: "3 de setembro (européia) e 5 de outubro (americana) de 2004"
-patch_author: "Solid_One e Spyblack"
+patch_author: ["Solid_One","Spyblack"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html"
 patch_version: "1.1 (americana) e 1.0 (européia)"

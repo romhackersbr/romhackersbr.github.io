@@ -8,7 +8,7 @@ game_players: "4"
 game_developer: "Konami"
 game_publisher: "Konami"
 game_release_date: "21/10/2008"
-patch_author: "undefined"
+patch_author: ["Lanford", "Hyllian", "Solid_One","NEODAN"]
 patch_group: "undefined"
 patch_site: "undefined"
 patch_version: "1.0"

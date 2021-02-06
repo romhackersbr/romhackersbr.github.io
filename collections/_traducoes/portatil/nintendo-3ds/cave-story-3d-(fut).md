@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Nicalis"
 game_publisher: "Nicalis"
 game_release_date: "01/05/2014"
-patch_author: "undefined"
+patch_author: ["djmatheusito", "Solid_One","Magalícia"]
 patch_group: "Fórum Unificado de Romhacking e Tradução"
 patch_site: "//www.romhacking.net.br/"
 patch_version: "???"

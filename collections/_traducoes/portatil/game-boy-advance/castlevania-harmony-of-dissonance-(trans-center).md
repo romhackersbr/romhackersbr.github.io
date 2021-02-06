@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Konami"
 game_publisher: "Konami"
 game_release_date: "11 de outubro de 2002"
-patch_author: "undefined"
+patch_author: ["Solid_One","Anime_World", "Odin", "Darkl0rd"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html"
 patch_version: "1.1"

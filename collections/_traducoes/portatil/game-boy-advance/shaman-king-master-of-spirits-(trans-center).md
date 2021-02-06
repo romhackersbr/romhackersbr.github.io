@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Konami"
 game_publisher: "Konami"
 game_release_date: "9 de novembro de 2004"
-patch_author: "undefined"
+patch_author: ["Ninho","Solid_One"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html"
 patch_version: "2.0"

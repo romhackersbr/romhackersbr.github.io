@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Konami"
 game_publisher: "Konami"
 game_release_date: "10/06/2001"
-patch_author: "undefined"
+patch_author: ["Solid_One","Joapeer"]
 patch_group: "undefined"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html e //www.romhackers.org/"
 patch_version: "1.0"
