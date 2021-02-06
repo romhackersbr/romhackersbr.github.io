@@ -8,7 +8,7 @@ layout: api
               "title"             : {{ traducao.title  | escape | jsonify }},
               "system"            : {{ traducao.system  | escape | jsonify  }},
               "platform"          : {{ traducao.platform  | escape | jsonify }},
-              "game_name"         : {{ traducao.game_name  | escape | jsonify }},
+              "game_title"        : {{ traducao.game_title  | escape | jsonify }},
               "patch_author"      : {{ traducao.patch_author | escape | jsonify }},
               "patch_group"       : {{ traducao.patch_group  | escape | jsonify }},
               "url"               : {{ traducao.url | escape | jsonify }},
