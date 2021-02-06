@@ -35,6 +35,7 @@ $(function () {
     templates: {
       header: '<h3 class="pesquisa-resultado-tipo">Traduções</h3>',
     },
+    suggestion: Handlebars.compile('<div><span class="tt-suggestion-cat">[{{system}}]</span> – {{title}}</div>')
   },{
     name: "romhacks",
     source: romhacks,
