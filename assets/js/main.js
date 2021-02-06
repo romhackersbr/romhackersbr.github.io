@@ -59,6 +59,6 @@ $(function () {
   });
 
   $('.typeahead').bind('typeahead:select', function(ev, suggestion) {
-    var response = Response.redirect(suggestion.url);
+    window.location.href = suggestion.url;
   });
 });
