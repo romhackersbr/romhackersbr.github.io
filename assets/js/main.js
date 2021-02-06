@@ -40,7 +40,7 @@ $(function () {
     source: romhacks,
     display: "title",
     templates: {
-      header: '<h3 class="pesquisa-resultado-tipo">Romacks</h3>',
+      header: '<h3 class="pesquisa-resultado-tipo">Romhacks</h3>',
     },
   },{
     name: "tutoriais",
