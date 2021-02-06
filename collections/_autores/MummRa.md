@@ -9,7 +9,7 @@ twitter: ""
 discord: ""
 github: ""
 furt: "973"
-category: ["Tradutor", "Editor de Gráficos", "Romhacker", "Programador', "Aspirante ASM"]
+category: ["Tradutor", "Editor de Gráficos", "Romhacker", "Programador", "Aspirante ASM"]
 languages: ["Inglês", "Português"]
 real_name: ""
 dob: ""
