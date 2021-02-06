@@ -8,7 +8,7 @@ facebook: "strbr"
 twitter: ""
 discord: ""
 github: ""
-furt: "Mumm-Ra"
+furt: "973"
 category: ["Tradutor", "Editor de Gráficos", "Romhacker", "Programador', "Aspirante ASM"]
 languages: ["Inglês", "Português"]
 real_name: ""
