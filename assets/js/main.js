@@ -10,7 +10,7 @@ $(function () {
     prefetch: '/api/pesquisa.json',
   });
   
-  $('#pesquisa').typeahead(null, {
+  $('.typeahead').typeahead(null, {
     name: 'pesquisa',
     display: 'title',
     source: pesquisa
