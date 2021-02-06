@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Rare"
 game_publisher: "Nintendo"
 game_release_date: "??/12/1995"
-patch_author: "undefined"
+patch_author: ["Solid One", "denim, "grande elenco"]
 patch_group: "FURT (Fórum Unificado de Romhacking e Tradução)"
 patch_site: "//www.romhacking.net.br/"
 patch_version: "1.0"
