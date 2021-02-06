@@ -10,8 +10,8 @@ layout: api
             "group"             : {{ utilitario.group | escape | jsonify }},
             "url"               : {{ utilitario.url  | escape | jsonify }},
             "date"              : "{{ utilitario.date }}",
-            "content"           : "{{ utilitario.content | escape | strip_newlines }}",
-            "excerpt"           : "{{ utilitario.excerpt | escape | strip_newlines }}"
+            "content"           : "{{ utilitario.content | escape | strip_newlines | strip_html | jsonify  }}",
+            "excerpt"           : "{{ utilitario.excerpt | escape | strip_newlines | strip_html | jsonify }}"
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]

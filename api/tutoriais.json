@@ -10,8 +10,8 @@ layout: api
             "group"             : {{ tutorial.group  | escape | jsonify }},
             "url"               : {{ tutorial.url  | escape | jsonify }},
             "date"              : "{{ tutorial.date }}",
-            "content"           : {{ tutorial.content | escape | strip_newlines | strip_html | jsonif }},
-            "excerpt"           : {{ tutorial.excerpt | escape | strip_newlines | strip_html | jsonif }}
+            "content"           : {{ tutorial.content | escape | strip_newlines | strip_html | jsonify }},
+            "excerpt"           : {{ tutorial.excerpt | escape | strip_newlines | strip_html | jsonify }}
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
