@@ -1,4 +1,4 @@
---
+---
 title: "Solid One"
 aka: ["Solid_One", "SolidOne"]
 group: ["Trans-Center", "Jacutem Sabão"]
