@@ -168,7 +168,9 @@ layout: page
             <!-- Trabalhos do Autor -->
             <div class="row">
                 <div class="col-xs-12 col-md-12">
-                    {% assign traducoes = site.traducoes | where: "patch_author", page.title %}
+                    {% assign traducoes1 = site.traducoes | where_exp: "item", "item.patch_author == page.title" %}
+                    {% assign traducoes2 = site.traducoes | where_exp: "item", "item.patch_author contains page.aka" %}
+                    {% assign traducoes = traducoes1 | concat: traducoes2 | uniq %}
                     {% if traducoes.first %}
                     <h5 class="badge badge-secondary text-light">Traduções:</h5>
                     <ul>
