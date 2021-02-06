@@ -1,6 +1,6 @@
 ---
 title: "Mumm-Ra"
-aka: ["Mumm-Ra STR"]
+aka: ["Mumm-Ra STR", "mummrabr"]
 group: ["STR Brasil"]
 site: "//strbrgames.blogspot.com/"
 email: ""
