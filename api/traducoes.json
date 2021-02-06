@@ -13,8 +13,8 @@ layout: api
               "patch_group"       : "{{ traducao.patch_group }}",
               "url"               : "{{ traducao.url }}",
               "date"              : "{{ traducao.date }}",
-              "content"           : "{{ traducao.content | escape | strip_newlines }}",
-              "excerpt"           : "{{ traducao.excerpt | escape | strip_newlines }}"
+              "content"           : "{{ traducao.content | escape | strip_newlines | strip_html }}",
+              "excerpt"           : "{{ traducao.excerpt | escape | strip_newlines | strip_html }}"
       } {% if forloop.last %}{% else %},{% endif %}
     {% endfor %}
 ]
