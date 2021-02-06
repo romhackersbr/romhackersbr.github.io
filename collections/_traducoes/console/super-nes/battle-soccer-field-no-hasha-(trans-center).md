@@ -8,7 +8,7 @@ game_players: "1-2"
 game_developer: "Pandora Box"
 game_publisher: "Banpresto"
 game_release_date: "11 de dezembro de 1992"
-patch_author: "undefined"
+patch_author: ["Ninho","Gambas"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html"
 patch_version: "1.0"

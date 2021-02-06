@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "NAPS Team"
 game_publisher: "Destination Software (ou DSI Games)"
 game_release_date: "18 de novembro de 2003"
-patch_author: "undefined"
+patch_author: ["T-Ninho","Gambas","Japa Boy Junior"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html"
 patch_version: "1.1"

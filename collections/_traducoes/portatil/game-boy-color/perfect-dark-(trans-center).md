@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Rare"
 game_publisher: "Nintendo"
 game_release_date: "28/08/2000"
-patch_author: "undefined"
+patch_author: ["Ifrit Ryudo", "Japa Boy Junior", "Gambas"]
 patch_group: "Trans-Center"
 patch_site: "//emulandogba.sites.uol.com.br/index2.html (inativo)"
 patch_version: "1.0"
