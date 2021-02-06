@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Treasure"
 game_publisher: "Sega"
 game_release_date: "25/05/1995"
-patch_author: "Unknown Master"
+patch_author: ["Unknown Master", "Djinn", "Anime_World"]
 patch_group: "Monkey's Traduções"
 patch_site: "//www.monkeystraducoes.com/"
 patch_version: "1.0"

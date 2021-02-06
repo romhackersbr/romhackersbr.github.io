@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Sensory Sweep"
 game_publisher: "Atari"
 game_release_date: "2004"
-patch_author: "Wolfwood"
+patch_author: ["Wolfwood","Anime_World"]
 patch_group: "Nenhum"
 patch_site: "//yuyuhakushotournamenttactics.blogspot.com/"
 patch_version: "BETA 1"

@@ -8,7 +8,7 @@ game_players: "4"
 game_developer: "Treasure"
 game_publisher: "Sega"
 game_release_date: "30/09/1994"
-patch_author: "Humberto (aka Sasquast)"
+patch_author: ["Humberto (aka Sasquast)", "Anime_World"]
 patch_group: "Nenhum"
 patch_site: "//www.orkut.com.br/Main#Community?cmm=61863"
 patch_version: "01-03-2010"

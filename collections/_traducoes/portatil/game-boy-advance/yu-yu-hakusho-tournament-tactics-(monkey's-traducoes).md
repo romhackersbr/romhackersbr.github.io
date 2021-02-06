@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Sensory Sweep"
 game_publisher: "Atari"
 game_release_date: "2004"
-patch_author: "undefined"
+patch_author: ["Wolfwood","Anime_World","Hatsu_Haru","eskhotline"]
 patch_group: "Monkey's Traduções"
 patch_site: "//www.monkeystraducoes.com/"
 patch_version: "1.0b"
