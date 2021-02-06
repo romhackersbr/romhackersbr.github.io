@@ -168,9 +168,11 @@ layout: page
             <!-- Trabalhos do Autor -->
             <div class="row">
                 <div class="col-xs-12 col-md-12">
-                    {% assign traducoes1 = site.traducoes | where_exp: "item", "item.patch_author == page.title" %}
-                    {% assign traducoes2 = site.traducoes | where_exp: "item", "page.aka contains item.patch_author" %}
-                    {% assign traducoes = traducoes1 | concat: traducoes2 | uniq %}
+                    {% assign traducoes = site.traducoes | where_exp: "item", "item.patch_author contains page.title" %}
+                    {% for alcunha in page.aka %}
+                        {% assign traducoes_aka = site.traducoes | where_exp: "item", "item.patch_author contains alcunha" %}
+                        {% assign traducoes | concat: traducoes_aka | uniq %}
+                    {% endfor %}
                     {% if traducoes.first %}
                     <h5 class="badge badge-secondary text-light">Traduções:</h5>
                     <ul>
@@ -184,9 +186,11 @@ layout: page
             </div>
             <div class="row">
                 <div class="col-xs-12 col-md-12">
-                    {% assign romhacks1 = site.romhacks | where_exp: "item", "item.patch_author == page.title" %}
-                    {% assign romhacks2 = site.romhacks | where_exp: "item", "page.aka contains item.patch_author" %}
-                    {% assign romhacks = romhacks1 | concat: romhacks2 | uniq %}
+                    {% assign romhacks = site.romhacks | where_exp: "item", "item.patch_author contains page.title" %}
+                    {% for alcunha in page.aka %}
+                        {% assign romhacks_aka = site.romhacks | where_exp: "item", "item.patch_author contains alcunha" %}
+                        {% assign romhacks | concat: romhacks_aka | uniq %}
+                    {% endfor %}
                     {% if romhacks.first %}
                     <h5 class="badge badge-secondary text-light">Romhacks:</h5>
                     <ul>
