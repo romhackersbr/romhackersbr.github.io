@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Namco"
 game_publisher: "Tengen"
 game_release_date: "??/??/1989"
-patch_author: "Mr.Fox (aka devilfox)"
+patch_author: "Mr.Fox
 patch_group: "PO.B.R.E."
 patch_site: "//www.romhackers.org/"
 patch_version: "1.1"

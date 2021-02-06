@@ -8,7 +8,7 @@ game_players: "2"
 game_developer: "Rare Ltd."
 game_publisher: "Tradewest"
 game_release_date: "??/06/1991"
-patch_author: "Mr.Fox (aka devilfox)"
+patch_author: "Mr.Fox
 patch_group: "PO.B.R.E."
 patch_site: "//www.romhackers.org/"
 patch_version: "1.1"

@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Sega (Licenciado pela Tecmo)"
 game_publisher: "Sega"
 game_release_date: "??/??/1992"
-patch_author: "Mr.Fox (aka devilfox)"
+patch_author: "Mr.Fox
 patch_group: "PO.B.R.E."
 patch_site: "//www.romhackers.org/"
 patch_version: "1.1"

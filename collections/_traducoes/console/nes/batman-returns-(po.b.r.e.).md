@@ -8,7 +8,7 @@ game_players: "1"
 game_developer: "Konami"
 game_publisher: "Konami"
 game_release_date: "??/01/1993"
-patch_author: "Mr.Fox (aka devilfox)"
+patch_author: "Mr.Fox
 patch_group: "PO.B.R.E."
 patch_site: "//www.romhackers.org/"
 patch_version: "1.0"
