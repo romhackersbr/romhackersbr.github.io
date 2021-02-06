@@ -171,7 +171,7 @@ layout: page
                     {% assign traducoes = site.traducoes | where_exp: "item", "item.patch_author contains page.title" %}
                     {% for alcunha in page.aka %}
                         {% assign traducoes_aka = site.traducoes | where_exp: "item", "item.patch_author contains alcunha" %}
-                        {% assign traducoes = traducoes | concat: traducoes_aka | uniq %}
+                        {% assign traducoes = traducoes | concat: traducoes_aka | uniq | sort: "system" %}
                     {% endfor %}
                     {% if traducoes.first %}
                     <h5 class="badge badge-secondary text-light">Traduções:</h5>
@@ -189,7 +189,7 @@ layout: page
                     {% assign romhacks = site.romhacks | where_exp: "item", "item.patch_author contains page.title" %}
                     {% for alcunha in page.aka %}
                         {% assign romhacks_aka = site.romhacks | where_exp: "item", "item.patch_author contains alcunha" %}
-                        {% assign romhacks = romhacks | concat: romhacks_aka | uniq %}
+                        {% assign romhacks = romhacks | concat: romhacks_aka | uniq | sort: "system" %}
                     {% endfor %}
                     {% if romhacks.first %}
                     <h5 class="badge badge-secondary text-light">Romhacks:</h5>
