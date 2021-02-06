@@ -4,15 +4,16 @@ $(function () {
     $("#sidebar, #content").toggleClass("active");
   });
 
-  var pesquisa = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.whitespace,
+  var traducoes = new Bloodhound({
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace('title'),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     prefetch: '/api/pesquisa.json',
   });
   
   $('.typeahead').typeahead(null, {
     name: 'pesquisa',
-    source: pesquisa
+    source: traducoes,
+    display: 'team'
   });
 
 
