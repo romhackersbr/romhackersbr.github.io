@@ -5,14 +5,13 @@ $(function () {
   });
 
   var pesquisa = new Bloodhound({
-    datumTokenizer: Bloodhound.tokenizers.obj.whitespace('title'),
+    datumTokenizer: Bloodhound.tokenizers.whitespace,
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     prefetch: '/api/pesquisa.json',
   });
   
   $('.typeahead').typeahead(null, {
     name: 'pesquisa',
-    display: 'title',
     source: pesquisa
   });
 
