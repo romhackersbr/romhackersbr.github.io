@@ -4,17 +4,17 @@ layout: api
 [
   {% for romhack in site.romhacks %}
     {
-            "id"                : "{{ romhack.id }}",
-            "title"             : "{{ romhack.title | escape }}",
-            "system"            : "{{ romhack.system | escape }}",
-            "platform"          : "{{ romhack.platform | escape }}",
-            "game_name"         : "{{ romhack.game_name | escape }}",
-            "patch_author"      : "{{ romhack.patch_author }}",
-            "patch_group"       : "{{ romhack.patch_group }}",
-            "url"               : "{{ romhack.url }}",
-            "date"              : "{{ romhack.date }}",
-            "content"           : "{{ romhack.content | escape | strip_newlines }}",
-            "excerpt"           : "{{ romhack.excerpt | escape | strip_newlines }}"
+      "id"                : "{{ romhack.id }}",
+      "title"             : {{ romhack.title  | escape | jsonify }},
+      "system"            : {{ romhack.system  | escape | jsonify  }},
+      "platform"          : {{ romhack.platform  | escape | jsonify }},
+      "game_title"        : {{ romhack.game_title  | escape | jsonify }},
+      "patch_author"      : {{ romhack.patch_author | escape | jsonify }},
+      "patch_group"       : {{ romhack.patch_group  | escape | jsonify }},
+      "url"               : {{ romhack.url | escape | jsonify }},
+      "date"              : "{{ romhack.date }}",
+      "content"           : {{ romhack.content | escape | strip_newlines | strip_html | jsonify }},
+      "excerpt"           : {{ romhack.excerpt | escape | strip_newlines | strip_html | jsonify }}
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]

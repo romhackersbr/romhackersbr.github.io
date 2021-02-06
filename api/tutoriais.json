@@ -5,13 +5,13 @@ layout: api
   {% for tutorial in site.tutoriais %}
     {
             "id"                : "{{ tutorial.id }}",
-            "title"             : "{{ tutorial.title | escape }}",
-            "author"            : "{{ tutorial.author }}",
-            "group"             : "{{ tutorial.group }}",
-            "url"               : "{{ tutorial.url }}",
+            "title"             : {{ tutorial.title | escape | jsonify  }},
+            "author"            : {{ tutorial.author  | escape | jsonify }},
+            "group"             : {{ tutorial.group  | escape | jsonify }},
+            "url"               : {{ tutorial.url  | escape | jsonify }},
             "date"              : "{{ tutorial.date }}",
-            "content"           : "{{ tutorial.content | escape | strip_newlines }}",
-            "excerpt"           : "{{ tutorial.excerpt | escape | strip_newlines }}"
+            "content"           : {{ tutorial.content | escape | strip_newlines | strip_html | jsonif }},
+            "excerpt"           : {{ tutorial.excerpt | escape | strip_newlines | strip_html | jsonif }}
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
