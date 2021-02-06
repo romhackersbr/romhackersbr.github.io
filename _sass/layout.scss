@@ -146,15 +146,15 @@ th[scope=row] {
   text-align: center;
   padding: 5rem 0px;
 }
-.tt-dataset.tt-dataset-pesquisa {
-  border-top: 1px solid #ccc;
-}
 .tt-suggestion.tt-selectable {
   border-bottom: 1px solid #ccc;
   padding: 10px 0;
 }
 .tt-suggestion.tt-selectable:hover {
   background-color: #dae0e5!important;
-  color: #1d2124!important;
-  
+  color: #1d2124!important; 
+}
+.tt-header {
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
 }
