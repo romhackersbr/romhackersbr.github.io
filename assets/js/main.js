@@ -57,4 +57,8 @@ $(function () {
       header: '<h3 class="pesquisa-resultado-tipo">Utilitários</h3>',
     },
   });
+
+  $('.typeahead').bind('typeahead:select', function(ev, suggestion) {
+    console.log('Selection: ' + suggestion);
+  });
 });
