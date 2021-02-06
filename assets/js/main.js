@@ -14,6 +14,9 @@ $(function () {
     name: 'pesquisa',
     source: traducoes,
     display: 'title'
+    templates: {
+      header: '<h3 class="pesquisa-resultado-tipo">Traduções</h3>'
+    }
   });
 
   console.log(traducoes)
