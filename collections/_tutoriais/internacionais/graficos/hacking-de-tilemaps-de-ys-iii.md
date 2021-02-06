@@ -10,6 +10,6 @@ format: "HTML"
 language: "Espanhol"
 release_date: "2003-2009"
 version: "1.0"
-site: "http://darkn.romhackhispano.org/"
+site: "//darkn.romhackhispano.org/"
 ---
 Explica o processo da modificação de tilemaps em um jogo de SNES, usando YS 3 como exemplo.

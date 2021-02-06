@@ -10,6 +10,6 @@ format: "PDF e HTML"
 language: "Italiano"
 release_date: "29/01/2002"
 version: "3.0"
-site: "http://www.sadnescity.it/"
+site: "//www.sadnescity.it/"
 ---
 Guia básico sobre romhacking.

@@ -10,6 +10,6 @@ format: "HTML"
 language: "Inglês"
 release_date: "25/02/1998"
 version: "1.2"
-site: "Nenhum"
+site: ""
 ---
 Um guia sem título sobre ponteiros, usando principalmente o SNES como exemplo, abrangendo também expansão e relocação de bancos de memória na ROM.

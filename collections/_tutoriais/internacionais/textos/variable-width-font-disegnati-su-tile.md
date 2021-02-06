@@ -10,6 +10,6 @@ format: "HTML"
 language: "Italiano"
 release_date: "28/05/2006"
 version: "???"
-site: "http://gemini.aerdan.org/"
+site: "//gemini.aerdan.org/"
 ---
 Ensina uma metodologia de fontes de tamanho variável que posiciona seus caracteres através de blocos, tomando Final Fantasy 6 (GBA) como exemplo.

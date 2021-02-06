@@ -10,6 +10,6 @@ format: "TXT"
 language: "Inglês"
 release_date: "???"
 version: "1.0"
-site: "http://pt.parodius.com/"
+site: "//pt.parodius.com/"
 ---
 Explica como editar fontes de formatos lineares com editores hexadecimais, dando uma visão geral até 2BPP.

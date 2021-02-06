@@ -10,6 +10,6 @@ format: "TXT"
 language: "Francês"
 release_date: "???"
 version: "???"
-site: "http://generation9.kanshima.net"
+site: "//generation9.kanshima.net"
 ---
 Teoria sobre a compressão Huffman.

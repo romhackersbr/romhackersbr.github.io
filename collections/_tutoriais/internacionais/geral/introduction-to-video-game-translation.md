@@ -10,6 +10,6 @@ format: "PDF"
 language: "Inglês"
 release_date: "13/03/2004"
 version: "0.9 Alpha"
-site: "http://terminus.romhack.net/"
+site: "//terminus.romhack.net/"
 ---
 Um guia bem intensivo, atualmente abrange apenas tópicos relacionados à programação, especialmente sobre sistemas que usam CDs. Apesar de ter sido feito por um grupo francês, está totalmente em inglês.

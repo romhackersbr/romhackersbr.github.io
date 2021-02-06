@@ -10,6 +10,6 @@ format: "TXT"
 language: "Inglês"
 release_date: "???"
 version: "1.8"
-site: "Nenhum"
+site: ""
 ---
 Explica como alterar uma paleta de cores usando apenas um editor hexadecimal voltado para o romhacking.

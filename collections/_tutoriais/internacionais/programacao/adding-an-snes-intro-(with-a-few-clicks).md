@@ -10,6 +10,6 @@ format: "HTML"
 language: "Inglês"
 release_date: "2006"
 version: "1.0"
-site: "https://0wnag3.biz/mediawiki"
+site: "//0wnag3.biz/mediawiki"
 ---
 Ensina de maneira simples, usando utilitários próprios para a tarefa, como programar uma introdução em ROMs de SNES.

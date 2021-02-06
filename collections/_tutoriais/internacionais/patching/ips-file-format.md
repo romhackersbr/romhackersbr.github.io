@@ -10,6 +10,6 @@ format: "HTML"
 language: "Inglês"
 release_date: "2002"
 version: "???"
-site: "http://zerosoft.zophar.net/"
+site: "//zerosoft.zophar.net/"
 ---
 Formato do IPS totalmente explicado, incluindo com o método de compressão RLE e dicas para a programação deles.

@@ -10,6 +10,6 @@ format: "DOC"
 language: "Espanhol"
 release_date: "??/12/2006"
 version: "1.1"
-site: "http://darkn.romhackhispano.org/"
+site: "//darkn.romhackhispano.org/"
 ---
 Tutorial que explica teorias e implementações teóricas dos algoritmos Huffman, LZ e LZ77.

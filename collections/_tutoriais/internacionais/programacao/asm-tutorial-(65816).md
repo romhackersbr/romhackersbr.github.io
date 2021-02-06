@@ -2,7 +2,7 @@
 title: "ASM Tutorial (65816)"
 doc_title: "ASM Tutorial"
 author: "Jay"
-group: "Nenhum"
+group: ""
 system: "SNES"
 category: "Programação"
 level: "Intermediário"
@@ -10,6 +10,6 @@ format: "TXT"
 language: "Inglês"
 release_date: "???"
 version: "???"
-site: "Nenhum"
+site: ""
 ---
 Tutorial simples sobre Assembly do 65816, usado no SNES.

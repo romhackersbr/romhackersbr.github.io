@@ -10,6 +10,6 @@ format: "TXT"
 language: "Inglês"
 release_date: "1997"
 version: "0.2"
-site: "Nenhum"
+site: ""
 ---
 Tutorial de abordagem geral sobre o romhacking, contendo também o funcionamento de boa parte do NES explicado. A versão 0.2 vem com recomendações de ferramentas para SNES.

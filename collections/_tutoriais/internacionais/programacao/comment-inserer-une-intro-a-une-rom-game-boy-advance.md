@@ -10,6 +10,6 @@ format: "PDF"
 language: "Francês"
 release_date: "27/05/2004"
 version: "1.0"
-site: "Nenhum"
+site: ""
 ---
 Ensina como programar uma introdução em jogos de GBA detalhadamente, usando várias ferramentas para isso.

@@ -10,6 +10,6 @@ format: "TXT"
 language: "Inglês"
 release_date: "02/01/2001"
 version: "0.7"
-site: "http://rpgd.emulationworld.com/klarth/"
+site: "//rpgd.emulationworld.com/klarth/"
 ---
 Descreve, de uma maneira bem simplificada, o formato gráfico "padrão" de vários sistemas.

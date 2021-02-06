@@ -10,6 +10,6 @@ format: "TXT"
 language: "Espanhol"
 release_date: "31/01/2006"
 version: "1.1"
-site: "http://dwx.romhackhispano.org/"
+site: "//dwx.romhackhispano.org/"
 ---
 Explica como encontrar endereços reais de uma ROM de NES analizando a memória em um debugger.

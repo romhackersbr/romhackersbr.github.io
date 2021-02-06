@@ -10,6 +10,6 @@ format: "TXT"
 language: "Espanhol"
 release_date: "31/01/2006"
 version: "1.1"
-site: "http://dwx.romhackhispano.org/"
+site: "//dwx.romhackhispano.org/"
 ---
 A lista completa dos códigos operacionais utilizados pela CPU do SNES, fundamental para qualquer um programar em Assembly.

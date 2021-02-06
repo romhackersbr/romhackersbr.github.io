@@ -10,6 +10,6 @@ format: "PDF"
 language: "Espanhol"
 release_date: "2007"
 version: "2.0"
-site: "http://sayans.romhackhispano.org/"
+site: "//sayans.romhackhispano.org/"
 ---
 Grande documento que aborda não só detalhes técnicos do romhacking mas também dos aspectos linguísticos.

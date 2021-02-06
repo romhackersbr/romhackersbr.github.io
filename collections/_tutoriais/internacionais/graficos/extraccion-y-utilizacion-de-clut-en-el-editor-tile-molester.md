@@ -10,6 +10,6 @@ format: "TXT"
 language: "Espanhol"
 release_date: "2005"
 version: "???"
-site: "http://vegetrans.jandar.net/"
+site: "//vegetrans.jandar.net/"
 ---
 Tutorial simples que ensina a extrair a paleta dos jogos de PSX e usá-las durante a edição gráfico no Tile Molester, facilitando a visualização do resultado final.

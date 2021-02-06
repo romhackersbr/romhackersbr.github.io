@@ -10,6 +10,6 @@ format: "PDF"
 language: "Italiano"
 release_date: "05/04/2008"
 version: "2.0"
-site: "http://www.sadnescity.it/"
+site: "//www.sadnescity.it/"
 ---
 Tutorial simples ensinando como corrigir o tamanho de arquivos em imagens de CD, para não haver problema com sua referência no índice da mídia.

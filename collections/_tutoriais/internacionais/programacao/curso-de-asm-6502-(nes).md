@@ -10,6 +10,6 @@ format: "HTML"
 language: "Espanhol"
 release_date: "18/01/2008"
 version: "???"
-site: "http://dwx.romhackhispano.org/"
+site: "//dwx.romhackhispano.org/"
 ---
 Ensina como programar no Assembly do 6502, basicamente é um tutorial sobre programação.

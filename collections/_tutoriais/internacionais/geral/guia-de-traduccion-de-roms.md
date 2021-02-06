@@ -10,6 +10,6 @@ format: "HTML"
 language: "Espanhol"
 release_date: "14/08/2007"
 version: "???"
-site: "http://dwx.romhackhispano.org/"
+site: "//dwx.romhackhispano.org/"
 ---
 Guia ensinando o trabalho básico de um romhacker: criação de tabelas, alteração gráfica, textos e ponteiros.

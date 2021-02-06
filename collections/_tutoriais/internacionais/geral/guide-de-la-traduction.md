@@ -10,6 +10,6 @@ format: "HTML"
 language: "Francês"
 release_date: "09/09/2003"
 version: "???"
-site: "http://traf.romhack.org/"
+site: "//traf.romhack.org/"
 ---
 Guia contendo não apenas um material original mas a tradução de vários outros guias, com exemplos em jogos, somando uma carga indispensável a qualquer romhacker.
