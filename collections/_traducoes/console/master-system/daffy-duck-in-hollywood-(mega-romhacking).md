@@ -16,5 +16,6 @@ patch_release: "25/01/2010"
 patch_type: "IPS e UPS"
 patch_progress: "Textos - 100% / Acentuação - 20% / Gráficos - 0%"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Daffy%20Duck%20in%20Hollywood%20-%20Mega%20Romhacking%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Daffy%20Duck%20in%20Hollywood%20-%20Mega%20Romhacking%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Daffy%20Duck%20in%20Hollywood%20-%20Mega%20Romhacking%20-%203.png"]
+patch_file: "[SMS] Daffy Duck in Hollywood (E) [!] [T-BR] [T-Jefferson Lima Ribeiro G-Mega Romhacking] [A-2010].zip"
 ---
 Esta é a primeira tradução realizada pelo tradutor iniciante Jefferson Lima Ribeiro. Os poucos textos do jogo estão traduzidos e parcialmente acentuados, mas nenhum gráfico foi editado.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Daffy Duck in Hollywood (E) [!].sms, com CRC32 71ABEF27 e sem cabeçalho.

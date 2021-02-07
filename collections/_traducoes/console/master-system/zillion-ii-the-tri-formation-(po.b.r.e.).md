@@ -16,5 +16,6 @@ patch_release: "undefined"
 patch_type: "undefined"
 patch_progress: "Textos"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Zillion%20II%20-%20The%20Tri%20Formation%20-%20POBRE%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Zillion%20II%20-%20The%20Tri%20Formation%20-%20POBRE%20-%202.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Zillion%20II%20-%20The%20Tri%20Formation%20-%20POBRE%20-%203.png"]
+patch_file: "[SMS] Zillion II - The Tri Formation (JUE) [!] [T-BR] [T-Mr.Fox G-POBRE] [V-1.1 P-100% A-2020].7z"
 ---
 Todos os textos do jogo estão devidamente traduzidos e acentuados, e todas as mensagens em forma de gráficos também foram editadas.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Zillion II - The Tri Formation (JUE) [!].sms, com CRC32 2F2E3BC9 e sem cabeçalho.

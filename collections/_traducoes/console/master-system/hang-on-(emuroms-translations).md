@@ -16,5 +16,6 @@ patch_release: "31/10/1998 (provavelmente)"
 patch_type: "IPS"
 patch_progress: "???"
 patch_images: ["//img.romhackers.org/traducoes/%5BSMS%5D%20Hang-On%20-%20Emuroms%20Translations%20-%201.png","//img.romhackers.org/traducoes/%5BSMS%5D%20Hang-On%20-%20Emuroms%20Translations%20-%202.png"]
+patch_file: "[SMS] Hang-On (E) [!] [T-BR] [T-X-DooMer G-Emuroms Translations] [A-1998].zip"
 ---
 Esta tradução está razoável. Os poucos textos do jogo estão traduzidos, mas não estão acentuados, e nenhum gráfico foi editado. Nota-se algumas abreviações e palavras em inglês ainda, como SCORE e LEFT.ATENÇÃO:Esta tradução deve ser aplicada na ROM original Hang-On (E) [!].sms, com CRC32 6F79E4A1 e com um cabeçalho de 512 bytes.
