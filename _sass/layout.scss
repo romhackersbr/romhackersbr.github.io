@@ -167,6 +167,9 @@ th[scope=row] {
   padding: 10px;
 }
 @media (max-width: 768px) {
+  .tt-menu {
+    max-width:100%!important;
+  }
   .tt-suggestion.tt-selectable {
     font-size: 0.75rem;
     padding: 5px 0;
