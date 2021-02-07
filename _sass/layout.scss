@@ -135,6 +135,9 @@ th[scope=row] {
   padding: 0;
   margin: 0;
 }
+.form-row .twitter-typeahead {
+  width: 100%;
+}
 .tt-menu {
   position: fixed!important;
   top: 60px!important;
