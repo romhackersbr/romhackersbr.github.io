@@ -98,7 +98,7 @@ layout: compress
           </li>
           {% endfor %}
         </ul>
-        <!- Pesquisa -->
+        <!-- Pesquisa -->
         <form class="form-inline my-2 my-lg-0 ml-auto">
           <input class="form-control mr-sm-2 typeahead" type="text" placeholder="Pesquisar" aria-label="Pesquisar">
         </form>
@@ -106,6 +106,14 @@ layout: compress
     </nav>
 
     <div class="container">
+      <div class="row d-md-none">
+        <div class="col-12">
+          <!-- Pesquisa -->
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control typeahead" type="text" placeholder="Pesquisar" aria-label="Pesquisar">
+          </form>
+        </div>
+      </div>
       <div class="row">
         <!-- Conteúdo da Página -->
         {{ content }}
