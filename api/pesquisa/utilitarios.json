@@ -1,0 +1,13 @@
+---
+layout: api
+---
+[
+  {% for utilitario in site.utilitarios %}
+    {
+            "title"             : {{ utilitario.title  | jsonify  }},
+            "author"            : {{ utilitario.author | jsonify }},
+            "group"             : {{ utilitario.group | jsonify }},
+            "url"               : {{ utilitario.url  | jsonify }},
+    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]

@@ -12,7 +12,7 @@ $(function () {
       "patch_group"
     ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    prefetch: "/api/traducoes.json",
+    prefetch: "/api/pesquisa/traducoes.json",
   });
 
   var romhacks = new Bloodhound({
@@ -23,7 +23,7 @@ $(function () {
       "patch_group"
     ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    prefetch: "/api/romhacks.json",
+    prefetch: "/api/pesquisa/romhacks.json",
   });
 
   var tutoriais = new Bloodhound({
@@ -33,7 +33,7 @@ $(function () {
       "group"
     ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    prefetch: "/api/tutoriais.json",
+    prefetch: "/api/pesquisa/tutoriais.json",
   });
 
   var utilitarios = new Bloodhound({
@@ -43,7 +43,7 @@ $(function () {
       "group"
     ),
     queryTokenizer: Bloodhound.tokenizers.whitespace,
-    prefetch: "/api/utilitarios.json",
+    prefetch: "/api/pesquisa/utilitarios.json",
   });
 
   $(".typeahead").typeahead(

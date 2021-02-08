@@ -1,0 +1,13 @@
+---
+layout: api
+---
+[
+  {% for tutorial in site.tutoriais %}
+    {
+            "title"             : {{ tutorial.title | jsonify  }},
+            "author"            : {{ tutorial.author  | jsonify }},
+            "group"             : {{ tutorial.group  | jsonify }},
+            "url"               : {{ tutorial.url  | jsonify }},
+    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]

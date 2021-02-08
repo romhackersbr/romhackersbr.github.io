@@ -4,13 +4,17 @@ layout: api
 [
   {% for romhack in site.romhacks %}
     {
+      "id"                : "{{ romhack.id }}",
       "title"             : {{ romhack.title  | jsonify }},
       "system"            : {{ romhack.system  | jsonify  }},
       "platform"          : {{ romhack.platform  | jsonify }},
       "game_title"        : {{ romhack.game_title  | jsonify }},
       "patch_author"      : {{ romhack.patch_author | jsonify }},
       "patch_group"       : {{ romhack.patch_group  | jsonify }},
-      "url"               : {{ romhack.url | jsonify }}
+      "url"               : {{ romhack.url | jsonify }},
+      "date"              : "{{ romhack.date }}",
+      "content"           : {{ romhack.content | strip_newlines | strip_html | jsonify }},
+      "excerpt"           : {{ romhack.excerpt | strip_newlines | strip_html | jsonify }}
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]

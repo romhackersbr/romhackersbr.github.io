@@ -1,0 +1,16 @@
+---
+layout: api
+---
+[
+    {% for traducao in site.traducoes %}
+      {
+              "title"             : {{ traducao.title  | jsonify }},
+              "system"            : {{ traducao.system  | jsonify  }},
+              "platform"          : {{ traducao.platform  | jsonify }},
+              "game_title"        : {{ traducao.game_title  | jsonify }},
+              "patch_author"      : {{ traducao.patch_author | jsonify }},
+              "patch_group"       : {{ traducao.patch_group  | jsonify }},
+              "url"               : {{ traducao.url | jsonify }},
+      } {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+]
