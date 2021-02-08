@@ -1,10 +1,7 @@
 # Configurações do Site
 title: PO.B.R.E
 email: your-email@example.com
-description: >- # Colocar a descrição nas linhas abaixo
-  Portal Brasileiro de Romhacking e Emulação
-#baseurl: "https://hansbonini.com.br/pobre-v2"
-#url: "https://hansbonini.com.br/pobre-v2"
+description: "Portal Brasileiro de Romhacking e Emulação"
 baseurl: ""
 url: ""
 
@@ -18,6 +15,21 @@ collections:
     permalink: "/:collection/:path/"
     output: true
   romhacks:
+    permalink: "/:collection/:path/"
+    output: true
+  emuladores:
+    permalink: "/:collection/:path/"
+    output: true
+  utilitarios:
+    permalink: "/:collection/:path/"
+    output: true
+  tutoriais:
+    permalink: "/:collection/:path/"
+    output: true
+  sistemas:
+    permalink: "/:collection/:path/"
+    output: true
+  autores:
     permalink: "/:collection/:path/"
     output: true
 
@@ -35,6 +47,27 @@ defaults:
       type: "noticias"
     values:
       layout: "noticias"
+  - scope:
+      type: "emuladores"
+    values:
+      layout: "emuladores"
+  - scope:
+      type: "utilitarios"
+    values:
+      layout: "utilitarios"
+  - scope:
+      type: "tutoriais"
+    values:
+      layout: "tutoriais"
+  - scope:
+      type: "sistemas"
+    values:
+      layout: "sistemas"
+  - scope:
+      type: "autores"
+    values:
+      layout: "autores"
+
 
 # Configurações de Build
 markdown: kramdown
@@ -45,8 +78,8 @@ plugins:
 
 # Ignora os arquivos do sistema
 exclude:
-- Gemfile
-- Gemfile.lock
-- README.md
-- LICENSE.txt
-- CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
