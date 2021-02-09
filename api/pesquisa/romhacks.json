@@ -10,7 +10,7 @@ layout: api
       "game_title"        : {{ romhack.game_title  | jsonify }},
       "patch_author"      : {{ romhack.patch_author | jsonify }},
       "patch_group"       : {{ romhack.patch_group  | jsonify }},
-      "url"               : {{ romhack.url | replace: "/", "\\/" | jsonify }}
+      "url"               : {{ romhack.url | replace: "/", "\/" | jsonify }}
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
