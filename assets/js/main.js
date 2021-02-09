@@ -86,6 +86,6 @@ $(function () {
   );
 
   $(".typeahead").bind("typeahead:select", function (ev, suggestion) {
-    window.location.href = suggestion.url;
+    window.location.href = JSON.parse(suggestion.url);
   });
 });
