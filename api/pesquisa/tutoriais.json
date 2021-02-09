@@ -7,7 +7,7 @@ layout: api
             "title"             : {{ tutorial.title | jsonify  }},
             "author"            : {{ tutorial.author  | jsonify }},
             "group"             : {{ tutorial.group  | jsonify }},
-            "url"               : {{ tutorial.url | replace: "/", "\/" | jsonify }},
+            "url"               : {{ tutorial.url | replace: "/", "\\/" | jsonify }},
     } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
