@@ -3,7 +3,7 @@ title: PO.B.R.E
 email: your-email@example.com
 description: "Portal Brasileiro de Romhacking e Emulação"
 baseurl: "https://romhackers.org"
-url: ""
+url: "https://romhackersbr.org"
 
 # Coleções
 collections_dir: collections
@@ -96,7 +96,6 @@ sass:
   style: :compressed
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 # Ignora os arquivos do sistema
 exclude:
