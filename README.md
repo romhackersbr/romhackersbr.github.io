@@ -32,7 +32,7 @@ Depois é necessário instalar Ruby e o Gem, após isso instale o Bundler usando
 ```
  gem install bundler
  bundle install
-``
+```
 
 Com Ruby, Gem e Bundler instalado podemos prosseguir com a instalação do Jekyll
 ```
@@ -51,6 +51,7 @@ Para sincronizar o dados armazenados no repositório de banco de dados basta rod
 git submodule update --remote --merge
 ```
 É extremamente recomendado que antes de cada `commit` o banco seja sincronizado
+
 
 # Colaboradores
 
