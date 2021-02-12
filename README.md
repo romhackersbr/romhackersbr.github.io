@@ -8,7 +8,7 @@
     <a href="https://romhackers.org/emuladores">Emuladores</a>
     <br />
     <a href="https://romhackers.org/colaborando">Colaborar</a> | 
-    <a href="https://romhackers.org/https://github.com/romhackersbr/romhackersbr.github.io/issues">Reportar Erros</a>
+    <a href="https://github.com/romhackersbr/romhackersbr.github.io/issues">Reportar Erros</a>
 </p>
 <p align="center">
 Este é o repositório do sistema do Portal Brasileiro de ROMHacking e Emulação. Desenvolvido em Jekyll.
