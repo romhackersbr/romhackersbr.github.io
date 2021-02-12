@@ -7,7 +7,7 @@
     <a href="https://romhackers.org/utilitarios">Utilitários</a> |
     <a href="https://romhackers.org/emuladores">Emuladores</a>
     <br />
-    <a href="https://romhackers.org/colaborando">Colaborar</a>
+    <a href="https://romhackers.org/colaborando">Colaborar</a> | 
     <a href="https://romhackers.org/https://github.com/romhackersbr/romhackersbr.github.io/issues">Reportar Erros</a>
 </p>
 <p align="center">
