@@ -14,45 +14,25 @@ collections:
   traducoes:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
   romhacks:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
   emuladores:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
   utilitarios:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
   tutoriais:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
   sistemas:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
   autores:
     permalink: "/:collection/:path/"
     output: true
-    slugify:
-      mode: 'pretty'   # :path is slugified.
-      case: false 
+
 
 # Escopo
 defaults:
