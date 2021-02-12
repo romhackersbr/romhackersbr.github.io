@@ -75,6 +75,7 @@ sass:
   style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Ignora os arquivos do sistema
 exclude:
