@@ -2,6 +2,9 @@
 
   <!-- Traduções Recentes -->
   <div class="card mt-4 mb-2">
+    <div class="card-header">
+      <h5 class="card-title text-center">Traduções Recentes</h5>
+    </div>
     <div class="card-img-group-top container">
       <div class="row">
         {% assign traducoes = site.traducoes | sort: "date" %}
@@ -16,7 +19,7 @@
         {% endfor %}
       </div>
     </div>
-    <div class="card-header">
+    <div class="card-body">
       <ul class="list-group list-group-flush">
         {% assign traducoes = site.traducoes | sort: "date" %}
         {% for traducao in traducoes limit:4 %}
@@ -28,13 +31,13 @@
         {% endfor %}
       </ul>
     </div>
-    <div class="card-body">
-      <h5 class="card-title text-center">Traduções Recentes</h5>
-    </div>
   </div>
 
   <!-- Hacks Recentes -->
   <div class="card mb-2">
+    <div class="card-header">
+      <h5 class="card-title text-center">Romhacks Recentes</h5>
+    </div>
     <div class="card-img-group-top container">
       <div class="row">
         {% assign romhacks = site.romhacks | sort: "date" %}
@@ -49,7 +52,7 @@
         {% endfor %}
       </div>
     </div>
-    <div class="card-header">
+    <div class="card-body">
       <ul class="list-group list-group-flush">
         {% assign romhacks = site.romhacks | sort: "date" %}
         {% for romhack in romhacks limit:4 %}
@@ -61,14 +64,14 @@
         {% endfor %}
       </ul>
     </div>
-    <div class="card-body">
-      <h5 class="card-title text-center">Romhacks Recentes</h5>
-    </div>
   </div>
 
   <!-- Tutoriais Recentes -->
   <div class="card mb-2">
     <div class="card-header">
+      <h5 class="card-title text-center">Tutoriais Recentes</h5>
+    </div>
+    <div class="card-body">
       <ul class="list-group list-group-flush">
         {% assign tutoriais = site.tutoriais | sort: "date" %}
         {% for tutorial in tutoriais limit:4 %}
@@ -79,9 +82,6 @@
         </li>
         {% endfor %}
       </ul>
-    </div>
-    <div class="card-body">
-      <h5 class="card-title text-center">Tutoriais Recentes</h5>
     </div>
   </div>
 
