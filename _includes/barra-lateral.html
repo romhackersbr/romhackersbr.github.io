@@ -17,10 +17,10 @@
       </div>
     </div>
     <div class="card-header">
-      <ul>
+      <ul class="list-group list-group-flush">
         {% assign traducoes = site.traducoes | sort: "date" %}
         {% for traducao in traducoes limit:4 %}
-        <li>
+        <li class="list-group-item">
           <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.title }}">
             {{ traducao.title }}
           </a>
@@ -50,10 +50,10 @@
       </div>
     </div>
     <div class="card-header">
-      <ul>
+      <ul class="list-group list-group-flush">
         {% assign romhacks = site.romhacks | sort: "date" %}
         {% for romhack in romhacks limit:4 %}
-        <li>
+        <li class="list-group-item">
           <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
             {{ romhack.title }}
           </a>
@@ -69,10 +69,10 @@
   <!-- Tutoriais Recentes -->
   <div class="card mb-2">
     <div class="card-header">
-      <ul>
+      <ul class="list-group list-group-flush">
         {% assign tutoriais = site.tutoriais | sort: "date" %}
         {% for tutorial in tutoriais limit:4 %}
-        <li>
+        <li class="list-group-item">
           <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
             {{ tutorial.title }}
           </a>
