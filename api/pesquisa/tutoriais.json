@@ -5,6 +5,7 @@ layout: api
   {% for tutorial in site.tutoriais %}
     {
             "title"             : {{ tutorial.title | jsonify  }},
+            "category"          : {{ tutorial.category | jsonify }},
             "author"            : {{ tutorial.author  | jsonify }},
             "group"             : {{ tutorial.group  | jsonify }},
             "url"               : {{ tutorial.url | jsonify | replace: "/", "\/" }}
