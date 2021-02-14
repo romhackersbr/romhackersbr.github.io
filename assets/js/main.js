@@ -109,7 +109,7 @@ $(function () {
       .each(function () {
         const $el = $(this);
         const title = $el.find("title").text();
-        const link = $el.find("link").text();
+        const link = $el.find("guid").text();
         const template =
           '<li class="list-group-item"><a href="' +
           link +
