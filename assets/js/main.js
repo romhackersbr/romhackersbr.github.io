@@ -103,9 +103,8 @@ $(function () {
   const RSS_URL = 'https://www.romhacking.net.br/index.php?action=.xml;type=rss';
 
   $.ajax(RSS_URL, {
-    accepts: {
-      xml: "application/rss+xml",
-    },
+    type: "GET",
+    crossDomain: true,
     dataType: "xml",
     success: function (data) {
       $(data)
