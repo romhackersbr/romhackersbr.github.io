@@ -6,7 +6,7 @@ layout: api
     {
             "id"                : "{{ tutorial.id }}",
             "title"             : {{ tutorial.title | jsonify  }},
-            "category"          : {{ utilitario.category | jsonify }},
+            "category"          : {{ tutorial.category | jsonify }},
             "author"            : {{ tutorial.author  | jsonify }},
             "group"             : {{ tutorial.group  | jsonify }},
             "url"               : {{ tutorial.url  | jsonify }},
