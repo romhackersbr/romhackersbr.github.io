@@ -100,19 +100,23 @@ $(function () {
   });
 
   // Forum RSS
-  const RSS_URL = 'https://api.allorigins.win/get?url=http%3A//www.romhacking.net.br/index.php%3Ftype%3Drss%3Baction%3D.xml';
+  const RSS_URL =
+    "https://api.allorigins.win/get?url=http%3A//www.romhacking.net.br/index.php%3Ftype%3Drss%3Baction%3D.xml";
 
-  $.getJSON(RSS_URL,
-    function (data) {
-      $(data.contents)
-        .find("item")
-        .each(function () {
-          const $el = $(this);
-          const title = $el.find("title").text();
-          const link = $el.find("link").text();
-          const template = '<li class="list-group-item"><a href="'+link+'" target="_blank" rel="noopener">'+title+'</a></li>';
-          $('#forum-latest').append(template);
-        });
-    }
-  );
+  $.getJSON(RSS_URL, function (data) {
+    $(data.contents)
+      .find("item")
+      .each(function () {
+        const $el = $(this);
+        const title = $el.find("title").text();
+        const link = $el.find("link").text();
+        const template =
+          '<li class="list-group-item"><a href="' +
+          link +
+          '" target="_blank" rel="noopener">' +
+          title +
+          "</a></li>";
+        $("#forum-latest").append(template);
+      });
+  });
 });
