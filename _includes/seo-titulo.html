@@ -29,7 +29,9 @@
     {% if page.layout == "tutoriais" %}
     {{ page.category }} - 
     {% endif %}
+    {% if page.url != 'http://romhackers.org' %}
     {{ page.title }}
+    {% endif %}
     {% else %}
     - {{ site.description }}
     {% endif %}
