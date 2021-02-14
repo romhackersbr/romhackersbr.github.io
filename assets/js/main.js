@@ -65,6 +65,9 @@ $(function () {
       display: "title",
       templates: {
         header: '<h3 class="pesquisa-resultado-tipo">Romhacks</h3>',
+        suggestion: Handlebars.compile(
+          '<div><span class="tt-suggestion-cat">[{{system}}]</span> – {{title}}</div>'
+        ),
       },
     },
     {
@@ -73,6 +76,9 @@ $(function () {
       display: "title",
       templates: {
         header: '<h3 class="pesquisa-resultado-tipo">Tutoriais</h3>',
+        suggestion: Handlebars.compile(
+          '<div><span class="tt-suggestion-cat">[{{category}}]</span> – {{title}}</div>'
+        ),
       },
     },
     {
@@ -81,6 +87,9 @@ $(function () {
       display: "title",
       templates: {
         header: '<h3 class="pesquisa-resultado-tipo">Utilitários</h3>',
+        suggestion: Handlebars.compile(
+          '<div><span class="tt-suggestion-cat">[{{category}}]</span> – {{title}}</div>'
+        ),
       },
     }
   );
