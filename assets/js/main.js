@@ -100,7 +100,7 @@ $(function () {
   });
 
   // Forum RSS
-  const RSS_URL = 'http://api.allorigins.win/get?url=http%3A//www.romhacking.net.br/index.php%3Ftype%3Drss%3Baction%3D.xml';
+  const RSS_URL = 'https://api.allorigins.win/get?url=http%3A//www.romhacking.net.br/index.php%3Ftype%3Drss%3Baction%3D.xml';
 
   $.getJSON(RSS_URL,
     function (data) {
