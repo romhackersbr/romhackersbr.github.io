@@ -4,7 +4,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for page in site.pages %}
     {% if page.layout != nil %}
-    {% if page.url not contains 'collections' %}
+    {% if page.url contains 'collections' %}
+    {% else %}
     <url>
         <loc>{{ page.url | prepend: site.baseurl }}</loc>
     </url>
