@@ -4,6 +4,7 @@ $(function () {
     $("#sidebar, #content").toggleClass("active");
   });
 
+  // Search system
   var traducoes = new Bloodhound({
     datumTokenizer: Bloodhound.tokenizers.obj.whitespace(
       "title",
@@ -96,5 +97,28 @@ $(function () {
 
   $(".typeahead").bind("typeahead:select", function (ev, suggestion) {
     window.location.href = suggestion.url;
+  });
+
+  // Forum RSS
+  const RSS_URL = `https://codepen.io/picks/feed/`;
+
+  $.ajax(RSS_URL, {
+    accepts: {
+      xml: "application/rss+xml",
+    },
+    dataType: "xml",
+    success: function (data) {
+      $(data)
+        .find("item")
+        .each(function () {
+          const el = $(this);
+          const title = $(el).find("title").text();
+          const link = $(el).find("link").text();
+          const template = Handlebars.compile(
+            '<li class="list-group-item"><a href="{{link}}" target="_blank" rel="noopener">{{title}}</a></li>'
+          );
+          $('#forum-latest').append(template);
+        });
+    },
   });
 });
