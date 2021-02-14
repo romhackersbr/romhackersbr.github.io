@@ -1,0 +1,52 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for noticia in site.noticias %}
+    <url>
+        <loc>{{ noticia.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for traducao in site.traducoes %}
+    <url>
+        <loc>{{ traducao.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for romhack in site.romhacks %}
+    <url>
+        <loc>{{ romhack.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for tutorial in site.tutoriais %}
+    <url>
+        <loc>{{ tutorial.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for utilitario in site.utilitarios %}
+    <url>
+        <loc>{{ utilitario.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for emulador in site.emuladores %}
+    <url>
+        <loc>{{ emulador.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for autor in site.autores %}
+    <url>
+        <loc>{{ autor.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for sistema in site.sistemas %}
+    <url>
+        <loc>{{ sistema.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endfor %}
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    <url>
+        <loc>{{ page.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endif %}
+    {% endfor %}
+</urlset>
