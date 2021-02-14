@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="{{ page.url | slugify }}" class="list-group">
+{% assign categorias = site.pages | where_exp: "item" , "item.path contains page.dir" | uniq %}
+{% for categoria in categorias %}
+  {% assign level = categoria.dir | split: "/" | size %}
+  {% if level == 2 %}
+  <li id="{{ categoria.url | slugify }}" class="list-group-item">
+    <a href="{{ categoria.url | prepend: site.baseurl }}">{{ categoria.title }}</a>
+    {% assign contador = site.utilitarios | where_exp: "item", "item.url contains categoria.url" | size %}
+    <span class="badge badge-success">{{ contador }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
