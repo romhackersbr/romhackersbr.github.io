@@ -2,6 +2,15 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.url not contains 'collections' %}
+    <url>
+        <loc>{{ page.url | prepend: site.baseurl }}</loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
     {% for noticia in site.noticias %}
     <url>
         <loc>{{ noticia.url | prepend: site.baseurl }}</loc>
@@ -41,14 +50,5 @@
     <url>
         <loc>{{ sistema.url | prepend: site.baseurl }}</loc>
     </url>
-    {% endfor %}
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.url not contains 'collections' %}
-    <url>
-        <loc>{{ page.url | prepend: site.baseurl }}</loc>
-    </url>
-    {% endif %}
-    {% endif %}
     {% endfor %}
 </urlset>
