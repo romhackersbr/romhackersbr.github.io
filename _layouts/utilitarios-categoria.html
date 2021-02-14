@@ -16,11 +16,9 @@ layout: page
   {% assign utilitarios = site.utilitarios | where:"category", page.title %}
   {% for utilitario in utilitarios %}
     {% if utilitario.url contains page.permalink %}
-    {% assign contador = site.utilitarios | where_exp: "item", "item.url contains utilitario.url" | size %}
     <li id="{{ utilitario.url | slugify }}" class="list-group-item">
       <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
         {{ utilitario.title }}
-        <span class="badge badge-success">{{ contador }}</span>
       </a>
     </li>
     {% endif %}
