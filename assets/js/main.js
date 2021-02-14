@@ -110,7 +110,7 @@ $(function () {
           const $el = $(this);
           const title = $el.find("title").text();
           const link = $el.find("link").text();
-          const template = '<li class="list-group-item"><a href='+link+' target="_blank" rel="noopener">'+title+'</a></li>';
+          const template = '<li class="list-group-item"><a href="'+link+'" target="_blank" rel="noopener">'+title+'</a></li>';
           $('#forum-latest').append(template);
         });
     }
