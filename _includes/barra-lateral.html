@@ -40,7 +40,7 @@
     </div>
     <div class="card-img-group-top container">
       <div class="row">
-        {% assign romhacks = site.romhacks | sort: "date" %}
+        {% assign romhacks = site.romhacks | sort: "date" | reverse %}
         {% for romhack in romhacks limit:4 %}
         {% for image in romhack.patch_images limit:1 %}
         <div class="col-6">
@@ -54,7 +54,7 @@
     </div>
     <div class="card-body">
       <ul class="list-group list-group-flush">
-        {% assign romhacks = site.romhacks | sort: "date" %}
+        {% assign romhacks = site.romhacks | sort: "date" | reverse %}
         {% for romhack in romhacks limit:4 %}
         <li class="list-group-item">
           <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.title }}">
@@ -73,7 +73,7 @@
     </div>
     <div class="card-body">
       <ul class="list-group list-group-flush">
-        {% assign tutoriais = site.tutoriais %}
+        {% assign tutoriais = site.tutoriais | sort: "date" | reverse %}
         {% for tutorial in tutoriais reversed limit:4 %}
         <li class="list-group-item">
           <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
@@ -92,8 +92,8 @@
     </div>
     <div class="card-body">
       <ul class="list-group list-group-flush">
-        {% assign utilitarios = site.utilitarios %}
-        {% for utilitario in utilitarios reversed limit:4 %}
+        {% assign utilitarios = site.utilitarios | sort: "date" | reverse %}
+        {% for utilitario in utilitarios limit:4 %}
         <li class="list-group-item">
           <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
             {{ utilitario.title }}
