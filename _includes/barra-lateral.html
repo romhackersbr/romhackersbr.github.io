@@ -92,7 +92,7 @@
     </div>
     <div class="card-body">
       <ul class="list-group list-group-flush">
-        {% assign utilitarios = site.utilitarios | sort: "date" %}
+        {% assign utilitarios = site.utilitarios %}
         {% for utilitario in utilitarios reversed limit:4 %}
         <li class="list-group-item">
           <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
