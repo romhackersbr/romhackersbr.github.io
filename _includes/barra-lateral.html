@@ -74,7 +74,7 @@
     <div class="card-body">
       <ul class="list-group list-group-flush">
         {% assign tutoriais = site.tutoriais | sort: "date" %}
-        {% for tutorial in tutoriais limit:4 %}
+        {% for tutorial in tutoriais reversed limit:4 %}
         <li class="list-group-item">
           <a href="{{ tutorial.url | prepend: site.baseurl }}" alt="{{ tutorial.title }}">
             {{ tutorial.title }}
@@ -93,7 +93,7 @@
     <div class="card-body">
       <ul class="list-group list-group-flush">
         {% assign utilitarios = site.utilitarios | sort: "date" %}
-        {% for utilitario in utilitarios limit:4 %}
+        {% for utilitario in utilitarios reversed limit:4 %}
         <li class="list-group-item">
           <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
             {{ utilitario.title }}
