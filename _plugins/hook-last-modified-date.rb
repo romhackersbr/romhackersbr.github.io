@@ -1,9 +1,9 @@
-Jekyll::Hooks.register :collections, :pre_render do |collection|
+Jekyll::Hooks.register :pages, :pre_render do |page|
 
     # get the current post last modified time
-    modification_time = File.mtime( collection.path )
+    modification_time = File.mtime( page.path )
 
     # inject modification_time in post's datas.
-    collection.data['last_modified'] = modification_time
+    page.data['last_modified'] = modification_time
 
 end
