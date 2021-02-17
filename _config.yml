@@ -76,7 +76,6 @@ sass:
   style: :compressed
 plugins:
   - jekyll-feed
-  - hook-last-modified-date
 
 # Ignora os arquivos do sistema
 exclude:
