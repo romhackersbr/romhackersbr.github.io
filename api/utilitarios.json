@@ -5,6 +5,7 @@ layout: api
   {% for utilitario in site.utilitarios %}
     {
             "id"                : "{{ utilitario.id }}",
+            "modified"          : "{{ utilitario.last_modified }}",
             "title"             : {{ utilitario.title  | jsonify  }},
             "category"          : {{ utilitario.category | jsonify }},
             "author"            : {{ utilitario.author | jsonify }},
