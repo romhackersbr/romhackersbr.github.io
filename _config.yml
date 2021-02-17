@@ -5,6 +5,9 @@ description: "Portal Brasileiro de Romhacking e Emulação"
 baseurl: "https://romhackers.org"
 url: "https://romhackersbr.org"
 
+# Plugins e Hooks locais
+plugins_dir: _plugins
+
 # Coleções
 collections_dir: collections
 collections:
@@ -76,7 +79,6 @@ sass:
   style: :compressed
 plugins:
   - jekyll-feed
-  - modified-time
 
 # Ignora os arquivos do sistema
 exclude:
