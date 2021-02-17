@@ -1,9 +1,13 @@
-Jekyll::Hooks.register :documents, :pre_render do |doc|
+Jekyll::Hooks.register :site, :post_read do |site|
 
-    # get the current post last modified time
-    modification_time = File.mtime( doc.path )
+    site.collections.each do collection
+        collection.each do item
+            # get the current post last modified time
+            modification_time = File.mtime( item.path )
 
-    # inject modification_time in post's datas.
-    doc.data['last_modified'] = modification_time
+            # inject modification_time in post's datas.
+            item.data['last_modified'] = modification_time
+        end
+    end
 
 end
