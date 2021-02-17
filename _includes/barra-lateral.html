@@ -93,9 +93,9 @@
     <div class="card-body">
       <ul class="list-group list-group-flush">
         {% assign utilitarios = site.utilitarios | sort: "last_modified" %}
-        <!--
+        {% comment %}
           {{ utilitarios | jsonify }}
-        -->
+        {% endcomment %}
         {% for utilitario in utilitarios limit:4 %}
         <li class="list-group-item">
           <a href="{{ utilitario.url | prepend: site.baseurl }}" alt="{{ utilitario.title }}">
