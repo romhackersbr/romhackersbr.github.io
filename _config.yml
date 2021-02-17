@@ -79,7 +79,7 @@ defaults:
 markdown: kramdown
 sass:
   style: :compressed
-safe: false
+safe: true
 
 # Ignora os arquivos do sistema
 exclude:

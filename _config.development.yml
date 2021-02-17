@@ -5,6 +5,11 @@ description: "Portal Brasileiro de Romhacking e Emulação"
 baseurl: ""
 url: ""
 
+# Plugins e Hooks locais
+plugins_dir: _plugins
+plugins:
+  - jekyll-feed
+
 # Coleções
 collections_dir: collections
 collections:
@@ -32,6 +37,7 @@ collections:
   autores:
     permalink: "/:collection/:path/"
     output: true
+
 
 # Escopo
 defaults:
@@ -73,8 +79,7 @@ defaults:
 markdown: kramdown
 sass:
   style: :compressed
-plugins:
-  - jekyll-feed
+safe: true
 
 # Ignora os arquivos do sistema
 exclude:

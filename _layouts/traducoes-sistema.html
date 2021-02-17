@@ -5,7 +5,7 @@ layout: page
 {% if sistema.first %}
 <div class="card pt-4 mb-2">
   {% if sistema.first.featured %}
-  <img class="card-img-top"  src="{{ sistema.first..featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ sistema.first.title }}" />
+  <img class="card-img-top"  src="{{ sistema.first.featured | prepend: site.baseurl }}" alt="Imagem em destaque de {{ sistema.first.title }}" />
   {% endif %}
   <div class="card-body">
     <p class="card-text">{{ sistema.first.content }}</p>

@@ -3,7 +3,7 @@ layout: page
 ---
 <!-- Listagem de Notícias -->
 <ul id="{{ page.url | slugify }}" class="list-group">
-  {% assign noticias = site.noticias | sort: "date" %}
+  {% assign noticias = site.noticias %}
   {% for noticia in noticias reversed %}
   <!-- Noticia: {{ noticia.title }}-->
   <li id="{{ noticia.url | slugify }}" class="list-group-item mb-2">
