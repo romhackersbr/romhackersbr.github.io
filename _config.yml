@@ -7,6 +7,8 @@ url: "https://romhackersbr.org"
 
 # Plugins e Hooks locais
 plugins_dir: _plugins
+plugins:
+  - jekyll-feed
 
 # Coleções
 collections_dir: collections
@@ -77,8 +79,7 @@ defaults:
 markdown: kramdown
 sass:
   style: :compressed
-plugins:
-  - jekyll-feed
+safe: false
 
 # Ignora os arquivos do sistema
 exclude:
