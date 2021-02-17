@@ -94,9 +94,7 @@
       <ul class="list-group list-group-flush">
         {% assign utilitarios = site.utilitarios | sort: "last_modified" %}
         <!--
-          {% for utilitario in utilitarios %}
-          {{ utilitario | jsonify }}
-          {% endfor %}
+          {{ utilitarios | jsonify }}
         -->
         {% for utilitario in utilitarios limit:4 %}
         <li class="list-group-item">
