@@ -76,6 +76,7 @@ sass:
   style: :compressed
 plugins:
   - jekyll-feed
+  - modified-time
 
 # Ignora os arquivos do sistema
 exclude:
