@@ -4,9 +4,9 @@ layout: page
 <!-- Listagem de Notícias -->
 <ul id="{{ page.url | slugify }}" class="list-group">
   {% assign noticias = site.noticias %}
-  {% for noticia in noticias reversed %}
+  {% for noticia in noticias reversed limit:5%}
   <!-- Noticia: {{ noticia.title }}-->
-  <li id="{{ noticia.url | slugify }}" class="list-group-item mb-2">
+  <li id="{{ noticia.url | slugify }}" class="list-group-item mb-2 p-0">
     <div class="card mb-1">
       <div class="card-header text-center">
         <!-- Titulo da Notícia -->
