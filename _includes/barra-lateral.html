@@ -12,7 +12,7 @@
         {% for image in traducao.patch_images limit:1 %}
         <div class="col-6">
           <a href="{{ traducao.url | prepend: site.baseurl }}" alt="[{{ traducao.system }}] {{ traducao.title }}">
-            <img src="{{ image }}" class="d-block w-100" alt="{{ traducao.system }}] {{ traducao.title }}"></img>
+            <img src="{{ image }}" class="d-block w-100" alt="[{{ traducao.system }}] {{ traducao.title }}"></img>
           </a>
         </div>
         {% endfor %}
@@ -24,8 +24,8 @@
         {% assign traducoes = site.traducoes | sort: 'modified_date' | reverse %}
         {% for traducao in traducoes limit:4 %}
         <li class="list-group-item">
-          <a href="{{ traducao.url | prepend: site.baseurl }}" alt="{{ traducao.system }}] {{ traducao.title }}">
-            {{ traducao.system }}] {{ traducao.title }}
+          <a href="{{ traducao.url | prepend: site.baseurl }}" alt="[{{ traducao.system }}] {{ traducao.title }}">
+            [{{ traducao.system }}] {{ traducao.title }}
           </a>
         </li>
         {% endfor %}
@@ -44,8 +44,8 @@
         {% for romhack in romhacks limit:4 %}
         {% for image in romhack.patch_images limit:1 %}
         <div class="col-6">
-          <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.system }}] {{ romhack.title }}">
-            <img src="{{ image }}" class="d-block w-100" alt="{{ romhack.system }}] {{ romhack.title }}"></img>
+          <a href="{{ romhack.url | prepend: site.baseurl }}" alt="[{{ romhack.system }}] {{ romhack.title }}">
+            <img src="{{ image }}" class="d-block w-100" alt="[{{ romhack.system }}] {{ romhack.title }}"></img>
           </a>
         </div>
         {% endfor %}
@@ -57,8 +57,8 @@
         {% assign romhacks = site.romhacks | sort: 'modified_date' | reverse %}
         {% for romhack in romhacks limit:4 %}
         <li class="list-group-item">
-          <a href="{{ romhack.url | prepend: site.baseurl }}" alt="{{ romhack.system }}] {{ romhack.title }}">
-            {{ romhack.system }}] {{ romhack.title }}
+          <a href="{{ romhack.url | prepend: site.baseurl }}" alt="[{{ romhack.system }}] {{ romhack.title }}">
+            [{{ romhack.system }}] {{ romhack.title }}
           </a>
         </li>
         {% endfor %}
