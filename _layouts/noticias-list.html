@@ -31,7 +31,11 @@ layout: page
       <div class="row">
         <div class="col-6 text-center"><a href="{{ noticia.url | prepend: site.baseurl }}"
             alt="{{ noticia.title }}">Link para a Notícia</a></div>
-        <div class="col-6 text-center"><span class="disqus-comment-count" data-disqus-url="{{ noticia.url | prepend: site.baseurl }}">Comentários</span></div>
+        <div class="col-6 text-center">
+            <a href="https://disqus.com/home/discussion/romhackersorg/{{noticia.id}}" alt="Ver comentários">
+            <span class="disqus-comment-count" data-disqus-url="{{ noticia.url | prepend: site.baseurl }}">Comentários</span>
+            </a>
+          </div>
       </div>
     </div>
   </li>
