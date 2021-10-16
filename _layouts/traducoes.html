@@ -180,7 +180,7 @@ layout: page
         <div class="col-xs-6 col-md-6 text-center">
           {% if page.patch_file %}
             {% if page.patch_file contains '//' %}
-            <a href="{{ page.patch_file }}" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true">Baixar Patch</a>
+            <a href="{{ page.patch_file }}" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true" target="_blank">Baixar Patch</a>
             {% else %}
               <a href="https://cdn.romhackers.org/traducoes/{{ page.patch_file | url_encode | replace: "+", "%20" }}" class="btn btn-dark" tabindex="-1" role="button" aria-disabled="true">Baixar Patch</a>
             {% endif %}
