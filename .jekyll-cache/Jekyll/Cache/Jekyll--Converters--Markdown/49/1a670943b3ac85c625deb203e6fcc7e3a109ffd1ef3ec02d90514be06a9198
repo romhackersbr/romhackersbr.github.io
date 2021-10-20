@@ -1,0 +1,23 @@
+I"E<p>Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, assim como as mensagens em forma de gráfico.</p>
+
+<p><b>ATENÇÃO</b>:</p>
+
+<p>O pacote de tradução contém 12 patches em formato IPS. Eles devem ser aplicados nos seguintes arquivos da ROM original <b>rastsagaa.zip</b> (Rastan Saga (Japan Rev 1, Earlier code base)):</p>
+
+<ul>
+  <li>b04-01.40.ips -&gt; b04-01.40;</li>
+  <li>b04-02.67.ips -&gt; b04-02.67;</li>
+  <li>b04-05.15.ips -&gt; b04-05.15</li>
+  <li>b04-06.28.ips -&gt; b04-06.28;</li>
+  <li>b04-07.14.ips -&gt; b04-07.14;</li>
+  <li>b04-08.27.ips -&gt; b04-08.27;</li>
+  <li>b04-13.7.ips  -&gt; b04-13.7;</li>
+  <li>b04-14.19.ips -&gt; b04-14.19;</li>
+  <li>b04-15-1.8.ips  -&gt; b04-15-1.8;</li>
+  <li>b04-16-1.20.ips -&gt; b04-16-1.20;</li>
+  <li>b04-17-1.9.ips  -&gt; b04-17-1.9;</li>
+  <li>b04-18-1.21.ips -&gt; b04-18-1.21</li>
+</ul>
+
+<p>E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nos arquivos da ROM e como executar o jogo traduzido.</p>
+:ET

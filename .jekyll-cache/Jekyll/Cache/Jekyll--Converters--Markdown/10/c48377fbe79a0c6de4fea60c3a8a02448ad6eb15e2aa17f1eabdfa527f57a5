@@ -1,0 +1,28 @@
+I"�<p>Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, assim como as mensagens em forma de gráfico.</p>
+
+<p><b>ATENÇÃO</b>:</p>
+
+<p>O pacote de tradução contém 17 patches em formato IPS. Eles devem ser aplicados nos seguintes arquivos da ROM original <b>willow.zip</b> (Willow (World)):</p>
+
+<ul>
+  <li>wl_10.ips  -&gt; wl_10.3c;</li>
+  <li>wl_12.ips  -&gt; wl_12.5c;</li>
+  <li>wl_14.ips  -&gt; wl_14.7c;</li>
+  <li>wl_16.ips  -&gt; wl_16.9c;</li>
+  <li>wl_20.ips  -&gt; wl_20.3d;</li>
+  <li>wl_22.ips  -&gt; wl_22.5d;</li>
+  <li>wl_24.ips  -&gt; wl_24.7d;</li>
+  <li>wl_26.ips  -&gt; wl_26.9d;</li>
+  <li>wle_30.ips -&gt; wle_30.11f;</li>
+  <li>wle_35.ips -&gt; wle_35.11h;</li>
+  <li>wlm-1.ips  -&gt; wlm-1.5a;</li>
+  <li>wlm-3.ips  -&gt; wlm-3.3a;</li>
+  <li>wlm-5.ips  -&gt; wlm-5.9a;</li>
+  <li>wlm-7.ips  -&gt; wlm-7.7a;</li>
+  <li>wlm-32.ips -&gt; wlm-32.8h;</li>
+  <li>wlu_31.ips -&gt; wlu_31.12f;</li>
+  <li>wlu_36.ips -&gt; wlu_36.12h</li>
+</ul>
+
+<p>E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nos arquivos da ROM e como executar o jogo traduzido.</p>
+:ET

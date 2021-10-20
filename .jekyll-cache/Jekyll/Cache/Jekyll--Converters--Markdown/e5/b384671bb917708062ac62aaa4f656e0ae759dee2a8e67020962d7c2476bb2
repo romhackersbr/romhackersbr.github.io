@@ -1,0 +1,20 @@
+I"a<p>Segundo o autor da tradução, todos os textos do jogo estão traduzidos e acentuados, assim como as mensagens em forma de gráfico.</p>
+
+<p><b>ATENÇÃO</b>:</p>
+
+<p>O pacote de tradução contém 9 patches em formato IPS. Eles devem ser aplicados nos seguintes arquivos da ROM original <b>toki.zip</b> (Toki (World, Set 1)):</p>
+
+<ul>
+  <li>1.ips -&gt; 1.c5;</li>
+  <li>2.ips -&gt; 2.c3;</li>
+  <li>3.ips -&gt; 3.k12;</li>
+  <li>4e.ips -&gt; 4e.k10;</li>
+  <li>5.ips -&gt; 5.m12;</li>
+  <li>6e.ips -&gt; 6e.m10;</li>
+  <li>toki_bk2.ips  -&gt; toki_bk2.ef8;</li>
+  <li>toki_obj1.ips -&gt; toki_obj1.c20;</li>
+  <li>toki_obj2.ips -&gt; toki_obj2.c22</li>
+</ul>
+
+<p>E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nos arquivos da ROM e como executar o jogo traduzido.</p>
+:ET

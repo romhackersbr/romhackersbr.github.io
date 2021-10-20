@@ -1,0 +1,150 @@
+I"0B<p><img src="//img.romhackers.org/outros/POBRE_11_ano.jpg" alt="" /></p>
+
+<p>Boa noite, meus caros (e minhas caras) visitantes. Antes de mais nada, eu gostaria de pedir desculpas por esta postagem atrasada. Eu pretendia postar esta notícia no dia primeiro de março, como é de costume em todos os aniversários do <strong>PO.B.R.E.</strong> (que não caem em ano bissexto), mas desde quinta-feira passada que eu não ando muito bem de saúde, por conta disso não foi possível postar a notícia na data prevista. Bem, com ou sem atraso, é com um imenso prazer e satisfação que venho comunicar que o <strong>PO.B.R.E.</strong> completa mais um ano no ar. No dia primeiro de março, fez exatos 11 anos que o <strong>PO.B.R.E.</strong> iniciou as suas atividades. Apesar desse recente período de inatividade aqui no site, nós ainda não desistimos e continuamos <em>alive and kicking</em>. Aproveito a oportunidade para informar que o motivo do site ter ficado cerca de uma semana fora do ar foi devido a um problema relacionado à migração do site para outro servidor e o redirecionamento do domínio para esse novo servidor. Mas felizmente já está tudo resolvido, e o site voltou a funcionar normalmente.</p>
+
+<p>Bem, como é de costume nos aniversários do <strong>PO.B.R.E.</strong> e como forma de compensar um pouco o longo período sem novidades aqui no site, nós gostaríamos de presentear os nossos visitantes com algumas traduções novas e com a revisão de outras já lançadas pelo nosso grupo.</p>
+
+<p>Sem mais delongas, vamos aos lançamentos:</p>
+
+<p>Em primeiro lugar, eu gostaria de anunciar o lançamento de uma tradução que eu sempre quis fazer: <strong>James Bond Jr.</strong> (sistema Nintendo 8 bits). Por muitos anos, eu estudei essa ROM, mas nunca conseguia encontrar os (<em>maledettos</em>) textos dos diálogos. Somente ano passado, eu (finalmente) descobri que os (<em>maledettos</em>) textos estavam codificados em um formato não muito convencional (tabela de 5 bits), o que impossibilitava a sua visualização em qualquer editor hexadecimal ou ferramenta similar (que exibem os dados em formato de múltiplos de 8 bits). Após essa descoberta e graças à ajuda de <strong>denim</strong>, que me ensinou a lógica de como funcionava a codificação em 5 bits, eu finalmente pude iniciar e concluir esse projeto com sucesso. Sendo assim, eu gostaria de agradecer a <strong>denim</strong> por sua grande ajuda.</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20James%20Bond%20Jr%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20James%20Bond%20Jr%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>James Bond Jr. traduzido por Mr.Fox</em></p>
+
+<p>OBS: O pacote de tradução contém, além do <em>patch</em> de tradução, um <em>patch</em> bônus que aumenta o brilho da imagem do jogo, deixando a exibição dos gráficos mais nítida.</p>
+
+<p>Segue o link para o download da tradução:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/james-bond-jr.-po.b.r.e./">Tradução versão 1.0 do jogo James Bond Jr.</a></li>
+</ul>
+
+<p>Continuando com os lançamentos, eu gostaria de anunciar a conclusão de outro projeto que eu sempre desejei fazer. Trata-se da tradução para o jogo <strong>Akumajou Densetsu</strong>, conhecido no ocidente como <strong>Castlevania III - Dracula’s Curse</strong>. Apesar da versão americana desse jogo já possuir uma tradução para o idioma português (e da versão japonesa possuir uma tradução incompleta para o idioma português europeu), o fato de nunca ter sido feita uma tradução completa da versão japonesa para o idioma português sempre foi algo que me intrigou. Ainda mais porque a versão japonesa do jogo possui diferenças significativas em relação à versão americana, tais como o som (que é melhor na versão japonesa), os diálogos e gráficos sem a tradicional censura imposta pela “Nintendo of America”, dentre outros. Então eu resolvi arregaçar as mangas e comecei a trabalhar nesse projeto, que felizmente também foi concluído com êxito. O resultado desse trabalho pode ser visto nas imagens abaixo.</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Akumajou%20Densetsu%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Akumajou%20Densetsu%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Akumajou Densetsu traduzido por Mr.Fox</em></p>
+
+<p>OBS: Esta tradução usou como base a tradução para o idioma inglês feita pelo grupo <strong>Vice Translations</strong>, embora os diálogos tenham sido traduzidos diretamente do idioma japonês para o português. Além disso, o patch de tradução também adiciona algumas melhorias ao jogo, como a nova tela de título e a modificação nos gráficos do personagem Alucard, ambas feitas pelos romhackers <strong>ShadowOne333</strong> e <strong>Vanya</strong>.</p>
+
+<p>Segue o link para o download da tradução:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/akumajou-densetsu-po.b.r.e./">Tradução versão 1.0 do jogo Akumajou Densetsu</a></li>
+</ul>
+
+<p>Ainda sobre a série <strong>Castlevania</strong>, eu gostaria de aproveitar a deixa para anunciar o lançamento da minha tradução para o primeiro jogo da série feito para o Nintendo 8 bits. Trata-se do <strong>Akumajou Dracula</strong>, conhecido no ocidente simplesmente como <strong>Castlevania</strong>. Eu traduzi tanto a versão japonesa como a versão americana, como vocês podem conferir abaixo:</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Akumajou%20Dracula%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Akumajou%20Dracula%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>Akumajou Dracula traduzido por Mr.Fox</em></p>
+
+<p>Seguem os links para o download da tradução:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/akumajou-dracula-po.b.r.e./">Tradução versão 1.0 do jogo Akumajou Dracula</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/castlevania-po.b.r.e./">Tradução versão 1.0 do jogo Castlevania</a></li>
+</ul>
+
+<p><strong>OBS: Se o Windows Defender acusar falso positivo para vírus no download do patch do Akumajou Dracula, evitem baixar o patch através dos navegadores Microsoft Edge e Google Chrome e usem o Mozilla Firefox em vez disso.</strong></p>
+
+<p>Continuando com os lançamentos, temos a tradução de outros dois jogos que eu sempre quis fazer, mas que só consegui reunir as informações necessárias para concretizá-las no ano passado. Trata-se da tradução para os jogos <strong>The Flintstones - The Rescue of Dino &amp; Hoppy</strong> e <strong>The Flintstones - The Surprise at Dinosaur Peak!</strong> (ambos do sistema Nintendo 8 bits). No caso da tradução do <strong>The Flintstones - The Rescue of Dino &amp; Hoppy</strong>, também foram feitas algumas melhorias nos gráficos e cores do jogo, como vocês poderão conferir ao baixarem a tradução.</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20The%20Flintstones%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20The%20Flintstones%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>The Flintstones - The Rescue of Dino &amp; Hoppy traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20The%20Flintstones%20-%20The%20Surprise%20at%20Dinosaur%20Peak%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20The%20Flintstones%20-%20The%20Surprise%20at%20Dinosaur%20Peak%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>The Flintstones - The Surprise at Dinosaur Peak! traduzido por Mr.Fox</em></p>
+
+<p>Seguem os links para o download das traduções:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/the-flintstones-the-rescue-of-dino-and-hoppy-po.b.r.e./">Tradução versão 1.0 do jogo The Flintstones - The Rescue of Dino &amp; Hoppy</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/the-flintstones-the-surprise-at-dinosaur-peak!-po.b.r.e./">Tradução versão 1.0 do jogo The Flintstones - The Surprise at Dinosaur Peak!</a></li>
+</ul>
+
+<p>Para engrossar a lista de lançamentos, temos mais duas traduções: <strong>Shinobi</strong> (sistema Nintendo 8 bits) e <strong>Psychic World</strong> (sistema Master System).</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Shinobi%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Shinobi%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>Shinobi traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[SMS]%20Psychic%20World%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[SMS]%20Psychic%20World%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>Psychic World traduzido por Mr.Fox</em></p>
+
+<p>OBS: A tradução do <strong>Shinobi</strong> para o idioma português incorpora as melhorias do hack feito pelo romhacker <strong>The Jabu</strong>, que deixa os gráficos do jogo bem mais apresentáveis do que os originais feitos pela Tengen.</p>
+
+<p>Seguem os links para o download das traduções:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/shinobi-po.b.r.e./">Tradução versão 1.0 do jogo Shinobi</a></li>
+  <li><a href="//romhackers.org/traducoes/console/master-system/psychic-world-po.b.r.e./">Tradução versão 1.0 do jogo Psychic World</a></li>
+</ul>
+
+<p>Além disso, temos a tradução do <strong>Chou Wakusei Senki Metafight</strong> (sistema Nintendo 8 bits), que é a versão japonesa do jogo <strong>Blaster Master</strong>, também traduzido por mim em 2005 (e atualizado em 2008).</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Chou-Wakusei%20Senki%20-%20MetaFight%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Chou-Wakusei%20Senki%20-%20MetaFight%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Chou Wakusei Senki Metafight traduzido por Mr.Fox</em></p>
+
+<p>Segue o link para o download da tradução:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/chou-wakusei-senki-metafight-po.b.r.e./">Tradução versão 1.0 do jogo Chou Wakusei Senki Metafight</a></li>
+</ul>
+
+<p>Para finalizar as novas traduções, eu gostaria de anunciar o lançamento de mais uma tradução que há muito tempo eu (também) queria fazer. Trata-se de <strong>Magic John</strong> (sistema Nintendo 8 bits), que é a versão japonesa do jogo <strong>Totally Rad</strong>, também traduzido por mim em 2005 (e atualizado em 2008).</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Magic%20John%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Magic%20John%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Magic John traduzido por Mr.Fox</em></p>
+
+<p>OBS: A tradução do <strong>Magic John</strong> usou como base a tradução para o idioma inglês feita por <strong>Shih Tzu</strong> (The Rad Project) e <strong>KingMike</strong>.</p>
+
+<p>Segue o link para o download da tradução:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/magic-john-po.b.r.e./">Tradução versão 1.0 do jogo Magic John</a></li>
+</ul>
+
+<p>Além do lançamento das novas traduções supracitadas, nós também gostaríamos de anunciar o lançamento das revisões das seguintes traduções: <strong>Batman - The Video Game</strong>, <strong>Batman Beta</strong>, <strong>Batman - Return of the Joker</strong>, <strong>Blaster Master</strong>, <strong>Captain America and The Avengers</strong>, <strong>Dragon Ninja</strong>, <strong>Frankenstein - The Monster Returns</strong>, <strong>Gradius</strong>, <strong>Gradius II</strong>, <strong>Rollergames</strong>, <strong>Shadow of the Ninja</strong> e <strong>Totally Rad</strong> (todas do sistema Nintendo 8 bits). Todas as traduções sofreram correções e melhorias significativas. Algumas traduções, como <strong>Batman - The Video Game</strong>, <strong>Batman Beta</strong> e <strong>Batman - Return of the Joker</strong>, ganharam patches bônus que agregam melhorias aos gráficos do jogo.</p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Batman%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Batman%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>Batman - The Video Game traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Batman%20-%20Return%20of%20the%20Joker%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Batman - Return of the Joker traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Captain%20America%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Captain%20America%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>Captain America and The Avengers traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Dragon%20Ninja%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Dragon%20Ninja%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Dragon Ninja traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Rollergames%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Rollergames%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Rollergames traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Shadow%20of%20the%20Ninja%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Shadow%20of%20the%20Ninja%20-%20POBRE%20-%202.png" alt="" /><br />
+<em>Shadow of the Ninja traduzido por Mr.Fox</em></p>
+
+<p><img src="//img.romhackers.org/traducoes/[NES]%20Totally%20Rad%20-%20POBRE%20-%201.png" alt="" /> <img src="//img.romhackers.org/traducoes/[NES]%20Totally%20Rad%20-%20POBRE%20-%203.png" alt="" /><br />
+<em>Totally Rad traduzido por Mr.Fox</em></p>
+
+<p>Seguem os links para o download das traduções:</p>
+
+<ul>
+  <li><a href="//romhackers.org/traducoes/console/nes/batman-the-video-game-po.b.r.e./">Tradução versão 1.2 do jogo Batman - The Video Game</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/batman-the-video-game-(versao-beta-do-jogo)-po.b.r.e./">Tradução versão 1.1 do jogo Batman Beta</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/batman-return-of-the-joker-po.b.r.e./">Tradução versão 1.1 do jogo Batman - Return of the Joker</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/blaster-master-versao-americana-po.b.r.e./">Tradução versão 1.2 do jogo Blaster Master (ROM americana)</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/blaster-master-versao-europeia-po.b.r.e./">Tradução versão 1.2 do jogo Blaster Master (ROM europeia)</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/captain-america-and-the-avengers-po.b.r.e./">Tradução versão 1.2 do jogo Captain America and the Avengers</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/dragon-ninja-po.b.r.e./">Tradução versão 1.1 do jogo Dragon Ninja</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/frankenstein-the-monster-returns-po.b.r.e./">Tradução versão 1.3 do jogo Frankenstein - The Monster Returns</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/gradius-versao-americana/">Tradução versão 1.1 do jogo Gradius (ROM americana)</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/gradius-versao-japonesa-po.b.r.e./">Tradução versão 1.1 do jogo Gradius (ROM japonesa)</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/gradius-ii-po.b.r.e./">Tradução versão 1.1 do jogo Gradius II</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/rollergames-po.b.r.e./">Tradução versão 1.1 do jogo Rollergames</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/shadow-of-the-ninja-po.b.r.e./">Tradução versão 1.1 do jogo Shadow of the Ninja</a></li>
+  <li><a href="//romhackers.org/traducoes/console/nes/totally-rad-po.b.r.e./">Tradução versão 1.4 do jogo Totally Rad</a></li>
+</ul>
+
+<p>Então é isso, pessoal. A equipe <strong>PO.B.R.E.</strong> gostaria de agradecer a todos aqueles que nos acompanharam e colaboraram conosco ao longo desses longos 11 anos de estrada. Nós desejamos um ótimo divertimento a todos, e fiquem atentos às próximas notícias.</p>
+
+<p>PS: Ao longo desde ano de 2019, nós tentaremos atualizar o cadastro de traduções do <strong>PO.B.R.E.</strong> com os últimos lançamentos da cena brasileira de romhacking feitos entre os anos de 2018/2019 e que ainda não estão disponíveis aqui no site. <img src="//web.archive.org/web/20200928103531im_/http://romhackers.org/uploads/smil470474167631b.gif" alt="" /></p>
+:ET

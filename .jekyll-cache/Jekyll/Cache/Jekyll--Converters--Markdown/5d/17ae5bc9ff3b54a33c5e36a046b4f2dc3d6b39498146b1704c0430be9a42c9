@@ -1,0 +1,16 @@
+I"�<p>Todos os textos do jogo estão traduzidos e acentuados, e a maioria das mensagens em forma de gráfico foi editada.</p>
+
+<p><b>ATENÇÃO</b>:</p>
+
+<p>Você precisará da ROM original <b>SFA.zip</b> (Street Fighter Alpha - Warriors’ Dreams Euro 950727). O pacote de tradução contém 5 patches em formato IPS. Cada IPS deve ser aplicado em um arquivo distinto da sua ROM, conforme a lista abaixo:</p>
+
+<ul>
+  <li>sfzbr-14m.ips -&gt; sfz.14m  (CRC32: 90FEFDB3);</li>
+  <li>sfzbr-16m.ips -&gt; sfz.16m  (CRC32: 5354C948);</li>
+  <li>sfzbr-18m.ips -&gt; sfz.18m  (CRC32: 41A1E790);</li>
+  <li>sfzbr-20m.ips -&gt; sfz.20m  (CRC32: A549DF98);</li>
+  <li>sfzbr-03d.ips -&gt; sfze.03d (CRC32: EBF2054D)</li>
+</ul>
+
+<p>E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nas ROMs e como executar o jogo traduzido em diversos emuladores.</p>
+:ET

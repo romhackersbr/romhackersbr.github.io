@@ -1,0 +1,18 @@
+I"7<p>Esta é uma correção da tradução oficial da Capcom que, por sua vez, continha muitos erros de português.</p>
+
+<p><b>ATENÇÃO</b>:</p>
+
+<p>Você precisará das ROMs originais <b>SFZ2AA.zip</b> (Street Fighter Zero 2 Alpha ASIA 960826) e <b>SFA2.zip</b> (Street Fighter Alpha 2 US 960306). O pacote de tradução contém 7 patches em formato IPS. Cada IPS deve ser aplicado em um arquivo distinto da sua ROM, conforme a lista abaixo:</p>
+
+<ul>
+  <li>szabr.03.ips -&gt; szaa.03 (CRC32: 88e7023e);</li>
+  <li>szabr.04.ips -&gt; szaa.04 (CRC32: ae8ec36e);</li>
+  <li>szabr.05.ips -&gt; szaa.05 (CRC32: f053a55e);</li>
+  <li>sz2br.13m.ips -&gt; sz2.13m (CRC32: 4d1f1f22);</li>
+  <li>sz2br.15m.ips -&gt; sz2.15m (CRC32: 19cea680);</li>
+  <li>sz2br.17m.ips -&gt; sz2.17m (CRC32: e01b4588);</li>
+  <li>sz2br.19m.ips -&gt; sz2.19m (CRC32: 0feeda64)</li>
+</ul>
+
+<p>E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nas ROMs e como fazer o jogo traduzido funcionar em diversos emuladores.</p>
+:ET

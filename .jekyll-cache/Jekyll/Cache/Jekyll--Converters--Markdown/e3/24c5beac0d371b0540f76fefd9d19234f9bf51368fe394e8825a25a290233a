@@ -1,0 +1,12 @@
+I"�<p>Os textos do jogo estão traduzidos e acentuados. Para que a tradução ficasse com um aspecto mais “original”, apenas as frases de vitória, os finais e alguns extras foram traduzidos, seguindo o modelo de várias empresas quando lançavam seus jogos de arcade em vários idiomas.</p>
+
+<p>Você precisará da ROM original <b>powerins.zip</b> (Gouketsuji Ichizoku - Japan). O pacote de tradução contém 3 patches em formato IPS. Cada IPS deve ser aplicado em um arquivo distinto da sua ROM, conforme a lista abaixo:</p>
+
+<ul>
+  <li>93095-1br.u15.ips -&gt; 93095-1.u15 (CRC32: 6a579ee0);</li>
+  <li>93095-3br.u108.ips -&gt; 93095-3j.u108 (CRC32: 3050a3fb);</li>
+  <li>93095-6br.u17.ips -&gt; 93095-6.u17 (CRC32: 29c85d80)</li>
+</ul>
+
+<p>E nós aconselhamos a todos que leiam a documentação que acompanha a tradução, pois ela explica detalhadamente como aplicar os patches nas ROMs e como executar o jogo traduzido em diversos emuladores.</p>
+:ET
