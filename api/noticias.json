@@ -10,7 +10,7 @@ layout: api
       "slug"              : {{ noticia.slug | jsonify }},
       "url"               : {{ noticia.url | jsonify }},
       "date"              : "{{ noticia.date }}",
-      "content"           : {{ noticia.content | strip_newlines | strip_html | jsonify }},
+      "content"           : {{ noticia.content | jsonify }},
       "excerpt"           : {{ noticia.excerpt | strip_newlines | strip_html | jsonify }}    } {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
