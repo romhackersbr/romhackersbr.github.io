@@ -1,0 +1,16 @@
+---
+layout: api
+---
+[
+  {% for noticia in site.noticias %}
+    {
+      "id"                : "{{ noticia.id }}",
+      "title"             : {{ noticia.title  | jsonify }},
+      "author"            : {{ noticia.author | jsonify }},
+      "slug"              : {{ noticia.slug | jsonify }},
+      "url"               : {{ noticia.url | jsonify }},
+      "date"              : "{{ noticia.date }}",
+      "content"           : {{ noticia.content | strip_newlines | strip_html | jsonify }},
+      "excerpt"           : {{ noticia.excerpt | strip_newlines | strip_html | jsonify }}    } {% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+]
