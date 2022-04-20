@@ -13,7 +13,7 @@ layout: api
               "game_players"      : {{ traducao.game_players  | jsonify }},
               "game_developer"    : {{ traducao.game_developer  | jsonify }},
               "game_publisher"    : {{ traducao.game_publisher  | jsonify }},
-              "game_release_date" : {{ traducao.game_release_date  | jsonify }},
+              "game_release_date" : "{{ traducao.game_release_date }}",
               "patch_author"      : {{ traducao.patch_author | jsonify }},
               "patch_group"       : {{ traducao.patch_group  | jsonify }},
               "patch_site"        : {{ traducao.patch_site | jsonify }},

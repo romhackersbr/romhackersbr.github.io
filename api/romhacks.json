@@ -9,11 +9,25 @@ layout: api
       "system"            : {{ romhack.system  | jsonify  }},
       "platform"          : {{ romhack.platform  | jsonify }},
       "game_title"        : {{ romhack.game_title  | jsonify }},
+      "game_category"     : {{ romhack.game_category  | jsonify }},
+      "game_players"      : {{ romhack.game_players  | jsonify }},
+      "game_developer"    : {{ romhack.game_developer  | jsonify }},
+      "game_publisher"    : {{ romhack.game_publisher  | jsonify }},
+      "game_release_date" : "{{ romhack.game_release_date }}",
       "patch_author"      : {{ romhack.patch_author | jsonify }},
       "patch_group"       : {{ romhack.patch_group  | jsonify }},
+      "patch_site"        : {{ romhack.patch_site | jsonify }},
+      "patch_version"     : {{ romhack.patch_version | jsonify }},
+      "patch_release"     : {{ romhack.patch_release | jsonify }},
+      "patch_type"        : {{ romhack.patch_type | jsonify }},
+      "patch_progress"    : {{ romhack.patch_progress | jsonify }},
+      "patch_file"        : {{ romhack.patch_file | jsonify }},
+      "patch_images"      : {{ romhack.patch_images | jsonify }},
       "url"               : {{ romhack.url | jsonify }},
       "date"              : "{{ romhack.date }}",
       "content"           : {{ romhack.content | strip_newlines | strip_html | jsonify }},
-      "excerpt"           : {{ romhack.excerpt | strip_newlines | strip_html | jsonify }}    } {% if forloop.last %}{% else %},{% endif %}
+      "excerpt"           : {{ romhack.excerpt | strip_newlines | strip_html | jsonify }}
+    }
+  {% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
 ]
