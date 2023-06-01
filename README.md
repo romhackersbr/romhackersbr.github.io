@@ -59,6 +59,9 @@ git submodule update --remote --merge
 
 
 # Colaboradores
+- [Anime_World](https://github.com/hansbonini)
+- [DevilFox](https://github.com/devilfox)
+
 
 # Patrocinadores
 
