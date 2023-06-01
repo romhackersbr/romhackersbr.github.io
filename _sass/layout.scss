@@ -57,7 +57,12 @@
 
 @media (max-width: 768px) {
   #sidebar {
-    margin-left: -12rem;
+    margin-left: -22rem;
+    width: 22rem;
+    z-index: 99;
+  }
+  #sidebar .nav-link {
+    font-size:2.25rem;
   }
   #sidebar.active {
     margin-left: 0;
@@ -67,7 +72,7 @@
     margin: 0;
   }
   #content.active {
-    margin-left: 12rem;
+    margin-left: 22rem;
     width: 100%;
   }
 }
@@ -176,6 +181,9 @@ th[scope=row] {
   padding: 10px;
 }
 @media (max-width: 768px) {
+  .fa-pobre {
+    background-size: contain;
+  }
   .tt-menu {
     max-width:100%!important;
     top: 120px!important;
