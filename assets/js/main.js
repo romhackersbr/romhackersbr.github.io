@@ -101,7 +101,7 @@ $(function () {
 
   // Forum RSS
   const RSS_URL =
-    "//api.allorigins.win/get?url=http%3A//www.romhacking.net.br/index.php%3Ftype%3Drss%3Baction%3D.xml";
+    "//www.romhacking.net.br/index.php?action=.xml;type=rss";
 
   $.getJSON(RSS_URL, function (data) {
     $(data.contents)
