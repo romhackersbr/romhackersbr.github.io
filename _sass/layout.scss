@@ -151,9 +151,15 @@ th[scope=row] {
   z-index: 100!important;
   background: rgba(240, 240, 240, 0.9);
   width: 100%;
-  height: 100%;
+  height: calc(100% - 60px);
   text-align: center;
   padding: 2rem 0px;
+}
+@media (max-width: 768px) {
+  .tt-menu {
+    top: 120px!important;
+    height: calc(100% - 120px) !important;
+  }
 }
 .tt-dataset {
   display: inline-grid;
