@@ -43,8 +43,7 @@
 }
 
 .noticias-conteudo img {
-  max-width: calc(80% - 12rem);
-  height: auto;
+  max-width: calc(100% - 1rem) !important;
 }
 
 #sidebar.active {
