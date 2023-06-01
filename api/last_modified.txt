@@ -1,6 +1,0 @@
----
-layout: nil
----
-{% for utilitario in site.utilitarios limit:1 %}
-    {{ utilitario | jsonify }}
-{% endfor %}

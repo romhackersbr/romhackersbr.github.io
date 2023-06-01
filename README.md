@@ -46,7 +46,7 @@ Com Ruby, Gem e Bundler instalado podemos prosseguir com a instalação do Jekyl
 
 E finalmente podemos rodar o servidor localmente para testes com:
 ```
- bundle exec jekyll serve -c _config.deployment.xml -w
+ bundle exec jekyll serve -c _config.development.xml -w
 ```
 
 
@@ -54,6 +54,10 @@ E finalmente podemos rodar o servidor localmente para testes com:
 Para sincronizar o dados armazenados no repositório de banco de dados basta rodar o seguinte comando:
 ```
 git submodule update --remote --merge
+```
+ou usar o script de sincronização:
+```
+./sincronizar_banco.sh
 ```
 É extremamente recomendado que antes de cada `commit` o banco seja sincronizado
 
