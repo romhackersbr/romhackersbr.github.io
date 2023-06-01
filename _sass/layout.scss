@@ -155,12 +155,6 @@ th[scope=row] {
   text-align: center;
   padding: 2rem 0px;
 }
-@media (max-width: 768px) {
-  .tt-menu {
-    top: 120px!important;
-    height: calc(100% - 120px) !important;
-  }
-}
 .tt-dataset {
   display: inline-grid;
   width: 100%;
@@ -184,6 +178,8 @@ th[scope=row] {
 @media (max-width: 768px) {
   .tt-menu {
     max-width:100%!important;
+    top: 120px!important;
+    height: calc(100% - 120px) !important;
   }
   .tt-suggestion.tt-selectable {
     font-size: 0.75rem;
