@@ -42,6 +42,11 @@
   transition: all 0.4s;
 }
 
+.noticias-conteudo img {
+  max-width: calc(80% - 12rem);
+  height: auto;
+}
+
 #sidebar.active {
   margin-left: -12rem;
 }
