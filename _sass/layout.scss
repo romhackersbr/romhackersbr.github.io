@@ -143,6 +143,7 @@ th[scope=row] {
   width: 100%;
 }
 .tt-menu {
+  overflow-y: auto;
   position: fixed!important;
   top: 60px!important;
   left: 0px!important;
@@ -155,7 +156,7 @@ th[scope=row] {
 }
 .tt-dataset {
   display: inline-grid;
-  width: 40%;
+  max-width: -webkit-fill-available;
   margin: 18px 10px;
 }
 .tt-suggestion.tt-selectable {
