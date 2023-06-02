@@ -99,24 +99,24 @@ $(function () {
     window.location.href = suggestion.url;
   });
 
-  // Forum RSS
-  const RSS_URL =
-    "//www.romhacking.net.br/index.php?action=.xml;type=rss";
+  // // Forum RSS
+  // const RSS_URL =
+  //   "//www.romhacking.net.br/index.php?action=.xml;type=rss";
 
-  $.getJSON(RSS_URL, function (data) {
-    $(data.contents)
-      .find("item")
-      .each(function () {
-        const $el = $(this);
-        const title = $el.find("title").text();
-        const link = $el.find("guid").text();
-        const template =
-          '<li class="list-group-item"><a href="' +
-          link +
-          '" target="_blank" rel="noopener">' +
-          title +
-          "</a></li>";
-        $("#forum-latest").append(template);
-      });
-  });
+  // $.getJSON(RSS_URL, function (data) {
+  //   $(data.contents)
+  //     .find("item")
+  //     .each(function () {
+  //       const $el = $(this);
+  //       const title = $el.find("title").text();
+  //       const link = $el.find("guid").text();
+  //       const template =
+  //         '<li class="list-group-item"><a href="' +
+  //         link +
+  //         '" target="_blank" rel="noopener">' +
+  //         title +
+  //         "</a></li>";
+  //       $("#forum-latest").append(template);
+  //     });
+  // });
 });
